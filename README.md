@@ -17,8 +17,8 @@ open your teminal<br>
 **Step3**:<br>
 run following commands in your terminal<br>
 ```
-ollama serve<br>
-ollama pull llama3.2:3b  & ollama pull nomic-embed-text<br>
+ollama serve
+ollama pull llama3.2:3b  & ollama pull nomic-embed-text
 ```
 
 ### Python requiremnet
