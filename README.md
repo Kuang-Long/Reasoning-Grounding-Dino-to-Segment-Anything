@@ -11,14 +11,15 @@ https://ollama.com/download/linux<br>
 ```
 curl -fsSL https://ollama.com/install.sh | sh
 ```
-<br>
+
 **Step2**:<br>
 open your teminal<br>
-<br>
 **Step3**:<br>
 run following commands in your terminal<br>
-\$ ollama serve<br>
-\$ ollama pull llama3.2:3b  & ollama pull nomic-embed-text<br>
+```
+ollama serve<br>
+ollama pull llama3.2:3b  & ollama pull nomic-embed-text<br>
+```
 
 ### Python requiremnet
 python version required: python>=3.11
