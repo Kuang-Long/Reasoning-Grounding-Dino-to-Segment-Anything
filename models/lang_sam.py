@@ -3,6 +3,7 @@ from PIL import Image
 
 from models import GDINO
 from models import SAM
+from utils import draw_image
 
 class LangSAM:
     def __init__(self, sam_type="sam2.1_hiera_small", ckpt_path: str | None = None):
@@ -14,67 +15,88 @@ class LangSAM:
 
     def predict(
         self,
-        images_pil: list[Image.Image],
-        texts_prompt: list[str],
+        image_pil: Image.Image,
+        text_prompt: str,
         box_threshold: float = 0.3,
         text_threshold: float = 0.25,
     ):
-        """Predicts masks for given images and text prompts using GDINO and SAM models.
+        """Predicts masks for a given image and text prompt using GDINO and SAM models.
 
         Parameters:
-            images_pil (list[Image.Image]): List of input images.
-            texts_prompt (list[str]): List of text prompts corresponding to the images.
+            image_pil (Image.Image): Input image.
+            text_prompt (str): Text prompt corresponding to the image.
             box_threshold (float): Threshold for box predictions.
             text_threshold (float): Threshold for text predictions.
 
         Returns:
-            list[dict]: List of results containing masks and other outputs for each image.
+            dict: Result containing masks and other outputs for the image.
             Output format:
-            [{
+            {
                 "boxes": np.ndarray,
                 "scores": np.ndarray,
                 "masks": np.ndarray,
                 "mask_scores": np.ndarray,
-            }, ...]
+            }
         """
 
-        gdino_results = self.gdino.predict(images_pil, texts_prompt, box_threshold, text_threshold)
-        all_results = []
-        sam_images = []
-        sam_boxes = []
-        sam_indices = []
-        for idx, result in enumerate(gdino_results):
-            processed_result = {
-                **result,
-                "masks": [],
-                "mask_scores": [],
-            }
+        gdino_results = self.gdino.predict([image_pil], [text_prompt], box_threshold, text_threshold)
+        result = gdino_results[0]
 
-            if result["labels"]:
-                processed_result["boxes"] = result["boxes"].cpu().numpy()
-                processed_result["scores"] = result["scores"].cpu().numpy()
-                sam_images.append(np.asarray(images_pil[idx]))
-                sam_boxes.append(processed_result["boxes"])
-                sam_indices.append(idx)
+        processed_result = {
+            **result,
+            "masks": [],
+            "mask_scores": [],
+        }
 
-            all_results.append(processed_result)
-        if sam_images:
-            print(f"Predicting {len(sam_boxes)} masks")
-            masks, mask_scores, _ = self.sam.predict_batch(sam_images, xyxy=sam_boxes)
-            for idx, mask, score in zip(sam_indices, masks, mask_scores):
-                all_results[idx].update(
-                    {
-                        "masks": mask,
-                        "mask_scores": score,
-                    }
-                )
-            print(f"Predicted {len(all_results)} masks")
-        return all_results
+        if result["labels"]:
+            processed_result["boxes"] = result["boxes"].cpu().numpy()
+            processed_result["scores"] = result["scores"].cpu().numpy()
+            sam_image = np.asarray(image_pil)
+            sam_boxes = processed_result["boxes"]
 
+            print(f"Predicting masks for the given image")
+            masks, mask_scores, _ = self.sam.predict_batch([sam_image], xyxy=[sam_boxes])
+            processed_result.update(
+                {
+                    "masks": masks[0],
+                    "mask_scores": mask_scores[0],
+                }
+            )
+            print(f"Predicted masks for the image")
+
+        return processed_result
+
+    def run_inference(self, image: Image.Image, text_prompt: str, box_threshold=0.3, text_threshold=0.25) -> Image.Image:
+        # Model inference
+        print("Running inference...")
+        results = self.predict(
+            image_pil=image,
+            text_prompt=text_prompt,
+            box_threshold=box_threshold,
+            text_threshold=text_threshold,
+        )
+
+        # If no objects are detected, return the original image
+        if results["masks"] is None or len(results["masks"]) == 0:
+            print("No masks detected. Returning original image.")
+            return image
+
+        # Draw the results
+        image_array = np.asarray(image)
+        output_image = draw_image(
+            image_array,
+            results["masks"],
+            results["boxes"],
+            results["scores"],
+            results["labels"],
+        )
+        output_image = Image.fromarray(np.uint8(output_image)).convert("RGB")
+
+        return output_image
+    
 if __name__ == "__main__":
     model = LangSAM()
-    out = model.predict(
-        [Image.open("./assets/food.jpg"), Image.open("./assets/car.jpeg")],
-        ["food", "car"],
-    )
-    print(out)
+    image = Image.open("./assets/food.jpg")
+    prompt = "food"
+    output = model.predict(image, prompt)
+    print(output)

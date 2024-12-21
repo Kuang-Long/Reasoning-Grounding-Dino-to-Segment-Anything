@@ -2,9 +2,9 @@ from PIL import Image
 from models import Llava
 from models import Llama
 from models import QuestionDetector
-from models import BoundingBoxSAM
+from models import LangSAM
 
-def main(inp, image_path, image_url):
+def main(inp, image_path):
     # load image
     image = Image.open(image_path).convert('RGB')
     
@@ -41,20 +41,17 @@ def main(inp, image_path, image_url):
         print('------------------------------------------------------------------------------------------------------------------------------------------------------------------------------')
         
     # Image segmentation with langsam
-    bbox_sam = BoundingBoxSAM(token=token)
+    langsam = LangSAM(sam_type="sam2.1_hiera_small")
     if is_question:
-        bbox_sam.process_image(image_url, image_path, ans[0], output_path=f'output_images/{image_name}')
+        output = langsam.run_inference(image, ans[0])
     else:
-        bbox_sam.process_image(image_url, image_path, ans, output_path=f'output_images/{image_name}')
+        output = langsam.run_inference(image, ans)
+
+    output.save(f'output_images/{image_name}')
 
 # Example usage
 if __name__ == "__main__":
-    # use ur token here
-    token = "your token" 
     while(True):
         inp = input('Prompt: ')
         image_path = input('Image path: ')
-        image_url = input('url: ')
-        if image_url.endswith('0'):
-            image_url = image_url[:len(image_url)-1] + '1'
-        main(inp, image_path, image_url)
+        main(inp, image_path)
