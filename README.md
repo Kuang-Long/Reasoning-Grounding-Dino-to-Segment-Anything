@@ -44,3 +44,4 @@ For `main_pro.py`, you need to go [here](https://cloud.deepdataspace.com/docs#/a
 ```
 python main_pro.py
 ```
+For the image url, you need to upload your image to [Dropbox](https://www.dropbox.com/) and share them.
