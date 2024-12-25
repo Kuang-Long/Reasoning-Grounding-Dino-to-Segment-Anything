@@ -17,6 +17,7 @@ curl -fsSL https://ollama.com/install.sh | sh
 ```
 **Step2**:
 open your teminal
+
 **Step3**:
 run following commands in your terminal
 ```
