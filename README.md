@@ -5,10 +5,15 @@
 python version required: `python>=3.11` in linux
 
 ### Install Ollama
+
 **Hardware Requirements**
-**CPU**: Multicore processor
-**RAM**: Minimum of 16 GB recommended
-**GPU**: NVIDIA RTX series (for optimal performance), at least 8 GB VRAM
+
+- **CPU**: Multicore processor
+
+- **RAM**: Minimum of 16 GB recommended
+
+- **GPU**: NVIDIA RTX series (for optimal performance), at least 8 GB VRAM
+
 **Step1**:
 Download ollama from this site according to your operating system
 https://ollama.com/download/linux
