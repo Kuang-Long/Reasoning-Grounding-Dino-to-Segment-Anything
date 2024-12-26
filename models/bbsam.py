@@ -56,36 +56,66 @@ class BoundingBoxSAM:
 
         raise Exception("Max retries reached without a successful result.")
 
-    def run_sam_inference(self, image_path: str, bbox: list[float]):
+    def run_sam_inference(self, image_path: str, bbox: list[list[float]]):
         # Load the image
         image_pil = Image.open(image_path).convert("RGB")
         image_array = np.asarray(image_pil)
 
-        # Prepare bounding box for SAM
-        bbox_np = np.array([bbox], dtype=np.float32)  # Ensure 2D array
+        # Prepare results
+        results = []
+        
+        # Predict masks for each bounding box
+        for box in bbox:
+            box_np = np.array(box, dtype=np.float32)
+            print(box_np)
+            masks, scores, logits = self.sam_model.predict(image_array, box_np)
+            results.append({
+                "box": box,
+                "masks": masks,
+                "scores": scores,
+                "logits": logits
+            })
 
-        # Predict masks
-        masks, scores, logits = self.sam_model.predict(image_rgb=image_array, xyxy=bbox_np)
-
-        if masks is None or len(masks) == 0:
+        if not any(result["masks"].size > 0 for result in results):
             print("No masks detected.")
             return image_pil
 
         # Draw results
+        all_masks = np.array(np.concatenate([result["masks"] for result in results], axis=0))
+        all_boxes = np.array([result["box"] for result in results])
+        all_scores = np.array([result["scores"] for result in results])
+        all_scores = np.array([p.item() for p in all_scores], dtype=np.float32)
+
+
         output_image = draw_image(
-            image_rgb=image_array,
-            masks=masks,
-            xyxy=bbox_np,
-            probs=scores,
-            labels=["Detected Object"],
+            image_array,
+            all_masks,
+            all_boxes,
+            all_scores,
+            np.array([""] * len(all_boxes))
         )
+
+        # print('mask')
+        # print(masks)
+        # masks = masks[0]
+        # normalized_array = (masks - masks.min()) / (masks.max() - masks.min()) * 255
+        # normalized_array = normalized_array.astype(np.uint8)
+
+        # # Convert to a PIL image
+        # image = Image.fromarray(normalized_array, mode='L')  # 'L' mode is for grayscale
+
+        # # Save or display the image
+        # image.save('black_white_image.png')  # Save as a file
+        # image.show()  # Display the image
+
         return Image.fromarray(np.uint8(output_image)).convert("RGB")
 
     def process_image(self, image_url: str, local_image_path: str, prompt: str, output_path: str):
         try:
             # Step 1: Send detection request
-            task_uuid = self.send_detection_request(image_url, prompt)
+            # task_uuid = self.send_detection_request(image_url, prompt)
 
+            task_uuid= 'f8beff37-aa62-453c-95b5-c9dd551b4f59'
             # Step 2: Poll for detection result
             detection_result = self.poll_detection_result(task_uuid)
 
@@ -95,7 +125,8 @@ class BoundingBoxSAM:
                 print("No objects detected.")
                 return None
 
-            bbox = objects[0]["bbox"]
+            # bbox = objects[0]["bbox"]
+            bbox = [obj["bbox"] for obj in objects]
             print(f"Bounding Box: {bbox}")
 
             # Step 4: Run SAM inference
