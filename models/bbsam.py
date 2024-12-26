@@ -3,7 +3,7 @@ import requests
 import numpy as np
 from PIL import Image
 from models import SAM
-from utils import draw_image
+from utils import draw_image, draw_masks
 
 class BoundingBoxSAM:
     def __init__(self, token: str, sam_type="sam2.1_hiera_small"):
@@ -67,7 +67,6 @@ class BoundingBoxSAM:
         # Predict masks for each bounding box
         for box in bbox:
             box_np = np.array(box, dtype=np.float32)
-            print(box_np)
             masks, scores, logits = self.sam_model.predict(image_array, box_np)
             results.append({
                 "box": box,
@@ -95,27 +94,14 @@ class BoundingBoxSAM:
             np.array([""] * len(all_boxes))
         )
 
-        # print('mask')
-        # print(masks)
-        # masks = masks[0]
-        # normalized_array = (masks - masks.min()) / (masks.max() - masks.min()) * 255
-        # normalized_array = normalized_array.astype(np.uint8)
+        return Image.fromarray(np.uint8(output_image)).convert("RGB"), all_masks
 
-        # # Convert to a PIL image
-        # image = Image.fromarray(normalized_array, mode='L')  # 'L' mode is for grayscale
-
-        # # Save or display the image
-        # image.save('black_white_image.png')  # Save as a file
-        # image.show()  # Display the image
-
-        return Image.fromarray(np.uint8(output_image)).convert("RGB")
-
-    def process_image(self, image_url: str, local_image_path: str, prompt: str, output_path: str):
+    def process_image(self, image_url: str, local_image_path: str, prompt: str):
         try:
             # Step 1: Send detection request
             # task_uuid = self.send_detection_request(image_url, prompt)
 
-            task_uuid= 'f8beff37-aa62-453c-95b5-c9dd551b4f59'
+            task_uuid = 'c88da71e-2810-4f45-983b-a0d732430906'
             # Step 2: Poll for detection result
             detection_result = self.poll_detection_result(task_uuid)
 
@@ -124,17 +110,10 @@ class BoundingBoxSAM:
             if not objects:
                 print("No objects detected.")
                 return None
-
-            # bbox = objects[0]["bbox"]
             bbox = [obj["bbox"] for obj in objects]
-            print(f"Bounding Box: {bbox}")
 
             # Step 4: Run SAM inference
-            output_image = self.run_sam_inference(local_image_path, bbox)
-
-            # Step 5: Show or save the output
-            output_image.save(output_path)
-            return output_image
+            return self.run_sam_inference(local_image_path, bbox)
 
         except Exception as e:
             print(f"Error: {e}")

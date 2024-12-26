@@ -1,6 +1,7 @@
-from PIL import Image
-from models import Llava, Llama, QuestionDetector, BoundingBoxSAM
 import re
+from PIL import Image
+from utils import draw_masks
+from models import Llava, Llama, QuestionDetector, BoundingBoxSAM
 
 def main(inp, image_path, image_url):
     image = Image.open(image_path).convert('RGB')
@@ -98,22 +99,20 @@ def main(inp, image_path, image_url):
     
     image_name = str(image_path).split('/')
     image_name = image_name[len(image_name) - 1]
+    output_path=f'output_images/{image_name}'
+    output_mask_path=f'output_images/masks/{image_name}'
     token = "e68a3624c8ab6b42c4de6f9b5cfb8b67"  # 替換為您的 token
     bbox_sam = BoundingBoxSAM(token=token)
-    bbox_sam.process_image(image_url, image_path, final_object, output_path=f'output_images/{image_name}')
+    output, masks = bbox_sam.process_image(image_url, image_path, final_object)
+    output.save(output_path)
+    draw_masks(masks, output_mask_path)
 
 # Example usage
 if __name__ == "__main__":
-    url = 'https://www.dropbox.com/scl/fi/51chdqy8d2ngsd0j17ebc/car.jpg?rlkey=fe1tfaa559amebgyg5n6pw661&st=g7hugr0g&dl=1'
-    image_path = '/home/kl/llm/Reasoning-Grounding-Dino-to-Segment-Anything/input_images/car.jpg'
-    token = "e68a3624c8ab6b42c4de6f9b5cfb8b67"  # 替換為您的 token
-    bbox_sam = BoundingBoxSAM(token=token)
-
-    bbox_sam.process_image(url, image_path, 'wheels', output_path=f'output_images/111.png')
-    # while(True):
-    #     inp = input('Prompt: ')
-    #     image_path = input('Image path: ')
-    #     image_url = input('url: ')
-    #     if image_url.endswith('0'):
-    #         image_url = image_url[:len(image_url)-1] + '1'
-    #     main(inp, image_path, image_url)
+    while(True):
+        inp = input('Prompt: ')
+        image_path = input('Image path: ')
+        image_url = input('url: ')
+        if image_url.endswith('0'):
+            image_url = image_url[:len(image_url)-1] + '1'
+        main(inp, image_path, image_url)
