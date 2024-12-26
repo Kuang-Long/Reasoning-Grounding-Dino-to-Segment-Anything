@@ -100,9 +100,9 @@ class BoundingBoxSAM:
     def process_image(self, image_url: str, local_image_path: str, prompt: str, output_path: str):
         try:
             # Step 1: Send detection request
-            # task_uuid = self.send_detection_request(image_url, prompt)
+            task_uuid = self.send_detection_request(image_url, prompt)
 
-            task_uuid= 'f8beff37-aa62-453c-95b5-c9dd551b4f59'
+            task_uuid= task_uuid
             # Step 2: Poll for detection result
             detection_result = self.poll_detection_result(task_uuid)
 
