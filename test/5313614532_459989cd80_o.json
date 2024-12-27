@@ -1,0 +1,47 @@
+{
+  "text": [
+    "In modern times, what object do people often use to listen to the radio, keep track of time, and set alarms?",
+    "Which object do individuals typically use in modern times for purposes such as listening to the radio, keeping track of time, and setting alarms?",
+    "What item do people commonly use as a means of listening to the radio, tracking time, and setting alarms in modern times?",
+    "Which object is frequently used by people in modern times to listen to the radio, keep track of time, and set alarms?",
+    "Currently, what is the most commonly used object that people use to listen to the radio, keep track of time, and set alarms?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5313614532_459989cd80_o.jpg",
+      "points": [
+        [
+          1672.3076923076922,
+          380.0
+        ],
+        [
+          1664.6153846153845,
+          1715.3846153846152
+        ],
+        [
+          1641.5384615384614,
+          1727.6923076923076
+        ],
+        [
+          0.0,
+          1809.230769230769
+        ],
+        [
+          0.0,
+          340.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "text": [
+    "The kitchen is an important place for cooking and food processing. What object in the kitchen is mainly used for baking or roasting food?",
+    "In the kitchen, which object is primarily utilized for baking or roasting food?",
+    "What object in the kitchen is commonly used for baking or roasting food?",
+    "In a kitchen where cooking and food processing are performed, what object is primarily utilized for baking or roasting food?",
+    "The object in the kitchen that is primarily used for baking or roasting food.",
+    "What kitchen appliance is primarily used for baking or roasting food?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0149_00_0.jpg",
+      "points": [
+        [
+          206.70859538784066,
+          85.53459119496854
+        ],
+        [
+          203.77358490566036,
+          88.67924528301886
+        ],
+        [
+          200.41928721174003,
+          163.52201257861634
+        ],
+        [
+          204.40251572327043,
+          164.57023060796644
+        ],
+        [
+          206.0796645702306,
+          164.9895178197065
+        ],
+        [
+          268.3438155136268,
+          120.96436058700209
+        ],
+        [
+          278.6163522012578,
+          63.52201257861635
+        ],
+        [
+          281.55136268343813,
+          61.844863731656176
+        ],
+        [
+          283.2285115303983,
+          59.53878406708595
+        ],
+        [
+          280.293501048218,
+          57.232704402515715
+        ],
+        [
+          279.2452830188679,
+          56.18448637316561
+        ],
+        [
+          211.3207547169811,
+          85.32494758909853
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

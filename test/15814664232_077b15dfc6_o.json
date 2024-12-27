@@ -1,0 +1,146 @@
+{
+  "text": [
+    "When leaving a car in a public parking lot, it is important to take note of certain information for identification purposes. What part of the car in the picture typically displays this information?",
+    "When parking a car in a public parking lot, it is important to remember certain details for identification purposes. What part of the car in the picture usually displays this information?",
+    "When leaving a car in a public parking lot, which part of the vehicle in this picture typically displays the information that is required for identification purposes?",
+    "When leaving a car in a public parking lot, it is important to note specific vehicle information for identification purposes. Please tell me which part of the car in the picture typically displays this information?",
+    "When parking in a public parking lot, what part of the car in the picture displays crucial information for identification purposes?",
+    "When parking a car in a public lot, it is important to take note of certain details for identification purposes. What part of the car in the picture typically displays this information?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "15814664232_077b15dfc6_o.jpg",
+      "points": [
+        [
+          388.0,
+          55.8
+        ],
+        [
+          400.8,
+          58.3
+        ],
+        [
+          412.0,
+          61.1
+        ],
+        [
+          422.1,
+          63.6
+        ],
+        [
+          424.3,
+          64.2
+        ],
+        [
+          423.9,
+          65.8
+        ],
+        [
+          419.7,
+          72.1
+        ],
+        [
+          418.0,
+          72.2
+        ],
+        [
+          382.4,
+          64.1
+        ],
+        [
+          381.9,
+          63.5
+        ],
+        [
+          386.9,
+          56.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "15814664232_077b15dfc6_o.jpg",
+      "points": [
+        [
+          189.4,
+          31.9
+        ],
+        [
+          208.9,
+          35.0
+        ],
+        [
+          211.5,
+          35.9
+        ],
+        [
+          210.0,
+          39.2
+        ],
+        [
+          207.3,
+          40.7
+        ],
+        [
+          184.5,
+          37.2
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "15814664232_077b15dfc6_o.jpg",
+      "points": [
+        [
+          354.5,
+          27.7
+        ],
+        [
+          370.5,
+          29.2
+        ],
+        [
+          371.5,
+          33.2
+        ],
+        [
+          370.4,
+          34.9
+        ],
+        [
+          354.1,
+          32.7
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

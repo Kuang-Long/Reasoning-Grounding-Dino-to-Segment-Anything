@@ -1,0 +1,72 @@
+{
+  "text": [
+    "When someone is reading a book or a magazine and wants to take a break, they may need a specific object to mark their place. What item in the picture is commonly used for this purpose?",
+    "What object seen in the picture is frequently utilized to help someone mark their place when taking a break while reading a book or a magazine?",
+    "What object could be utilized to mark a reader's place when they take a break from reading a book or a magazine in the given picture?",
+    "What object in the image is frequently used to mark one's place when taking a break from reading a book or a magazine?",
+    "When someone is reading a book or a magazine, and they want to take a break, what item could they use to mark their place?",
+    "What item in the picture is commonly used as a bookmark for someone reading a book or magazine who wants to take a break and come back to the same spot?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "3515753460_dc017742db_o.jpg",
+      "points": [
+        [
+          955.1587301587301,
+          615.6746031746031
+        ],
+        [
+          945.8333333333334,
+          613.0952380952381
+        ],
+        [
+          922.0238095238095,
+          606.547619047619
+        ],
+        [
+          903.3730158730159,
+          604.563492063492
+        ],
+        [
+          870.0396825396825,
+          599.6031746031746
+        ],
+        [
+          853.1746031746031,
+          597.0238095238095
+        ],
+        [
+          852.5793650793651,
+          594.6428571428571
+        ],
+        [
+          840.2777777777778,
+          441.07142857142856
+        ],
+        [
+          841.6666666666666,
+          439.6825396825397
+        ],
+        [
+          929.3650793650794,
+          455.1587301587302
+        ],
+        [
+          931.3492063492064,
+          457.93650793650795
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

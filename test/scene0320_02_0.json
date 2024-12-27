@@ -1,0 +1,144 @@
+{
+  "text": [
+    "Suppose you are a student and need to bring all the required supplies to the library for self-study. What object can be used to facilitate transportation?",
+    "If you need to bring all your required supplies to the library for self-study, what object could you utilize to streamline transportation of these items?",
+    "If you need to bring all of your required supplies to the library for self-study, what object could you utilize to facilitate transportation?",
+    "If you need to bring all the required supplies to the library for self-study, which object in the picture could be utilized to facilitate transportation?",
+    "As a student, you need to bring all the necessary supplies to the library for self-study. What item could be utilized to make transportation more convenient?",
+    "If you need to bring all of your study supplies to the library for self-study while you are a student, what object could you use to simplify transportation of the items?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0320_02_0.jpg",
+      "points": [
+        [
+          99.81818181818181,
+          149.6103896103896
+        ],
+        [
+          91.24675324675324,
+          156.62337662337663
+        ],
+        [
+          79.03896103896103,
+          167.53246753246754
+        ],
+        [
+          73.06493506493506,
+          180.0
+        ],
+        [
+          63.71428571428571,
+          201.03896103896105
+        ],
+        [
+          60.5974025974026,
+          206.23376623376623
+        ],
+        [
+          61.37662337662338,
+          212.72727272727272
+        ],
+        [
+          62.41558441558442,
+          216.1038961038961
+        ],
+        [
+          61.116883116883116,
+          217.4025974025974
+        ],
+        [
+          52.285714285714285,
+          216.62337662337663
+        ],
+        [
+          47.090909090909086,
+          217.9220779220779
+        ],
+        [
+          43.97402597402597,
+          222.5974025974026
+        ],
+        [
+          45.01298701298701,
+          227.012987012987
+        ],
+        [
+          50.467532467532465,
+          230.3896103896104
+        ],
+        [
+          55.92207792207792,
+          227.012987012987
+        ],
+        [
+          64.49350649350649,
+          221.55844155844156
+        ],
+        [
+          71.76623376623377,
+          221.8181818181818
+        ],
+        [
+          81.8961038961039,
+          236.62337662337663
+        ],
+        [
+          82.15584415584415,
+          238.96103896103895
+        ],
+        [
+          119.03896103896103,
+          239.0
+        ],
+        [
+          129.94805194805195,
+          213.76623376623377
+        ],
+        [
+          135.66233766233765,
+          194.54545454545453
+        ],
+        [
+          134.62337662337663,
+          182.85714285714286
+        ],
+        [
+          136.1818181818182,
+          183.37662337662337
+        ],
+        [
+          135.66233766233765,
+          175.06493506493507
+        ],
+        [
+          131.76623376623377,
+          165.97402597402598
+        ],
+        [
+          125.79220779220779,
+          161.03896103896105
+        ],
+        [
+          111.5064935064935,
+          153.24675324675323
+        ],
+        [
+          106.21468926553672,
+          148.7758945386064
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

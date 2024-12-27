@@ -1,0 +1,71 @@
+{
+  "text": [
+    "Where would you keep your clothing like shirts, pants, and dresses if you are in your bedroom?",
+    "If you were in a bedroom, where would you store your clothing items such as shirts, pants, and dresses?",
+    "Suppose you are in your bedroom, where would you typically store clothing items such as shirts, pants, and dresses?",
+    "In a bedroom, where would you typically store your clothes, such as shirts, pants, and dresses?",
+    "If you were inside your bedroom and wanted to store your clothes such as shirts, pants, and dresses, where would you place them?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0468_00_0.jpg",
+      "points": [
+        [
+          40.33766233766234,
+          2.5974025974025974
+        ],
+        [
+          74.62337662337661,
+          189.6103896103896
+        ],
+        [
+          78.77922077922078,
+          198.7012987012987
+        ],
+        [
+          83.1948051948052,
+          197.9220779220779
+        ],
+        [
+          85.79220779220779,
+          196.62337662337663
+        ],
+        [
+          192.02597402597402,
+          219.74025974025975
+        ],
+        [
+          199.55844155844156,
+          71.94805194805194
+        ],
+        [
+          201.63636363636363,
+          68.83116883116882
+        ],
+        [
+          206.57142857142856,
+          68.57142857142857
+        ],
+        [
+          225.27272727272728,
+          26.493506493506494
+        ],
+        [
+          226.3116883116883,
+          1.2987012987012987
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

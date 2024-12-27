@@ -1,0 +1,51 @@
+{
+  "text": [
+    "What object on the wall can we use to check the current time?",
+    "What object mounted on the wall would allow us to accurately determine the current time?",
+    "What item positioned on the wall serves as a tool for checking the current time?",
+    "What object on the wall could be used to determine the current time?",
+    "In the picture, what can we utilize to determine the current time?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0211_02_2000.jpg",
+      "points": [
+        [
+          93.66666666666666,
+          237.66666666666669
+        ],
+        [
+          102.33333333333334,
+          229.0
+        ],
+        [
+          114.0,
+          225.66666666666669
+        ],
+        [
+          122.0,
+          226.0
+        ],
+        [
+          132.0,
+          231.66666666666669
+        ],
+        [
+          137.33333333333334,
+          238.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

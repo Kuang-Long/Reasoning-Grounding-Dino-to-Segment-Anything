@@ -1,0 +1,111 @@
+{
+  "text": [
+    "What type of container is commonly used to hold water and keep flowers fresh in a living room?",
+    "What kind of container is typically used to hold water and keep flowers fresh in a living room?",
+    "What is the common container type to hold water and keep flowers fresh in a living room?",
+    "What is the typical type of container that is used in a living room to store water and keep flowers fresh?",
+    "What type of container is typically utilized in a living room to hold water and help keep flowers fresh?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0220_01_2000.jpg",
+      "points": [
+        [
+          145.82392776523702,
+          187.1331828442438
+        ],
+        [
+          143.45372460496614,
+          188.48758465011286
+        ],
+        [
+          142.32505643340858,
+          191.7607223476298
+        ],
+        [
+          142.66365688487585,
+          217.38148984198648
+        ],
+        [
+          147.51693002257338,
+          219.30022573363433
+        ],
+        [
+          158.23927765237022,
+          219.8645598194131
+        ],
+        [
+          164.22121896162528,
+          217.38148984198648
+        ],
+        [
+          168.39729119638827,
+          214.78555304740408
+        ],
+        [
+          169.0744920993228,
+          212.75395033860048
+        ],
+        [
+          170.76749435665914,
+          189.9548532731377
+        ],
+        [
+          169.8645598194131,
+          186.90744920993228
+        ],
+        [
+          167.94582392776525,
+          187.1331828442438
+        ],
+        [
+          166.13995485327314,
+          187.69751693002257
+        ],
+        [
+          165.91422121896164,
+          189.84198645598195
+        ],
+        [
+          165.57562076749437,
+          191.53498871331828
+        ],
+        [
+          162.4153498871332,
+          193.1151241534989
+        ],
+        [
+          159.36794582392778,
+          193.56659142212192
+        ],
+        [
+          154.06320541760724,
+          194.3566591422122
+        ],
+        [
+          151.12866817155756,
+          192.77652370203162
+        ],
+        [
+          148.08126410835214,
+          190.29345372460497
+        ],
+        [
+          148.08126410835214,
+          188.7133182844244
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "text": [
+    "When we go to a bookstore, where do we usually find books arranged vertically and stored in columns for browsing?",
+    "When we visit a bookstore, which section of the store can we find books that are arranged vertically and stored in columns to facilitate browsing?",
+    "Where in a bookstore would we typically find books arranged vertically and displayed in columns to facilitate browsing?",
+    "When visiting a bookstore, where would one typically find books arranged vertically and displayed in columns for browsing?",
+    "When we visit a bookstore, where do we typically find books arranged vertically and stored in columns for browsing?",
+    "When we visit a bookstore, where can we typically find books stored in vertical columns for browsing and selection?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0669_01_0.jpg",
+      "points": [
+        [
+          131.5064935064935,
+          1.0389610389610389
+        ],
+        [
+          135.4025974025974,
+          52.72727272727273
+        ],
+        [
+          91.24675324675324,
+          239.0
+        ],
+        [
+          0.07792207792207773,
+          238.96103896103895
+        ],
+        [
+          0.33766233766233755,
+          0.5194805194805194
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0669_01_0.jpg",
+      "points": [
+        [
+          192.8051948051948,
+          1.0389610389610389
+        ],
+        [
+          188.3896103896104,
+          48.57142857142857
+        ],
+        [
+          185.27272727272728,
+          48.57142857142857
+        ],
+        [
+          184.4935064935065,
+          52.72727272727273
+        ],
+        [
+          184.4935064935065,
+          63.37662337662338
+        ],
+        [
+          251.24675324675323,
+          238.7012987012987
+        ],
+        [
+          319.0,
+          239.0
+        ],
+        [
+          319.0,
+          0.2597402597402597
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

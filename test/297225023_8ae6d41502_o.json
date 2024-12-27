@@ -1,0 +1,120 @@
+{
+  "text": [
+    "When driving a car, it's important to keep an eye on the road and stay aware of the surroundings. What part of the car in the picture helps the driver see what is happening behind the vehicle?",
+    "It's important for drivers to stay alert and aware of their surroundings when driving. What part of the car in the picture is designed to enable the driver to see what is happening behind the vehicle?",
+    "When driving a car, staying alert of the surroundings is very important. Can you locate an object in the picture that provides the driver with a rear view?",
+    "When driving a car, it is important for the driver to remain vigilant of their surroundings and keep their eyes on the road. Please identify which component of the car in the picture could aid the driver in observing events happening behind the vehicle.",
+    "When driving a car, it is essential to keep an eye on the road and be aware of surrounding events. Which part of the vehicle in the picture helps the driver see what is happening behind the car?",
+    "When driving a car, it's important to keep an eye on the road and maintain awareness of the surrounding environment. What part of the car shown in the picture can be utilized by the driver to monitor ongoing activities behind the vehicle?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "297225023_8ae6d41502_o.jpg",
+      "points": [
+        [
+          147.0,
+          139.0
+        ],
+        [
+          144.0,
+          145.0
+        ],
+        [
+          141.0,
+          478.0
+        ],
+        [
+          142.0,
+          489.0
+        ],
+        [
+          145.0,
+          497.0
+        ],
+        [
+          156.0,
+          507.0
+        ],
+        [
+          168.0,
+          513.0
+        ],
+        [
+          179.0,
+          514.0
+        ],
+        [
+          779.0,
+          517.0
+        ],
+        [
+          785.0,
+          515.0
+        ],
+        [
+          795.0,
+          515.0
+        ],
+        [
+          805.0,
+          510.0
+        ],
+        [
+          814.0,
+          499.0
+        ],
+        [
+          818.0,
+          485.0
+        ],
+        [
+          843.0,
+          189.0
+        ],
+        [
+          843.0,
+          182.0
+        ],
+        [
+          839.0,
+          173.0
+        ],
+        [
+          829.0,
+          163.0
+        ],
+        [
+          816.0,
+          159.0
+        ],
+        [
+          772.0,
+          154.0
+        ],
+        [
+          172.0,
+          123.0
+        ],
+        [
+          165.0,
+          125.0
+        ],
+        [
+          157.0,
+          129.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

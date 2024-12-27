@@ -1,0 +1,52 @@
+{
+  "text": [
+    "What object in the bedroom can people easily use to cover the window to prevent the penetration of sunlight?",
+    "To block out sunlight and prevent it from penetrating a bedroom, which object can be utilized to easily cover the window?",
+    "What item can be easily utilized in the bedroom to cover the window and block sunlight from entering?",
+    "What is the object located in the bedroom that people can use to block sunlight from entering through the window?",
+    "What object, present in a bedroom, would be a convenient option for preventing sunlight from entering the room when needed?",
+    "What object in the bedroom can be conveniently used to block sunlight from entering through the window?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0557_00_0.jpg",
+      "points": [
+        [
+          81.90661478599222,
+          0.0
+        ],
+        [
+          83.0739299610895,
+          33.0739299610895
+        ],
+        [
+          225.48638132295721,
+          37.54863813229572
+        ],
+        [
+          224.12451361867707,
+          30.544747081712064
+        ],
+        [
+          220.03891050583658,
+          1.3618677042801557
+        ],
+        [
+          219.8443579766537,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "text": [
+    "Humidity in the bathroom can cause towels to become damp, which can breed bacteria. What object in the bathroom can be used to hang the towel up to dry and avoid direct contact with the ground?",
+    "When humidity in the bathroom causes towels to become damp, it can lead to bacterial growth. What object in the bathroom can be utilized to hang the towel up to dry and avoid direct contact with the ground?",
+    "In a bathroom, towels can become damp due to high humidity, creating a breeding ground for bacteria. What can be utilized to hang towels and prevent them from having direct contact with the ground in order to dry them?",
+    "When there is high humidity in the bathroom, towels can become damp and begin to accumulate bacteria. What can be used to hang the towels and keep them dry, minimizing contact with the ground or other surfaces?",
+    "What object can be found in the bathroom that can be utilized to hang towels and prevent them from coming into direct contact with the ground whilst they dry, thereby preventing bacteria growth caused by moisture and humidity?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0153_01_0.jpg",
+      "points": [
+        [
+          0.0,
+          78.44155844155844
+        ],
+        [
+          0.33766233766233755,
+          89.87012987012987
+        ],
+        [
+          54.62337662337662,
+          70.64935064935065
+        ],
+        [
+          51.76623376623377,
+          63.63636363636363
+        ],
+        [
+          48.38961038961039,
+          61.55844155844156
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0153_01_0.jpg",
+      "points": [
+        [
+          85.82995951417004,
+          50.607287449392715
+        ],
+        [
+          89.20377867746289,
+          54.116059379217276
+        ],
+        [
+          90.41835357624831,
+          58.16464237516869
+        ],
+        [
+          96.89608636977057,
+          55.3306342780027
+        ],
+        [
+          97.57085020242914,
+          51.282051282051285
+        ],
+        [
+          94.46693657219973,
+          47.638326585695005
+        ],
+        [
+          90.14844804318489,
+          47.233468286099864
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

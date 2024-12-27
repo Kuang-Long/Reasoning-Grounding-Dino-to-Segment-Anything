@@ -1,0 +1,76 @@
+{
+  "text": [
+    "What object is most commonly used together with a keyboard when typing on a computer?",
+    "While typing on a computer, what is the item that is typically used along with a keyboard?",
+    "When typing on a computer, what accessory is typically utilized in conjunction with a keyboard?",
+    "When typing on a computer, what object is frequently used in conjunction with a keyboard?",
+    "When typing on a computer, which item is most frequently combined with a keyboard?",
+    "When typing on a computer, what object is typically used in combination with a keyboard?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0095_00_0.jpg",
+      "points": [
+        [
+          169.4,
+          138.1
+        ],
+        [
+          168.5,
+          140.1
+        ],
+        [
+          170.9,
+          141.7
+        ],
+        [
+          174.4,
+          144.4
+        ],
+        [
+          180.8,
+          146.8
+        ],
+        [
+          184.9,
+          147.6
+        ],
+        [
+          187.8,
+          146.0
+        ],
+        [
+          188.7,
+          143.5
+        ],
+        [
+          185.1,
+          138.4
+        ],
+        [
+          182.3,
+          136.5
+        ],
+        [
+          176.1,
+          135.7
+        ],
+        [
+          170.9,
+          136.6
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

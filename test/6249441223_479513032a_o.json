@@ -1,0 +1,147 @@
+{
+  "text": [
+    "In the picture, there seems to be a dish with various ingredients mixed together. What utensil in the picture could be used to scoop up a portion of this mixed dish?",
+    "What kitchen tool from the picture can be leveraged to scoop up a portion of the mixed dish, which seems to include various ingredients?",
+    "What tool or object in the picture would you use to scoop up a portion of the mixed dish that you mentioned?",
+    "In the picture, what tool could be utilized to scoop up a portion of the mixed dish with various ingredients?",
+    "If you would like to scoop up a portion of the mixed dish in the picture, what utensil could be utilized to do so?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "6249441223_479513032a_o.jpg",
+      "points": [
+        [
+          3.235294117647058,
+          626.0588235294117
+        ],
+        [
+          122.35294117647058,
+          690.7647058823529
+        ],
+        [
+          295.88235294117646,
+          811.3529411764705
+        ],
+        [
+          457.6470588235294,
+          934.8823529411764
+        ],
+        [
+          562.0588235294117,
+          1054.0
+        ],
+        [
+          587.0588235294117,
+          1104.0
+        ],
+        [
+          584.1176470588235,
+          1133.4117647058822
+        ],
+        [
+          570.8823529411765,
+          1201.0588235294117
+        ],
+        [
+          567.9411764705882,
+          1212.8235294117646
+        ],
+        [
+          1351.764705882353,
+          1215.0
+        ],
+        [
+          1281.1764705882351,
+          1155.470588235294
+        ],
+        [
+          1209.1176470588234,
+          1086.3529411764705
+        ],
+        [
+          1172.3529411764705,
+          1086.3529411764705
+        ],
+        [
+          1142.941176470588,
+          1087.8235294117646
+        ],
+        [
+          1081.1764705882351,
+          1105.4705882352941
+        ],
+        [
+          1013.5294117647059,
+          1026.0588235294117
+        ],
+        [
+          984.2631578947369,
+          998.9473684210526
+        ],
+        [
+          960.5882352941176,
+          1009.8823529411764
+        ],
+        [
+          945.8823529411764,
+          1017.2352941176471
+        ],
+        [
+          894.4117647058823,
+          1017.2352941176471
+        ],
+        [
+          841.470588235294,
+          961.3529411764705
+        ],
+        [
+          803.235294117647,
+          983.4117647058822
+        ],
+        [
+          792.9411764705882,
+          1004.0
+        ],
+        [
+          785.5882352941176,
+          1014.2941176470588
+        ],
+        [
+          769.4117647058823,
+          959.8823529411764
+        ],
+        [
+          703.0927835051547,
+          971.1340206185567
+        ],
+        [
+          670.1030927835052,
+          967.0103092783505
+        ],
+        [
+          548.8235294117646,
+          887.8235294117646
+        ],
+        [
+          214.99999999999997,
+          636.3529411764705
+        ],
+        [
+          0.2941176470588225,
+          443.7058823529411
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

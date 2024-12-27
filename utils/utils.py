@@ -30,18 +30,29 @@ def draw_image(image_rgb, masks, xyxy, probs, labels):
     annotated_image = mask_annotator.annotate(scene=image_rgb.copy(), detections=detections)
     return annotated_image
 
-def draw_masks(masks, image_path):
-    # Ensure masks are binary
-    masks = (masks > 0).astype(np.uint8)
+def draw_masks(masks, output_path, image_path):
+    if masks is not None:
+        # Ensure masks are binary
+        masks = (masks > 0).astype(np.uint8)
 
-    # Combine all masks into a single composite mask
-    composite_mask = np.max(masks, axis=0)  # Combine masks (element-wise max ensures binary output)
+        # Combine all masks into a single composite mask
+        composite_mask = np.max(masks, axis=0)  # Combine masks (element-wise max ensures binary output)
 
-    # Scale the mask to 0-255 for black-and-white image
-    bw_image_array = (composite_mask * 255).astype(np.uint8)
+        # Scale the mask to 0-255 for black-and-white image
+        bw_image_array = (composite_mask * 255).astype(np.uint8)
 
-    # Convert to a PIL image for saving/displaying
-    bw_image = Image.fromarray(bw_image_array, mode="L")  # 'L' mode for grayscale
+        # Convert to a PIL image for saving/displaying
+        bw_image = Image.fromarray(bw_image_array, mode="L")  # 'L' mode for grayscale
 
-    bw_image.save(image_path)
-    return bw_image
+        bw_image.save(output_path)
+        return bw_image
+    else:
+        # Open the input image to get its size
+        with Image.open(image_path) as img:
+            width, height = img.size
+
+        # Create an all-black image with the same size
+        black_image_array = np.zeros((height, width), dtype=np.uint8)  # All zeros for black
+        black_image = Image.fromarray(black_image_array, mode="L")  # 'L' mode for grayscale
+        black_image.save(output_path)
+        return black_image

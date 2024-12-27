@@ -1,0 +1,48 @@
+{
+  "text": [
+    "In homes, perishable foods are often stored in low-temperature appliances to prevent spoilage. What object in a home is mostly adapted for this purpose?",
+    "What appliance in a home is commonly utilized to store perishable foods at low temperatures to prevent spoilage?",
+    "In a home, what appliance is commonly used to store perishable foods at low temperatures to prevent spoilage?",
+    "At home, what object is typically used to store perishable foods at low temperatures to prevent spoilage?",
+    "In homes, perishable foods are frequently kept in low-temperature environments to prevent spoilage. What appliance in the home is typically utilized for this purpose?",
+    "In a home, what appliance is typically used to store perishable foods in low-temperature environments, in order to prevent spoilage?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0323_00_0.jpg",
+      "points": [
+        [
+          193.07171314741032,
+          0.5418326693227016
+        ],
+        [
+          184.3067729083665,
+          239.0
+        ],
+        [
+          319.0,
+          239.0
+        ],
+        [
+          319.0,
+          0.0
+        ],
+        [
+          191.87649402390434,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

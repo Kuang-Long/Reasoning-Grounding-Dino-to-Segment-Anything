@@ -1,0 +1,96 @@
+{
+  "text": [
+    "What kind of cushion object can be placed on an armchair or couch to make sitting or lying more comfortable?",
+    "What is an object which can be placed on an armchair or couch to improve the comfort of sitting or lying down?",
+    "What is the name of the type of cushion that can be positioned on an armchair or couch to improve comfort when sitting or lying down?",
+    "What is the name of the cushion object that can be placed on a chair or couch to provide additional comfort when sitting or lying down?",
+    "What type of cushion can be put on a couch or an armchair to provide additional comfort while sitting or lying down?",
+    "What type of cushion object is often utilized on an armchair or couch to increase comfort while sitting or lying down?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0050_02_2000.jpg",
+      "points": [
+        [
+          274.90683229813664,
+          132.91925465838509
+        ],
+        [
+          266.335403726708,
+          135.527950310559
+        ],
+        [
+          257.01863354037266,
+          140.49689440993788
+        ],
+        [
+          255.27950310559004,
+          142.9813664596273
+        ],
+        [
+          255.65217391304347,
+          146.2111801242236
+        ],
+        [
+          256.7701863354037,
+          152.67080745341613
+        ],
+        [
+          275.0310559006211,
+          178.01242236024842
+        ],
+        [
+          282.48447204968943,
+          185.09316770186334
+        ],
+        [
+          289.31677018633536,
+          190.93167701863354
+        ],
+        [
+          297.01863354037266,
+          193.2919254658385
+        ],
+        [
+          303.60248447204964,
+          194.40993788819875
+        ],
+        [
+          317.26708074534156,
+          192.42236024844718
+        ],
+        [
+          319.0,
+          192.04968944099377
+        ],
+        [
+          318.94805194805195,
+          142.42857142857142
+        ],
+        [
+          315.05194805194805,
+          137.23376623376623
+        ],
+        [
+          308.55844155844153,
+          134.63636363636363
+        ],
+        [
+          294.27272727272725,
+          131.3896103896104
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

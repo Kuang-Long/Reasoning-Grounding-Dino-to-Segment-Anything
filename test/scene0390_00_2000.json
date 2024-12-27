@@ -1,0 +1,167 @@
+{
+  "text": [
+    "When cleaning up the kitchen, what object could be used to reach high places, such as the top of a cabinet or a shelf?",
+    "When cleaning up the kitchen, what object could be used to reach high places such as the top of a cabinet or a shelf?",
+    "What object can be used in the kitchen to reach high places, such as the top of a cabinet or a shelf when cleaning?",
+    "What is typically used to reach high places, such as the top of a cabinet or shelf, when cleaning up the kitchen?",
+    "When cleaning up the kitchen and trying to reach high areas such as the top of a cabinet or shelf, what is an object that can be utilized?",
+    "During the process of kitchen cleanup, what item could be utilized to reach high places such as the top of a cabinet or shelf?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0390_00_2000.jpg",
+      "points": [
+        [
+          79.83870967741935,
+          144.11827956989248
+        ],
+        [
+          86.02150537634408,
+          168.31182795698925
+        ],
+        [
+          87.9032258064516,
+          203.79569892473117
+        ],
+        [
+          94.6236559139785,
+          205.40860215053763
+        ],
+        [
+          94.6236559139785,
+          222.61290322580643
+        ],
+        [
+          98.9247311827957,
+          238.4731182795699
+        ],
+        [
+          103.49462365591397,
+          239.0
+        ],
+        [
+          182.25806451612902,
+          214.54838709677418
+        ],
+        [
+          184.13978494623655,
+          231.752688172043
+        ],
+        [
+          187.90322580645162,
+          236.86021505376343
+        ],
+        [
+          191.39784946236557,
+          235.51612903225805
+        ],
+        [
+          189.78494623655914,
+          211.86021505376343
+        ],
+        [
+          191.66666666666666,
+          209.70967741935482
+        ],
+        [
+          191.1290322580645,
+          203.79569892473117
+        ],
+        [
+          184.54172366621066,
+          189.8768809849521
+        ],
+        [
+          181.6689466484268,
+          189.19288645690833
+        ],
+        [
+          180.984952120383,
+          184.9521203830369
+        ],
+        [
+          178.6593707250342,
+          158.54993160054718
+        ],
+        [
+          179.890560875513,
+          154.58276333789328
+        ],
+        [
+          179.75376196990422,
+          151.57318741450067
+        ],
+        [
+          159.74842767295596,
+          119.49685534591194
+        ],
+        [
+          127.0440251572327,
+          128.51153039832283
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0390_00_2000.jpg",
+      "points": [
+        [
+          99.76923076923077,
+          183.85897435897436
+        ],
+        [
+          102.65384615384616,
+          210.46153846153845
+        ],
+        [
+          172.52564102564102,
+          186.4230769230769
+        ],
+        [
+          163.87179487179486,
+          174.24358974358972
+        ],
+        [
+          162.26923076923077,
+          182.25641025641025
+        ],
+        [
+          158.74358974358972,
+          180.0128205128205
+        ],
+        [
+          160.34615384615384,
+          170.7179487179487
+        ],
+        [
+          160.66666666666666,
+          166.87179487179486
+        ],
+        [
+          124.12820512820511,
+          176.16666666666666
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

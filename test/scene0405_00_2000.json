@@ -1,0 +1,64 @@
+{
+  "text": [
+    "If I want to enter another room and it has a closed entrance, which part of the image should I approach and open?",
+    "Suppose you wish to enter another room with a closed entrance. What would you approach and open in the picture?",
+    "If you wish to enter an enclosed room with a closed entrance from your current location in the picture, which area of the image should you approach and open?",
+    "Suppose you want to access a separate room with a closed entrance. Which area in the picture would you approach to open and gain entry?",
+    "If you want to enter another room and the entrance appears to be closed, what is the appropriate area in the image to approach and open?",
+    "Suppose you want to move to a restricted area within an edifice, what region in this picture should you approach and open?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0405_00_2000.jpg",
+      "points": [
+        [
+          125.34530938123751,
+          1.7604790419161702
+        ],
+        [
+          125.04590818363272,
+          18.82634730538922
+        ],
+        [
+          125.18703241895263,
+          22.942643391521198
+        ],
+        [
+          125.04590818363272,
+          238.2874251497006
+        ],
+        [
+          192.71057884231536,
+          239.0
+        ],
+        [
+          194.8063872255489,
+          120.32335329341319
+        ],
+        [
+          196.60279441117763,
+          22.718562874251496
+        ],
+        [
+          185.52495009980038,
+          16.131736526946106
+        ],
+        [
+          159.17764471057882,
+          1.7604790419161702
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "text": [
+    "Suppose I am looking for books on certain topics in a bookstore. What objects in the bookstore will the employee tell me to look for to find them?",
+    "If you are searching for books on specific topics in a bookstore, what objects might the staff member suggest you look for to locate them?",
+    "When looking for books on certain topics in a bookstore, what objects would an employee typically suggest searching for to locate them?",
+    "If you're looking for books on specific topics in a bookstore, what objects might an employee suggest that you search for to locate them?",
+    "If you need to search for books on specific topics in a bookstore, which objects would the employee typically direct you towards to find them?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0453_01_0.jpg",
+      "points": [
+        [
+          6.311688311688311,
+          1.8181818181818181
+        ],
+        [
+          9.168831168831169,
+          7.2727272727272725
+        ],
+        [
+          13.844155844155845,
+          7.792207792207792
+        ],
+        [
+          49.16883116883117,
+          171.94805194805195
+        ],
+        [
+          86.31168831168831,
+          212.2077922077922
+        ],
+        [
+          89.68831168831169,
+          211.16883116883116
+        ],
+        [
+          87.87012987012987,
+          201.2987012987013
+        ],
+        [
+          318.7792207792208,
+          86.49350649350649
+        ],
+        [
+          319.0,
+          79.22077922077922
+        ],
+        [
+          319.0,
+          0.5194805194805194
+        ],
+        [
+          15.142857142857142,
+          0.2597402597402597
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0453_01_0.jpg",
+      "points": [
+        [
+          58.51948051948052,
+          29.61038961038961
+        ],
+        [
+          84.75324675324676,
+          187.53246753246754
+        ],
+        [
+          318.2597402597402,
+          77.92207792207792
+        ],
+        [
+          318.7792207792208,
+          1.5584415584415585
+        ],
+        [
+          256.1818181818182,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

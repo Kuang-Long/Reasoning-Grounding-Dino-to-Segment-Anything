@@ -1,0 +1,44 @@
+{
+  "text": [
+    "When a teacher is explaining the content of a course, what might they use in the classroom to enhance students' understanding?",
+    "In a classroom, what might a teacher use to improve students' comprehension of a course's material when delivering a lecture?",
+    "When a teacher is explaining the contents of a course, what may they use in the classroom to improve students' comprehension?",
+    "During a classroom lecture, what resource might a teacher use to augment student comprehension of the subject matter?",
+    "During a classroom lecture, what could a teacher use to augment students' comprehension of the course material?",
+    "When a teacher is explaining the content of a course, what tools or equipment might they utilize in the classroom to aid in students' comprehension?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0129_00_2000.jpg",
+      "points": [
+        [
+          130.14018691588785,
+          3.1682242990654217
+        ],
+        [
+          130.45171339563862,
+          39.92834890965732
+        ],
+        [
+          291.5109034267913,
+          48.028037383177576
+        ],
+        [
+          300.54517133956386,
+          0.3644859813084125
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

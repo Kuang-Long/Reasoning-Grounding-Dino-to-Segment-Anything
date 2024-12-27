@@ -1,0 +1,72 @@
+{
+  "text": [
+    "In most cities, there are designated areas for pedestrians to cross the road safely. What object in the picture is commonly used to indicate these areas?",
+    "In order to ensure pedestrian safety in most cities, there are designated areas for crossing the road. What object, typically used to indicate these areas, can be seen in the picture?",
+    "At most locations in the cities, there are designated areas that pedestrians can utilize to cross the road safely. The object that is usually used to identify these areas is what?",
+    "What is the object commonly used in the picture to indicate the designated areas for pedestrians to cross the road safely, often found in most cities?",
+    "Pedestrian crossing areas are typically designated and clearly marked in most cities. What object in the picture is commonly used for this purpose?",
+    "In cities, there are usually marked areas that allow pedestrians to cross the road safely. What object is typically used to indicate these areas in the picture?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5717942465_e6bf57caa3_o.jpg",
+      "points": [
+        [
+          1124.0,
+          1880.8181818181818
+        ],
+        [
+          2511.111111111111,
+          1901.111111111111
+        ],
+        [
+          3012.0,
+          1926.875
+        ],
+        [
+          3012.0,
+          1851.875
+        ],
+        [
+          2871.5,
+          1855.0
+        ],
+        [
+          2476.056338028169,
+          1850.7042253521129
+        ],
+        [
+          2074.647887323944,
+          1845.0704225352113
+        ],
+        [
+          1678.5714285714287,
+          1840.4761904761904
+        ],
+        [
+          1507.3333333333333,
+          1844.0
+        ],
+        [
+          1322.680412371134,
+          1841.2371134020618
+        ],
+        [
+          1210.3092783505156,
+          1863.9175257731958
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

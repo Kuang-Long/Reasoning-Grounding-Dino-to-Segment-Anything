@@ -1,0 +1,76 @@
+{
+  "text": [
+    "What in the picture allows people to enter and exit the living room?",
+    "What could be utilized to enter and exit the living room in the picture?",
+    "What architectural element in the picture serves as the primary means of entry and exit to the living room or other living spaces?",
+    "What part of the picture is typically used for entering and exiting the living room?",
+    "What part of the living room allows people to enter and exit the space?",
+    "What part of the picture serves as an entrance and exit for people to access the living room?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0606_02_2000.jpg",
+      "points": [
+        [
+          219.89247311827955,
+          0.838709677419355
+        ],
+        [
+          217.4731182795699,
+          117.77419354838709
+        ],
+        [
+          225.0,
+          114.81720430107526
+        ],
+        [
+          226.61290322580643,
+          118.84946236559139
+        ],
+        [
+          230.10752688172042,
+          128.25806451612902
+        ],
+        [
+          227.9569892473118,
+          176.91397849462365
+        ],
+        [
+          225.0,
+          179.33333333333331
+        ],
+        [
+          224.19354838709677,
+          183.36559139784944
+        ],
+        [
+          227.41935483870967,
+          186.0537634408602
+        ],
+        [
+          285.21505376344084,
+          179.06451612903226
+        ],
+        [
+          319.0,
+          172.0752688172043
+        ],
+        [
+          319.0,
+          1.376344086021505
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

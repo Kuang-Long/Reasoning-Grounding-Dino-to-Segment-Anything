@@ -1,0 +1,39 @@
+{
+  "text": [
+    "something indicating that the tank belongs to the USA"
+  ],
+  "is_sentence": false,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "6953326816_aceb954b9a_o.jpg",
+      "points": [
+        [
+          415.2,
+          266.1
+        ],
+        [
+          352.2,
+          267.7
+        ],
+        [
+          350.4901960784314,
+          311.1519607843137
+        ],
+        [
+          413.8,
+          310.3
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

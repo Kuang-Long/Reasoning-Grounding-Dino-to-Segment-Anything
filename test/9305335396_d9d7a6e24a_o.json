@@ -1,0 +1,261 @@
+{
+  "text": [
+    "In a classroom setting, students often engage in activities that require writing and taking notes. What object in the picture would students use to write with?",
+    "During a classroom setting, students usually engage in activities that involve writing and taking notes. What object in the picture would be utilized by students as a writing tool?",
+    "In a classroom setting, students often engage in activities that require writing and taking notes. Please identify the object in the picture that students would use to write.",
+    "What object in the picture would students typically utilize to write and take notes during classroom activities?",
+    "In a classroom setting, what object in the picture might be used by students to take notes or write?",
+    "During classroom activities that involve note-taking and writing, what object would students use to compose their work?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "9305335396_d9d7a6e24a_o.jpg",
+      "points": [
+        [
+          83.05555555555556,
+          1497.7777777777778
+        ],
+        [
+          88.61111111111111,
+          1501.388888888889
+        ],
+        [
+          173.33333333333334,
+          1382.5
+        ],
+        [
+          172.22222222222223,
+          1379.4444444444443
+        ],
+        [
+          160.27777777777777,
+          1371.6666666666667
+        ],
+        [
+          151.66666666666666,
+          1369.4444444444443
+        ],
+        [
+          147.77777777777777,
+          1370.0
+        ],
+        [
+          145.0,
+          1372.7777777777778
+        ],
+        [
+          104.44444444444444,
+          1435.5555555555554
+        ],
+        [
+          105.27777777777777,
+          1450.8333333333333
+        ],
+        [
+          104.16666666666666,
+          1457.7777777777778
+        ],
+        [
+          100.83333333333333,
+          1463.0555555555554
+        ],
+        [
+          97.5,
+          1467.2222222222222
+        ],
+        [
+          91.94444444444444,
+          1471.388888888889
+        ],
+        [
+          83.33333333333333,
+          1472.2222222222222
+        ],
+        [
+          80.55555555555556,
+          1471.388888888889
+        ],
+        [
+          72.22222222222221,
+          1483.888888888889
+        ],
+        [
+          76.11111111111111,
+          1491.388888888889
+        ],
+        [
+          79.72222222222221,
+          1494.7222222222222
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "9305335396_d9d7a6e24a_o.jpg",
+      "points": [
+        [
+          1898.3783783783783,
+          1568.1081081081081
+        ],
+        [
+          1931.920199501247,
+          1554.8628428927682
+        ],
+        [
+          1938.4039900249377,
+          1543.8902743142146
+        ],
+        [
+          1926.6247379454924,
+          1540.041928721174
+        ],
+        [
+          1923.060796645702,
+          1540.461215932914
+        ],
+        [
+          1865.6184486373163,
+          1561.2159329140459
+        ],
+        [
+          1881.3417190775679,
+          1563.9412997903562
+        ],
+        [
+          1892.2431865828091,
+          1566.4570230607965
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "9305335396_d9d7a6e24a_o.jpg",
+      "points": [
+        [
+          2784.108527131783,
+          2336.8217054263564
+        ],
+        [
+          2981.0077519379843,
+          2296.5116279069766
+        ],
+        [
+          3049.6124031007753,
+          2282.170542635659
+        ],
+        [
+          3086.046511627907,
+          2262.7906976744184
+        ],
+        [
+          3086.8217054263564,
+          2260.077519379845
+        ],
+        [
+          3084.4961240310076,
+          2257.751937984496
+        ],
+        [
+          3082.170542635659,
+          2256.9767441860463
+        ],
+        [
+          3044.5736434108526,
+          2254.6511627906975
+        ],
+        [
+          2827.131782945736,
+          2296.124031007752
+        ],
+        [
+          2764.3410852713178,
+          2308.5271317829456
+        ],
+        [
+          2758.9147286821703,
+          2311.6279069767443
+        ],
+        [
+          2762.015503875969,
+          2332.9457364341083
+        ],
+        [
+          2765.116279069767,
+          2339.5348837209303
+        ],
+        [
+          2768.217054263566,
+          2340.31007751938
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "9305335396_d9d7a6e24a_o.jpg",
+      "points": [
+        [
+          1631.7596566523605,
+          1585.4077253218884
+        ],
+        [
+          1686.695278969957,
+          1578.1115879828326
+        ],
+        [
+          1686.695278969957,
+          1600.8583690987125
+        ],
+        [
+          1633.0472103004292,
+          1608.5836909871243
+        ],
+        [
+          1628.755364806867,
+          1591.4163090128754
+        ],
+        [
+          1631.3304721030042,
+          1589.6995708154507
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "text": [
+    "Which object can be used to put and place things within arm's reach when sitting in the living room?",
+    "What object is commonly used to keep things within arm's reach when sitting in the living room?",
+    "What item in the living room can be used to place objects within arm's reach when sitting?",
+    "As an intelligent robot, what object would you grab to place items within arm's reach if someone was sitting in the living room?",
+    "What object in the living room can be used for placing items within arm's reach while sitting in the room?",
+    "In a living room, which object could be used to conveniently place and keep things within arm's reach while seated?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0053_00_0.jpg",
+      "points": [
+        [
+          49.42857142857143,
+          85.71428571428571
+        ],
+        [
+          105.27272727272727,
+          204.41558441558442
+        ],
+        [
+          116.96103896103895,
+          198.44155844155844
+        ],
+        [
+          126.05194805194805,
+          238.44155844155844
+        ],
+        [
+          139.2987012987013,
+          239.0
+        ],
+        [
+          135.92207792207793,
+          223.89610389610388
+        ],
+        [
+          285.27272727272725,
+          143.89610389610388
+        ],
+        [
+          280.85714285714283,
+          154.28571428571428
+        ],
+        [
+          289.16883116883116,
+          158.1818181818182
+        ],
+        [
+          292.8051948051948,
+          156.36363636363637
+        ],
+        [
+          319.0,
+          104.79742765273312
+        ],
+        [
+          319.0,
+          85.82636655948554
+        ],
+        [
+          232.63344051446944,
+          26.662379421221864
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

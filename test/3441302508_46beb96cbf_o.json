@@ -1,0 +1,176 @@
+{
+  "text": [
+    "In ancient civilizations, the desert was often home to stunning architectural structures. What in the picture symbolizes the remarkable feats achieved in desert regions?",
+    "What element in the picture is a symbol of the extraordinary architectural achievements seen in desert regions by ancient civilizations?",
+    "What aspect of the picture symbolizes the remarkable feats achieved in desert regions, where stunning feats of architecture have been accomplished in ancient civilizations?",
+    "What aspect of the image represents the remarkable architectural achievements in desert regions of ancient civilizations?",
+    "In ancient civilizations, the desert was often home to stunning architectural structures. Could you identify any object or feature in the picture that symbolizes the remarkable feats achieved in desert regions?",
+    "In ancient civilizations, the desert was home to some visually stunning architectural structures. What in the image might inspire thoughts of the remarkable achievements of those past civilizations in creating amazing structures in such harsh desert regions?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "3441302508_46beb96cbf_o.jpg",
+      "points": [
+        [
+          1158.0,
+          712.0
+        ],
+        [
+          1168.0,
+          729.0
+        ],
+        [
+          1240.0,
+          791.0
+        ],
+        [
+          1278.0,
+          806.0
+        ],
+        [
+          1312.0,
+          843.0
+        ],
+        [
+          1322.0,
+          876.0
+        ],
+        [
+          1315.0,
+          900.0
+        ],
+        [
+          1334.0,
+          896.0
+        ],
+        [
+          1342.0,
+          902.0
+        ],
+        [
+          1347.0,
+          914.0
+        ],
+        [
+          1346.0,
+          929.0
+        ],
+        [
+          1334.0,
+          935.0
+        ],
+        [
+          1332.0,
+          951.0
+        ],
+        [
+          1336.0,
+          959.0
+        ],
+        [
+          1360.0,
+          968.0
+        ],
+        [
+          1365.0,
+          978.0
+        ],
+        [
+          1361.0,
+          987.0
+        ],
+        [
+          1342.0,
+          991.0
+        ],
+        [
+          1338.0,
+          1000.0
+        ],
+        [
+          1348.0,
+          1012.0
+        ],
+        [
+          1365.0,
+          1078.0
+        ],
+        [
+          1367.0,
+          1109.0
+        ],
+        [
+          1374.0,
+          1118.0
+        ],
+        [
+          1385.0,
+          1123.0
+        ],
+        [
+          2438.0,
+          1179.0
+        ],
+        [
+          3007.0,
+          1229.0
+        ],
+        [
+          3006.0,
+          1146.0
+        ],
+        [
+          2114.0,
+          258.0
+        ],
+        [
+          2106.0,
+          254.0
+        ],
+        [
+          2090.0,
+          252.0
+        ],
+        [
+          2068.0,
+          260.0
+        ],
+        [
+          1485.7142857142858,
+          838.0952380952381
+        ],
+        [
+          1456.0,
+          818.0
+        ],
+        [
+          1271.0,
+          664.0
+        ],
+        [
+          1242.0,
+          660.0
+        ],
+        [
+          1214.0,
+          666.0
+        ],
+        [
+          1197.0,
+          676.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

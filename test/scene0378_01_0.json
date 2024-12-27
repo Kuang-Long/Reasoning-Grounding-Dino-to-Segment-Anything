@@ -1,0 +1,88 @@
+{
+  "text": [
+    "Which device in a room can print out material and put hard copies of documents in the hands of viewers?",
+    "What object in a room is capable of producing hard copies of documents, thereby providing viewers with a physical copy of the material?",
+    "What is the name of the device can generate and print material, offering hard copies of documents for viewers in a room?",
+    "In a room, what object can be used to produce hard copies (prints) of documents, thereby making them tangible and easily accessible to viewers?",
+    "What device can be found in a room that can produce hard copies of documents and provide viewers with a physical printout?",
+    "What device found within a room is designed to print out materials and provide hard copies of documents to viewers?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0378_01_0.jpg",
+      "points": [
+        [
+          230.72847682119206,
+          22.91390728476821
+        ],
+        [
+          209.4039735099338,
+          30.728476821192054
+        ],
+        [
+          207.5496688741722,
+          34.437086092715234
+        ],
+        [
+          207.81456953642385,
+          43.443708609271525
+        ],
+        [
+          210.4635761589404,
+          45.82781456953642
+        ],
+        [
+          210.86092715231788,
+          52.58278145695365
+        ],
+        [
+          209.4039735099338,
+          55.89403973509934
+        ],
+        [
+          207.1523178807947,
+          59.0728476821192
+        ],
+        [
+          231.65562913907286,
+          67.41721854304636
+        ],
+        [
+          236.158940397351,
+          68.47682119205298
+        ],
+        [
+          241.98675496688742,
+          70.4635761589404
+        ],
+        [
+          250.3311258278146,
+          70.19867549668875
+        ],
+        [
+          278.27814569536423,
+          63.17880794701987
+        ],
+        [
+          281.3245033112583,
+          37.74834437086093
+        ],
+        [
+          279.8675496688742,
+          33.90728476821192
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

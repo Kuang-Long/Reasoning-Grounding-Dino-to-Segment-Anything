@@ -1,0 +1,221 @@
+{
+  "text": [
+    "In the evening, what can be turned on in the living room to save electricity and reduce the impact on the eyes while ensuring sufficient lighting?",
+    "In the evening, what can be turned on in the living room to ensure sufficient lighting while also saving electricity and reducing the impact on the eyes?",
+    "What can be turned on in the living room in the evening to ensure sufficient illumination while saving electricity and protecting eyes from excessive exertion?",
+    "What can be switched on in the living room in the evening to conserve energy, minimize impact on the eyes while ensuring sufficient illumination?",
+    "In the evening, which electrical appliance can be turned on to conserve electricity, reduce the strain on the eyes while also ensuring sufficient lighting in the living room?",
+    "At night, what can be switched on in the living room to conserve electricity while providing ample illumination without straining the eyes?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0344_01_0.jpg",
+      "points": [
+        [
+          40.61971830985915,
+          0.704225352112676
+        ],
+        [
+          42.59154929577464,
+          13.661971830985912
+        ],
+        [
+          50.47887323943661,
+          15.070422535211264
+        ],
+        [
+          55.267605633802816,
+          12.25352112676056
+        ],
+        [
+          58.64788732394365,
+          12.25352112676056
+        ],
+        [
+          62.0281690140845,
+          15.352112676056336
+        ],
+        [
+          71.32394366197182,
+          13.661971830985912
+        ],
+        [
+          74.70422535211267,
+          13.380281690140844
+        ],
+        [
+          73.85915492957746,
+          0.14084507042253414
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0344_01_0.jpg",
+      "points": [
+        [
+          262.8732394366197,
+          15.352112676056336
+        ],
+        [
+          271.0422535211267,
+          17.88732394366197
+        ],
+        [
+          275.5492957746479,
+          17.88732394366197
+        ],
+        [
+          279.2112676056338,
+          17.32394366197183
+        ],
+        [
+          283.4366197183098,
+          15.352112676056336
+        ],
+        [
+          289.6338028169014,
+          19.014084507042252
+        ],
+        [
+          301.7464788732394,
+          17.6056338028169
+        ],
+        [
+          304.5633802816901,
+          0.0
+        ],
+        [
+          266.8169014084507,
+          0.704225352112676
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0344_01_0.jpg",
+      "points": [
+        [
+          52.99401197604791,
+          14.60479041916168
+        ],
+        [
+          53.59281437125749,
+          40.35329341317366
+        ],
+        [
+          64.97005988023952,
+          42.748502994011986
+        ],
+        [
+          69.76047904191617,
+          39.75449101796407
+        ],
+        [
+          69.1616766467066,
+          21.19161676646707
+        ],
+        [
+          67.66467065868264,
+          14.60479041916168
+        ],
+        [
+          64.07185628742515,
+          11.011976047904191
+        ],
+        [
+          53.293413173652695,
+          11.610778443113773
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0344_01_0.jpg",
+      "points": [
+        [
+          275.1497005988024,
+          17.0
+        ],
+        [
+          271.5568862275449,
+          27.479041916167667
+        ],
+        [
+          272.4550898203593,
+          39.45508982035929
+        ],
+        [
+          270.05988023952096,
+          48.43712574850299
+        ],
+        [
+          273.95209580838326,
+          51.73053892215569
+        ],
+        [
+          286.8263473053892,
+          52.92814371257485
+        ],
+        [
+          286.8263473053892,
+          42.748502994011986
+        ],
+        [
+          289.2215568862276,
+          31.371257485029943
+        ],
+        [
+          290.7185628742515,
+          21.491017964071858
+        ],
+        [
+          287.72455089820363,
+          19.095808383233532
+        ],
+        [
+          283.83233532934133,
+          15.802395209580837
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

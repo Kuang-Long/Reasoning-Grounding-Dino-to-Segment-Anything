@@ -77,7 +77,7 @@ class BoundingBoxSAM:
 
         if not any(result["masks"].size > 0 for result in results):
             print("No masks detected.")
-            return image_pil
+            return image_pil, np.array([])
 
         # Draw results
         all_masks = np.array(np.concatenate([result["masks"] for result in results], axis=0))
@@ -99,9 +99,8 @@ class BoundingBoxSAM:
     def process_image(self, image_url: str, local_image_path: str, prompt: str):
         try:
             # Step 1: Send detection request
-            # task_uuid = self.send_detection_request(image_url, prompt)
+            task_uuid = self.send_detection_request(image_url, prompt)
 
-            task_uuid = 'c88da71e-2810-4f45-983b-a0d732430906'
             # Step 2: Poll for detection result
             detection_result = self.poll_detection_result(task_uuid)
 
@@ -117,4 +116,4 @@ class BoundingBoxSAM:
 
         except Exception as e:
             print(f"Error: {e}")
-            return None
+            return Image.open(local_image_path).convert("RGB"), None

@@ -1,0 +1,127 @@
+{
+  "text": [
+    "What object is used to prevent water from splashing out of the bathtub and wetting the bathroom floor?",
+    "What item is commonly placed around the perimeter of a bathtub to prevent water from splashing outside of the tub and onto the bathroom floor?",
+    "What object can be used to prevent water from splashing out of the bathtub and wetting the bathroom floor?",
+    "What is the object called that is used to prevent water from splashing out of the bathtub and wetting the bathroom floor?",
+    "What object typically helps to prevent water from splashing out of the bathtub and wetting the surrounding bathroom floor?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0550_00_3000.jpg",
+      "points": [
+        [
+          119.29870129870129,
+          0.5194805194805194
+        ],
+        [
+          128.64935064935065,
+          107.27272727272727
+        ],
+        [
+          130.72727272727272,
+          132.98701298701297
+        ],
+        [
+          139.8181818181818,
+          175.32467532467533
+        ],
+        [
+          143.45454545454544,
+          188.3116883116883
+        ],
+        [
+          141.11688311688312,
+          191.16883116883116
+        ],
+        [
+          139.2226148409894,
+          191.87279151943463
+        ],
+        [
+          138.86925795053003,
+          195.58303886925793
+        ],
+        [
+          138.339222614841,
+          202.29681978798587
+        ],
+        [
+          131.80212014134275,
+          217.31448763250881
+        ],
+        [
+          138.86925795053003,
+          217.66784452296818
+        ],
+        [
+          142.226148409894,
+          214.13427561837455
+        ],
+        [
+          144.52296819787986,
+          203.886925795053
+        ],
+        [
+          144.69964664310953,
+          199.1166077738516
+        ],
+        [
+          153.0035335689046,
+          189.75265017667843
+        ],
+        [
+          155.8303886925795,
+          185.68904593639576
+        ],
+        [
+          159.18727915194347,
+          169.61130742049468
+        ],
+        [
+          168.72791519434628,
+          175.79505300353355
+        ],
+        [
+          166.78445229681978,
+          183.74558303886926
+        ],
+        [
+          180.21201413427562,
+          183.92226148409893
+        ],
+        [
+          182.68551236749116,
+          182.68551236749116
+        ],
+        [
+          186.74911660777386,
+          175.4416961130742
+        ],
+        [
+          191.8108108108108,
+          146.54054054054055
+        ],
+        [
+          198.2972972972973,
+          67.89189189189189
+        ],
+        [
+          203.97297297297297,
+          0.0540540540540535
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

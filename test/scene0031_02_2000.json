@@ -1,0 +1,87 @@
+{
+  "text": [
+    "In order to enjoy a good seasonal view indoors, people often hang what objects on the wall?",
+    "What objects are commonly hung on a wall for people to enjoy a good seasonal view indoors?",
+    "What objects do people commonly hang on the wall to enjoy a good seasonal view indoors?",
+    "What objects are commonly hung on walls to enjoy a good seasonal view indoors?",
+    "What do people typically hang on walls indoors in order to enjoy a good seasonal view?",
+    "What objects do people usually place on the wall to enjoy a great seasonal view indoors?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0031_02_2000.jpg",
+      "points": [
+        [
+          151.48192771084337,
+          19.554216867469876
+        ],
+        [
+          150.87951807228913,
+          77.98795180722891
+        ],
+        [
+          155.39759036144576,
+          78.28915662650601
+        ],
+        [
+          293.0481927710843,
+          72.26506024096385
+        ],
+        [
+          293.34939759036143,
+          29.795180722891565
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0031_02_2000.jpg",
+      "points": [
+        [
+          151.78313253012047,
+          1.7831325301204792
+        ],
+        [
+          151.18072289156626,
+          9.6144578313253
+        ],
+        [
+          155.99999999999997,
+          11.421686746987948
+        ],
+        [
+          293.34939759036143,
+          28.28915662650602
+        ],
+        [
+          293.95180722891564,
+          26.783132530120476
+        ],
+        [
+          296.3614457831325,
+          2.686746987951807
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

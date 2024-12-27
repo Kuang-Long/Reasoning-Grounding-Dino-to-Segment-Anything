@@ -1,0 +1,68 @@
+{
+  "text": [
+    "What household object is commonly used to preserve or cool food items?",
+    "Which common household object is used to store or cool food items?",
+    "What is the common household item usually utilized for preserving or cooling food items?",
+    "What household object is commonly utilized to preserve or cool food?",
+    "What is the household object that being used to store or chilled food items?",
+    "What appliance is a household item that is commonly used to cool or preserve food?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0335_01_2000.jpg",
+      "points": [
+        [
+          103.49462365591397,
+          2.720430107526881
+        ],
+        [
+          109.6774193548387,
+          203.79569892473117
+        ],
+        [
+          121.50537634408602,
+          209.44086021505376
+        ],
+        [
+          161.55913978494624,
+          218.04301075268816
+        ],
+        [
+          207.79569892473117,
+          224.2258064516129
+        ],
+        [
+          247.5806451612903,
+          226.91397849462365
+        ],
+        [
+          254.83870967741933,
+          224.49462365591395
+        ],
+        [
+          257.79569892473114,
+          216.16129032258064
+        ],
+        [
+          319.0,
+          13.204301075268816
+        ],
+        [
+          319.0,
+          0.6666666666666643
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

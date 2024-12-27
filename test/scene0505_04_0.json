@@ -1,0 +1,67 @@
+{
+  "text": [
+    "If you want to watch a movie or a football game in a relatively high-quality screen, what object in the hotel room will help you accomplish this task?",
+    "If you wanted to watch a movie or a football game on a high-quality screen, what item in a hotel room could be used to satisfy this demand?",
+    "What object in a hotel room could be used to watch a high-quality movie or a football game?",
+    "If you are looking to watch a movie or football game on a high-quality screen within your hotel room, what in-room object would likely serve this purpose?",
+    "What object in the hotel room can be utilized to experience high-quality video content such as a movie or a football game?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0505_04_0.jpg",
+      "points": [
+        [
+          100.44117647058823,
+          0.7352941176470589
+        ],
+        [
+          107.05882352941177,
+          59.55882352941177
+        ],
+        [
+          109.11764705882354,
+          59.85294117647059
+        ],
+        [
+          154.5,
+          49.1
+        ],
+        [
+          154.3,
+          64.2
+        ],
+        [
+          160.1,
+          64.2
+        ],
+        [
+          159.8,
+          48.0
+        ],
+        [
+          182.0,
+          43.0
+        ],
+        [
+          182.5,
+          41.911764705882355
+        ],
+        [
+          183.08823529411765,
+          0.14705882352941177
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "text": [
+    "What appliance can we use to cook a roast chicken?",
+    "What household appliance might one typically use to cook a whole roast chicken?",
+    "What type of appliance would you use for cooking a roast chicken?",
+    "What household appliance is commonly used to cook a roast chicken?",
+    "Suppose we want to cook a roast chicken. What type of appliance should we use?",
+    "When cooking roast chicken, what tool is typically used for the task?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0439_00_0.jpg",
+      "points": [
+        [
+          156.44155844155844,
+          129.0909090909091
+        ],
+        [
+          161.37662337662337,
+          219.2207792207792
+        ],
+        [
+          165.53246753246754,
+          220.25974025974025
+        ],
+        [
+          241.89610389610388,
+          180.77922077922076
+        ],
+        [
+          243.45454545454544,
+          177.4025974025974
+        ],
+        [
+          248.64935064935065,
+          114.02597402597402
+        ],
+        [
+          251.5064935064935,
+          111.68831168831169
+        ],
+        [
+          250.2077922077922,
+          105.45454545454545
+        ],
+        [
+          250.2077922077922,
+          103.11688311688312
+        ],
+        [
+          159.8181818181818,
+          129.87012987012986
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

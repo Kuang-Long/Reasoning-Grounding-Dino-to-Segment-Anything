@@ -1,0 +1,112 @@
+{
+  "text": [
+    "A lot of sweat is produced in the kitchen while cooking, and dampness can easily breed bacteria and affect health. What in the picture should be turned on to effectively dissipate the steam, moisture and keep the air fresh during cooking?",
+    "When cooking, a significant amount of sweat is often produced in the kitchen. To effectively dissipate steam and moisture and maintain fresh air, what item in the picture should be turned on?",
+    "When cooking in the kitchen, it is common to produce a lot of sweat, which can lead to dampness and the growth of bacteria that can impact health. What item in the picture should be turned on to effectively dissipate steam and moisture, thereby keeping the air fresh during cooking?",
+    "When cooking, the kitchen area can often be damp and filled with steam and moisture, allowing bacteria to thrive and pose potential health risks. What item within the picture can be turned on to effectively dissipate the steam, moisture, improve air circulation, and keep the kitchen environment fresh?",
+    "While cooking, steam and moisture can accumulate, which can generate bacteria and negatively affect health. What appliance in the picture would be required to effectively dissipate the steam, moisture, and keep the air fresh in the kitchen?",
+    "While cooking in the kitchen, dampness and excess steam can be produced leading to increased bacterial growth that can adversely affect health. What part of the picture should be activated to effectively decrease steam and moisture while maintaining fresh air inside of the room?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0542_00_0.jpg",
+      "points": [
+        [
+          88.33819241982506,
+          0.5830903790087463
+        ],
+        [
+          84.25655976676384,
+          24.781341107871718
+        ],
+        [
+          82.21574344023323,
+          26.676384839650144
+        ],
+        [
+          82.36151603498541,
+          30.174927113702623
+        ],
+        [
+          83.38192419825073,
+          32.36151603498542
+        ],
+        [
+          83.52769679300292,
+          38.0466472303207
+        ],
+        [
+          106.55976676384839,
+          37.46355685131195
+        ],
+        [
+          111.9533527696793,
+          37.60932944606414
+        ],
+        [
+          113.41107871720116,
+          33.965014577259474
+        ],
+        [
+          116.61807580174927,
+          33.819241982507286
+        ],
+        [
+          119.38775510204081,
+          36.15160349854227
+        ],
+        [
+          119.67930029154519,
+          37.46355685131195
+        ],
+        [
+          133.09037900874634,
+          37.17201166180758
+        ],
+        [
+          139.65014577259475,
+          33.819241982507286
+        ],
+        [
+          141.2536443148688,
+          31.632653061224488
+        ],
+        [
+          138.33819241982508,
+          25.801749271137027
+        ],
+        [
+          131.3411078717201,
+          20.699708454810494
+        ],
+        [
+          129.44606413994168,
+          17.346938775510203
+        ],
+        [
+          126.82215743440233,
+          17.346938775510203
+        ],
+        [
+          125.51020408163265,
+          16.909620991253643
+        ],
+        [
+          116.03498542274052,
+          0.43731778425655976
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

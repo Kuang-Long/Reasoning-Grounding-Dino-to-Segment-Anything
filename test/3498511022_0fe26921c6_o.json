@@ -1,0 +1,204 @@
+{
+  "text": [
+    "When attending a formal event, people often wear clothes with a collar that can be fastened with buttons to give a more professional look. What part of the attire in the picture fits this description?",
+    "At formal events, individuals often wear clothing with collars that can be fastened with buttons to create a more polished appearance. What part of the attire in the picture fits this description?",
+    "In formal events, people usually wear clothing with collars that can be fastened with buttons to look more professional. Could you identify what part of the attire in the picture fits this description?",
+    "In which part of attire, shown in the picture, is a collar that can be fastened with buttons to create a more formal look, as is often the case when attending highly professional events?",
+    "When dressing for a formal event, individuals often wear clothing with a fastenable collar to achieve a more professional appearance. What component of the attire in the image would suit this criteria?",
+    "At formal events, people often wear clothing with a collar that can be fastened with buttons to achieve a more professional look. Please identify what specific aspect of the attire in the picture matches this description."
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "3498511022_0fe26921c6_o.jpg",
+      "points": [
+        [
+          3647.0,
+          1234.0
+        ],
+        [
+          3628.0,
+          1211.0
+        ],
+        [
+          3115.0,
+          954.0
+        ],
+        [
+          2988.0,
+          896.0
+        ],
+        [
+          2865.0,
+          869.0
+        ],
+        [
+          2747.0,
+          817.0
+        ],
+        [
+          2730.5084745762715,
+          809.3220338983051
+        ],
+        [
+          2721.1864406779664,
+          772.0338983050848
+        ],
+        [
+          2728.0,
+          665.0
+        ],
+        [
+          2708.0,
+          576.0
+        ],
+        [
+          2537.0,
+          236.0
+        ],
+        [
+          2476.0,
+          129.0
+        ],
+        [
+          2427.0,
+          82.0
+        ],
+        [
+          2360.0,
+          69.0
+        ],
+        [
+          2151.0,
+          62.0
+        ],
+        [
+          1158.0,
+          75.0
+        ],
+        [
+          1058.0,
+          97.0
+        ],
+        [
+          1006.0,
+          136.0
+        ],
+        [
+          967.0,
+          193.0
+        ],
+        [
+          899.0,
+          366.0
+        ],
+        [
+          822.0,
+          524.0
+        ],
+        [
+          794.0,
+          639.0
+        ],
+        [
+          801.0,
+          687.0
+        ],
+        [
+          790.0,
+          699.0
+        ],
+        [
+          739.0,
+          710.0
+        ],
+        [
+          484.0,
+          692.0
+        ],
+        [
+          0.0,
+          732.0
+        ],
+        [
+          0.0,
+          2735.0
+        ],
+        [
+          1928.0,
+          2735.0
+        ],
+        [
+          1966.0,
+          2674.0
+        ],
+        [
+          2017.0,
+          2527.0
+        ],
+        [
+          2037.0,
+          2373.0
+        ],
+        [
+          2062.0,
+          2295.0
+        ],
+        [
+          2081.0,
+          2280.0
+        ],
+        [
+          2133.0,
+          2265.0
+        ],
+        [
+          2211.0,
+          2210.0
+        ],
+        [
+          2374.0,
+          2130.0
+        ],
+        [
+          2713.0,
+          2125.0
+        ],
+        [
+          2445.0,
+          2122.0
+        ],
+        [
+          2611.0,
+          2118.0
+        ],
+        [
+          3191.0,
+          2142.0
+        ],
+        [
+          3561.0,
+          2191.0
+        ],
+        [
+          3635.0,
+          2182.0
+        ],
+        [
+          3647.0,
+          2175.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

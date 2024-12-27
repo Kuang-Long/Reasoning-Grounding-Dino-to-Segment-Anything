@@ -1,0 +1,54 @@
+{
+  "text": [
+    "To display large amounts of information visually in a meeting, what object can be used to write it down on and display it on the wall?",
+    "To display a significant amount of data visually during a meeting, what device can be utilized to write it down and present it on the wall for all to view?",
+    "When needing to visually display large amounts of information during a meeting, what can be utilized to write this information down and project it onto a wall for all to see?",
+    "In a meeting where there is a large amount of information to be presented visually, what object could one use to write down the information and display it on the wall?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0663_01_2000.jpg",
+      "points": [
+        [
+          1.1924398625429333,
+          43.10652920962198
+        ],
+        [
+          0.525773195876269,
+          211.77319587628864
+        ],
+        [
+          138.52577319587627,
+          179.77319587628864
+        ],
+        [
+          139.19243986254295,
+          175.77319587628864
+        ],
+        [
+          135.85910652920964,
+          59.77319587628865
+        ],
+        [
+          133.85910652920964,
+          57.77319587628865
+        ],
+        [
+          62.19243986254294,
+          49.439862542955325
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "text": [
+    "In the morning every day, most people develop a habit of brushing their teeth to remove the strange smells that may build up overnight. What object is used in this routine to remove the foods and other substances stuck on teeth during the night sleep?",
+    "In the morning, most people have a habit of brushing their teeth to remove any buildup of smell overnight. Which object, when used during this routine, can help remove food and other residue from teeth?",
+    "What item is typically utilized to remove food and other substances that may be stuck on teeth after a night's sleep as part of a morning teeth-brushing routine?",
+    "When people wake up in the morning, they generally develop a habit of brushing their teeth to get rid of food debris and other substances that may have accumulated overnight. What instrument is typically used in this routine to remove these substances from the teeth?",
+    "In the morning when you wake up, brushing your teeth can help remove strange smells that may have accumulated overnight. What object is used in this routine to remove food and other substances that might be adhered to your teeth while you were sleeping?",
+    "What object is typically utilized as part of the morning routine to remove the food particles and other substances that may have stuck to the teeth overnight?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0116_01_0.jpg",
+      "points": [
+        [
+          160.0,
+          70.0
+        ],
+        [
+          161.14649681528664,
+          73.7791932059448
+        ],
+        [
+          168.15286624203821,
+          81.104033970276
+        ],
+        [
+          171.97452229299364,
+          86.30573248407643
+        ],
+        [
+          186.0,
+          103.0
+        ],
+        [
+          189.0,
+          106.0
+        ],
+        [
+          191.93205944798302,
+          108.59872611464968
+        ],
+        [
+          194.9044585987261,
+          108.70488322717623
+        ],
+        [
+          195.4352441613588,
+          105.73248407643312
+        ],
+        [
+          176.0,
+          82.0
+        ],
+        [
+          169.0,
+          76.0
+        ],
+        [
+          167.0,
+          73.0
+        ],
+        [
+          166.66666666666666,
+          67.72823779193206
+        ],
+        [
+          165.0,
+          67.0
+        ],
+        [
+          161.46496815286625,
+          66.24203821656052
+        ],
+        [
+          160.0,
+          68.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0116_01_0.jpg",
+      "points": [
+        [
+          207.0,
+          109.0
+        ],
+        [
+          206.0,
+          113.0
+        ],
+        [
+          208.0,
+          116.0
+        ],
+        [
+          211.0,
+          120.0
+        ],
+        [
+          218.0,
+          128.0
+        ],
+        [
+          225.0,
+          133.0
+        ],
+        [
+          234.0,
+          142.0
+        ],
+        [
+          235.0,
+          143.1
+        ],
+        [
+          237.3,
+          143.2
+        ],
+        [
+          239.0,
+          142.0
+        ],
+        [
+          248.6,
+          136.5
+        ],
+        [
+          248.3,
+          135.0
+        ],
+        [
+          239.0,
+          127.0
+        ],
+        [
+          238.0,
+          126.0
+        ],
+        [
+          237.0,
+          126.0
+        ],
+        [
+          230.9,
+          121.4
+        ],
+        [
+          224.0,
+          116.0
+        ],
+        [
+          220.0,
+          113.0
+        ],
+        [
+          218.0,
+          112.0
+        ],
+        [
+          215.9,
+          111.6
+        ],
+        [
+          214.0,
+          110.0
+        ],
+        [
+          211.4,
+          108.6
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0116_01_0.jpg",
+      "points": [
+        [
+          204.40414507772022,
+          85.49222797927462
+        ],
+        [
+          195.0777202072539,
+          93.00518134715026
+        ],
+        [
+          197.66839378238342,
+          106.99481865284974
+        ],
+        [
+          212.95336787564767,
+          105.95854922279793
+        ],
+        [
+          233.41968911917098,
+          119.17098445595855
+        ],
+        [
+          254.04560260586317,
+          135.14657980456025
+        ],
+        [
+          258.9622641509434,
+          125.94339622641509
+        ],
+        [
+          259.9087947882736,
+          121.46579804560258
+        ],
+        [
+          259.9087947882736,
+          111.69381107491856
+        ],
+        [
+          245.76271186440678,
+          98.92141756548536
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

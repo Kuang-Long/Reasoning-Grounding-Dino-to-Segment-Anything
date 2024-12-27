@@ -1,0 +1,104 @@
+{
+  "text": [
+    "What is the object that displays the current time on the wall called?",
+    "What is the device called that indicates the current time and is generally mounted on a wall?",
+    "What do you call the item on the wall that displays the current time?",
+    "What is the name of the object that often hangs on the wall and displays the current time?",
+    "What is the term for the object on the wall that presents the current time?",
+    "What is the common name of the device commonly mounted on the wall that displays the current time?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0378_01_2000.jpg",
+      "points": [
+        [
+          270.0114025085519,
+          90.42189281641961
+        ],
+        [
+          264.42417331813,
+          95.55302166476625
+        ],
+        [
+          260.6613454960091,
+          102.96465222348917
+        ],
+        [
+          260.54732041049033,
+          111.63055872291905
+        ],
+        [
+          262.37172177879137,
+          117.55986316989738
+        ],
+        [
+          268.18700114025086,
+          123.3751425313569
+        ],
+        [
+          277.1949828962372,
+          128.1641961231471
+        ],
+        [
+          285.51881413911065,
+          129.41847206385407
+        ],
+        [
+          296.0091220068415,
+          127.02394526795895
+        ],
+        [
+          301.02622576966934,
+          123.03306727480046
+        ],
+        [
+          305.35917901938427,
+          116.53363740022806
+        ],
+        [
+          306.9555302166477,
+          109.00798175598632
+        ],
+        [
+          307.1835803876853,
+          101.25427594070696
+        ],
+        [
+          302.62257696693274,
+          93.61459521094642
+        ],
+        [
+          295.43899657924743,
+          88.93956670467503
+        ],
+        [
+          291.448118586089,
+          87.57126567844927
+        ],
+        [
+          284.72063854047894,
+          86.3169897377423
+        ],
+        [
+          278.563283922463,
+          87.45724059293045
+        ],
+        [
+          275.02850627137974,
+          88.36944127708097
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

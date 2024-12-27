@@ -1,0 +1,172 @@
+{
+  "text": [
+    "It is currently very hot inside the room. What object can be used to adjust the indoor temperature to a comfortable level?",
+    "What object could be used to adjust the indoor temperature to a comfortable level if it is very hot inside the room?",
+    "If it's very hot inside the room, then what object can be used to adjust the indoor temperature to a comfortable level?",
+    "As a smart home AI, what object would you activate to regulate the indoor temperature to a comfortable level, given that the current temperature is high?",
+    "What could be used to adjust the indoor temperature to a comfortable level if it's currently sweltering in the room?",
+    "As a smart home AI, what object would you suggest using to adjust the indoor temperature to a comfortable level, given the high temperatures in the room?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0331_00_2000.jpg",
+      "points": [
+        [
+          37.22627737226277,
+          110.58394160583941
+        ],
+        [
+          28.467153284671532,
+          114.7810218978102
+        ],
+        [
+          22.262773722627735,
+          120.62043795620437
+        ],
+        [
+          16.240875912408757,
+          132.11678832116786
+        ],
+        [
+          13.503649635036496,
+          140.69343065693428
+        ],
+        [
+          13.686131386861312,
+          150.91240875912408
+        ],
+        [
+          18.065693430656932,
+          168.978102189781
+        ],
+        [
+          27.73722627737226,
+          182.11678832116786
+        ],
+        [
+          36.131386861313864,
+          192.33576642335765
+        ],
+        [
+          46.53284671532846,
+          200.72992700729927
+        ],
+        [
+          59.489051094890506,
+          208.75912408759123
+        ],
+        [
+          74.63503649635035,
+          212.22627737226276
+        ],
+        [
+          89.7810218978102,
+          211.31386861313868
+        ],
+        [
+          101.45985401459853,
+          207.2992700729927
+        ],
+        [
+          108.75912408759123,
+          200.54744525547443
+        ],
+        [
+          114.5985401459854,
+          186.4963503649635
+        ],
+        [
+          115.51094890510949,
+          173.90510948905109
+        ],
+        [
+          115.32846715328466,
+          167.33576642335765
+        ],
+        [
+          111.67883211678831,
+          153.46715328467153
+        ],
+        [
+          106.38686131386861,
+          143.978102189781
+        ],
+        [
+          107.84671532846714,
+          141.6058394160584
+        ],
+        [
+          107.84671532846714,
+          135.40145985401458
+        ],
+        [
+          103.10218978102189,
+          127.37226277372262
+        ],
+        [
+          100.36496350364963,
+          124.08759124087591
+        ],
+        [
+          97.992700729927,
+          121.71532846715327
+        ],
+        [
+          94.70802919708028,
+          121.71532846715327
+        ],
+        [
+          89.96350364963503,
+          122.44525547445255
+        ],
+        [
+          86.49635036496349,
+          123.54014598540145
+        ],
+        [
+          83.21167883211679,
+          120.25547445255474
+        ],
+        [
+          64.05109489051094,
+          110.94890510948905
+        ],
+        [
+          58.75912408759124,
+          110.21897810218977
+        ],
+        [
+          53.10218978102189,
+          108.94160583941606
+        ],
+        [
+          45.25547445255474,
+          108.75912408759123
+        ],
+        [
+          43.248175182481745,
+          105.65693430656934
+        ],
+        [
+          40.693430656934304,
+          106.75182481751824
+        ],
+        [
+          38.138686131386855,
+          107.2992700729927
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

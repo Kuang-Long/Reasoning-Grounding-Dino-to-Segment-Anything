@@ -1,0 +1,43 @@
+{
+  "text": [
+    "If I want to enter this room, what object should I pass through?",
+    "What do I need to pass through in order to enter this room?",
+    "To enter this room, what would you have to pass through?",
+    "What object should you pass through to enter this room?",
+    "To enter this room, what structure or feature do I need to pass through?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0221_00_0.jpg",
+      "points": [
+        [
+          97.78612716763006,
+          1.4508670520231224
+        ],
+        [
+          109.92485549132948,
+          218.5028901734104
+        ],
+        [
+          205.30057803468208,
+          210.69942196531792
+        ],
+        [
+          209.92485549132948,
+          2.0289017341040463
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

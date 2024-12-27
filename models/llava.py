@@ -36,9 +36,7 @@ class Llava:
                     Your description should include:
                     1. All visible objects (animals, items, and background elements).
                     2. Their relative positions (e.g., \"on the left\", \"next to\", \"behind\").
-                    3. Any notable colors, patterns, or physical features.
-                    4. The context of the scene (e.g., \"zoo environment\", \"classroom setting\").
-                    5. Any interactions or actions happening within the scene."""},
+                    3. Any notable colors, patterns, or physical features."""},
                 ],
             },
         ]

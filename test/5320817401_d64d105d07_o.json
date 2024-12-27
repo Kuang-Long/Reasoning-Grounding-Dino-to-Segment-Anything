@@ -1,0 +1,174 @@
+{
+  "text": [
+    "When we want to listen to music or other audio content at a louder volume, what device in the picture can we use to enhance the sound?",
+    "When we want to listen to music or other audio content at a louder volume, which device in the picture can be utilized to amplify the sound?",
+    "Which object in the picture could be utilized to increase the volume and make music or other audio content louder?",
+    "What device in the image can be utilized for amplifying the sound when we want to listen to music or other audio content at a higher volume?",
+    "When we want to listen to audio content at a louder volume, what device in the picture can be used to enhance the sound?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5320817401_d64d105d07_o.jpg",
+      "points": [
+        [
+          309.125,
+          1178.125
+        ],
+        [
+          516.0,
+          1157.0
+        ],
+        [
+          596.0,
+          787.0
+        ],
+        [
+          616.0,
+          757.0
+        ],
+        [
+          948.4150943396226,
+          739.622641509434
+        ],
+        [
+          1263.509433962264,
+          733.9622641509434
+        ],
+        [
+          1663.509433962264,
+          758.4905660377358
+        ],
+        [
+          2082.3773584905657,
+          826.4150943396226
+        ],
+        [
+          2091.8113207547167,
+          845.2830188679245
+        ],
+        [
+          2193.698113207547,
+          1220.754716981132
+        ],
+        [
+          2295.5849056603774,
+          1239.6226415094338
+        ],
+        [
+          2368.5,
+          1559.375
+        ],
+        [
+          2449.75,
+          2225.0
+        ],
+        [
+          2449.75,
+          3243.75
+        ],
+        [
+          2421.625,
+          3293.75
+        ],
+        [
+          2356.0,
+          3315.625
+        ],
+        [
+          2368.5,
+          3371.875
+        ],
+        [
+          2421.625,
+          3368.75
+        ],
+        [
+          2371.625,
+          3409.375
+        ],
+        [
+          1974.75,
+          3496.875
+        ],
+        [
+          1577.875,
+          3540.625
+        ],
+        [
+          1068.5,
+          3559.375
+        ],
+        [
+          659.125,
+          3528.125
+        ],
+        [
+          296.625,
+          3490.625
+        ],
+        [
+          240.375,
+          3475.0
+        ],
+        [
+          237.25,
+          3368.75
+        ],
+        [
+          221.625,
+          3362.5
+        ],
+        [
+          181.0,
+          3181.25
+        ],
+        [
+          143.5,
+          2356.25
+        ],
+        [
+          199.75,
+          1793.75
+        ],
+        [
+          284.125,
+          1284.375
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "flag",
+      "labels": [
+        "flag"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5320817401_d64d105d07_o.jpg",
+      "points": [
+        [
+          2092.608695652174,
+          104.34782608695652
+        ],
+        [
+          2544.782608695652,
+          621.7391304347826
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

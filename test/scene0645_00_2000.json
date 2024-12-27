@@ -1,0 +1,170 @@
+{
+  "text": [
+    "Where can we throw away the waste that has been cleaned up using toilet paper?",
+    "What is the proper way to dispose of toilet paper after you have cleaned up waste?",
+    "As a robot, where would you dispose of toilet paper after cleaning up waste?",
+    "As a responsible citizen, where should we dispose the waste that has been cleaned up using toilet paper?",
+    "As a cleaning assistant, please help me identify the appropriate place to dispose of waste that has been cleaned up using toilet paper, according to the picture."
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0645_00_2000.jpg",
+      "points": [
+        [
+          20.43795620437956,
+          122.62773722627736
+        ],
+        [
+          28.284671532846712,
+          159.6715328467153
+        ],
+        [
+          30.839416058394157,
+          161.6788321167883
+        ],
+        [
+          35.21897810218978,
+          162.77372262773721
+        ],
+        [
+          63.68613138686131,
+          194.34306569343065
+        ],
+        [
+          68.43065693430657,
+          194.34306569343065
+        ],
+        [
+          116.24087591240875,
+          170.0729927007299
+        ],
+        [
+          116.60583941605839,
+          167.51824817518246
+        ],
+        [
+          105.47445255474452,
+          133.21167883211677
+        ],
+        [
+          105.83941605839415,
+          131.93430656934305
+        ],
+        [
+          106.20437956204378,
+          130.2919708029197
+        ],
+        [
+          86.1,
+          95.9
+        ],
+        [
+          83.6,
+          96.7
+        ],
+        [
+          80.3,
+          100.2
+        ],
+        [
+          41.7,
+          116.3
+        ],
+        [
+          30.4,
+          120.0
+        ],
+        [
+          23.905109489051092,
+          119.8905109489051
+        ],
+        [
+          20.43795620437956,
+          120.43795620437955
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0645_00_2000.jpg",
+      "points": [
+        [
+          21.6,
+          115.1
+        ],
+        [
+          27.4,
+          118.9
+        ],
+        [
+          32.5,
+          119.1
+        ],
+        [
+          80.0,
+          99.3
+        ],
+        [
+          82.4,
+          94.5
+        ],
+        [
+          80.6,
+          86.8
+        ],
+        [
+          76.1,
+          79.8
+        ],
+        [
+          71.3,
+          77.8
+        ],
+        [
+          67.2,
+          76.6
+        ],
+        [
+          29.5,
+          90.3
+        ],
+        [
+          21.0,
+          94.9
+        ],
+        [
+          19.3,
+          99.6
+        ],
+        [
+          18.5,
+          107.2
+        ],
+        [
+          21.0,
+          114.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

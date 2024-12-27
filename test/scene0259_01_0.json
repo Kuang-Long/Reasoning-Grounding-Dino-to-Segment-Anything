@@ -1,0 +1,56 @@
+{
+  "text": [
+    "When we need to sleep, what should we use to block light coming in from outside?",
+    "When it is time to sleep, what can be used to block light that may enter into a room from outside?",
+    "What should we use to block light coming from the outside when we need to sleep?",
+    "When it is time to rest and sleep, what measures can be taken to block light coming in from the outside?",
+    "What can we use to block external light when we need to sleep?",
+    "When we need to sleep, what can we use to prevent external light from coming into the room?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0259_01_0.jpg",
+      "points": [
+        [
+          39.03896103896104,
+          1.2987012987012987
+        ],
+        [
+          53.324675324675326,
+          154.28571428571428
+        ],
+        [
+          200.33766233766232,
+          125.97402597402598
+        ],
+        [
+          226.57142857142856,
+          119.48051948051948
+        ],
+        [
+          226.57142857142856,
+          112.20779220779221
+        ],
+        [
+          252.28571428571428,
+          107.53246753246754
+        ],
+        [
+          261.37662337662334,
+          1.5584415584415585
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

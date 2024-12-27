@@ -1,0 +1,96 @@
+{
+  "text": [
+    "What is the object that the person in the picture is holding onto while walking his dog?",
+    "What is the object that the person is holding while walking their dog in the image?",
+    "While walking his dog, what object is the person holding onto in the picture?",
+    "What is the object that the person in the picture is holding onto, while taking his or her dog for a walk?",
+    "What is the object that the man in the picture using to maintain his balance while walking his dog?",
+    "What is the object that the person in the picture is holding onto while walking his dog?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "241852123_1c8229b3e7_o.jpg",
+      "points": [
+        [
+          685.3174603174602,
+          116.26984126984127
+        ],
+        [
+          679.6296296296296,
+          115.60846560846561
+        ],
+        [
+          674.6031746031746,
+          114.81481481481481
+        ],
+        [
+          670.2380952380952,
+          114.94708994708994
+        ],
+        [
+          663.3597883597884,
+          115.47619047619047
+        ],
+        [
+          661.3756613756614,
+          113.62433862433862
+        ],
+        [
+          661.3756613756614,
+          111.9047619047619
+        ],
+        [
+          660.8465608465608,
+          109.78835978835978
+        ],
+        [
+          666.0052910052909,
+          108.73015873015872
+        ],
+        [
+          721.9576719576719,
+          96.69312169312168
+        ],
+        [
+          759.9206349206348,
+          86.64021164021163
+        ],
+        [
+          799.0,
+          75.13227513227513
+        ],
+        [
+          799.0,
+          85.05291005291005
+        ],
+        [
+          761.1111111111111,
+          94.3121693121693
+        ],
+        [
+          755.4232804232804,
+          93.91534391534391
+        ],
+        [
+          748.9417989417989,
+          95.50264550264549
+        ],
+        [
+          741.7989417989418,
+          97.48677248677248
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "text": [
+    "What should we use to prevent water from splashing around when taking a shower?",
+    "What object or tool might be used to prevent water from splashing around during a shower?",
+    "Which item can be utilized to prevent water from splashing around during a shower?",
+    "What can be used to prevent water from splashing outside of the shower area while taking a shower?",
+    "What can we utilize to keep water from splashing around while showering?",
+    "What can be utilized during a shower to prevent water from splashing around?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0276_00_2000.jpg",
+      "points": [
+        [
+          256.72043010752685,
+          2.451612903225806
+        ],
+        [
+          248.38709677419354,
+          21.53763440860215
+        ],
+        [
+          234.94623655913978,
+          55.40860215053763
+        ],
+        [
+          217.2043010752688,
+          93.31182795698925
+        ],
+        [
+          206.72043010752688,
+          117.23655913978494
+        ],
+        [
+          198.11827956989245,
+          132.29032258064515
+        ],
+        [
+          189.78494623655914,
+          143.04301075268816
+        ],
+        [
+          192.2043010752688,
+          145.46236559139786
+        ],
+        [
+          209.13978494623655,
+          149.2258064516129
+        ],
+        [
+          221.50537634408602,
+          148.41935483870967
+        ],
+        [
+          228.76344086021504,
+          141.4301075268817
+        ],
+        [
+          239.51612903225805,
+          126.10752688172042
+        ],
+        [
+          252.15053763440858,
+          102.45161290322581
+        ],
+        [
+          279.3010752688172,
+          41.69892473118279
+        ],
+        [
+          296.23655913978496,
+          2.989247311827957
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

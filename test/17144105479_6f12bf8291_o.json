@@ -1,0 +1,164 @@
+{
+  "text": [
+    "When participating in a car show, showcasing the unique features of each car is crucial. What part of the car can be showcased by opening it in the picture?",
+    "During a car show, showcasing the unique features of each vehicle is essential. What aspect of a car can be demonstrated by opening it, given the current picture?",
+    "When participating in a car show, it's crucial to showcase a vehicle's unique features. Which part of the car could be highlighted by opening it according to the picture?",
+    "When participating in a car show, it's important to highlight the unique features of each car. What part of the car, as shown in the picture, could be revealed to showcase its features?",
+    "An essential component of car shows involves displaying the unique features of each car to the audience attending the event. What aspect of the vehicle can be showcased by opening a portion of it, as depicted in the picture?",
+    "When participating in a car show, it's important to showcase the unique features of each car. Based on the image provided, which part of the car could be displayed by opening it to highlight its distinctive characteristics?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "17144105479_6f12bf8291_o.jpg",
+      "points": [
+        [
+          972.5165562913908,
+          1061.58940397351
+        ],
+        [
+          987.4172185430464,
+          1064.2384105960266
+        ],
+        [
+          1009.933774834437,
+          1068.2119205298013
+        ],
+        [
+          1049.0066225165563,
+          1071.523178807947
+        ],
+        [
+          1101.9867549668875,
+          1071.8543046357615
+        ],
+        [
+          1125.3918495297805,
+          1071.1598746081504
+        ],
+        [
+          1149.0066225165563,
+          1070.1986754966888
+        ],
+        [
+          1169.9059561128527,
+          1067.7115987460816
+        ],
+        [
+          1189.9686520376176,
+          1065.8307210031348
+        ],
+        [
+          1199.6865203761756,
+          1064.576802507837
+        ],
+        [
+          1215.9574468085107,
+          1061.3475177304965
+        ],
+        [
+          1234.1059602649007,
+          1055.9602649006622
+        ],
+        [
+          1242.7152317880796,
+          1051.3245033112582
+        ],
+        [
+          1246.039603960396,
+          1043.3168316831684
+        ],
+        [
+          1245.049504950495,
+          1037.8712871287128
+        ],
+        [
+          1242.079207920792,
+          1033.9108910891089
+        ],
+        [
+          1235.8910891089108,
+          1030.4455445544554
+        ],
+        [
+          1215.8415841584158,
+          1024.2574257425742
+        ],
+        [
+          1196.5346534653465,
+          1021.039603960396
+        ],
+        [
+          1168.8118811881188,
+          1018.0693069306931
+        ],
+        [
+          1134.6534653465346,
+          1016.8316831683168
+        ],
+        [
+          1082.6732673267327,
+          1017.3267326732673
+        ],
+        [
+          1055.6930693069307,
+          1018.5643564356435
+        ],
+        [
+          1024.2574257425742,
+          1021.7821782178218
+        ],
+        [
+          996.5346534653465,
+          1025.2475247524753
+        ],
+        [
+          974.7524752475248,
+          1031.1881188118812
+        ],
+        [
+          961.1386138613861,
+          1037.128712871287
+        ],
+        [
+          955.940594059406,
+          1040.09900990099
+        ],
+        [
+          952.7227722772277,
+          1042.8217821782177
+        ],
+        [
+          951.2376237623762,
+          1045.5445544554455
+        ],
+        [
+          951.980198019802,
+          1049.5049504950496
+        ],
+        [
+          953.7128712871287,
+          1052.7227722772277
+        ],
+        [
+          956.4356435643564,
+          1055.19801980198
+        ],
+        [
+          963.3663366336633,
+          1058.6633663366335
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

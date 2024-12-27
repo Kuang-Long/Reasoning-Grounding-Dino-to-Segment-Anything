@@ -1,0 +1,44 @@
+{
+  "text": [
+    "During a brainstorming event, it is common to record and present ideas on what object is the whiteboard in the room?",
+    "Where are ideas commonly recorded and presented during a brainstorming event?",
+    "During a brainstorming event, it's common to record and present ideas. What object in the room is typically utilized for this purpose?",
+    "in a typical brainstorming session, it is customary to present and document ideas for discussion. What item in the room is commonly used for recording and presenting ideas in such a situation?",
+    "During a brainstorming event, ideas are commonly recorded and presented, and what object in the room could facilitate this process?",
+    "During a brainstorming event, it is common to record and present ideas. What object in the room might be used for this purpose?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0401_00_0.jpg",
+      "points": [
+        [
+          84.23376623376623,
+          0.0
+        ],
+        [
+          88.9090909090909,
+          52.98701298701299
+        ],
+        [
+          0.0,
+          72.20779220779221
+        ],
+        [
+          0.33766233766233755,
+          0.5194805194805194
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "text": [
+    "What object is used to store various toiletries or medication in the bathroom?",
+    "In the bathroom, what object is typically utilized for storing various toiletries or medications?",
+    "What object is commonly used to store various toiletries or medications in the bathroom?",
+    "What object in the bathroom serves to store toiletries or medication?",
+    "Which object is typically used for storing various toiletries or medications in the bathroom?",
+    "What is the name of the object used to store various toiletries or medication in the bathroom?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0485_00_0.jpg",
+      "points": [
+        [
+          260.0779220779221,
+          42.077922077922075
+        ],
+        [
+          259.2987012987013,
+          51.16883116883117
+        ],
+        [
+          241.11688311688312,
+          69.87012987012987
+        ],
+        [
+          240.85714285714286,
+          72.46753246753246
+        ],
+        [
+          242.93506493506493,
+          77.92207792207792
+        ],
+        [
+          244.23376623376623,
+          78.7012987012987
+        ],
+        [
+          231.76623376623377,
+          170.1298701298701
+        ],
+        [
+          319.0,
+          194.54545454545453
+        ],
+        [
+          317.4805194805195,
+          45.714285714285715
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

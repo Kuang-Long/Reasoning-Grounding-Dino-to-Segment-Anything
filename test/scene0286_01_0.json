@@ -1,0 +1,159 @@
+{
+  "text": [
+    "On what structure in the bedroom can we place alarm clocks, a glass of water, or other small items we may need to access easily when waking up?",
+    "Which structure in the bedroom is suitable for placing alarm clocks, a glass of water, or other small items that may be needed and easily accessible after waking up?",
+    "What furniture piece within the bedroom might we place an alarm clock, a glass of water, or other small items that we need to access easily when waking up?",
+    "What structure in a bedroom is the most suitable for placing alarm clocks, a glass of water, or other items that may be needed to access easily upon waking up?",
+    "What structure in the bedroom can typically be used to hold small items such as alarm clocks, glasses of water, or other objects that may be required upon waking up?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0286_01_0.jpg",
+      "points": [
+        [
+          143.5860058309038,
+          100.72886297376093
+        ],
+        [
+          143.14868804664724,
+          119.67930029154519
+        ],
+        [
+          143.2944606413994,
+          123.9067055393586
+        ],
+        [
+          153.35276967930028,
+          144.46064139941691
+        ],
+        [
+          159.32944606413994,
+          161.8075801749271
+        ],
+        [
+          202.0408163265306,
+          160.34985422740525
+        ],
+        [
+          203.0612244897959,
+          162.68221574344022
+        ],
+        [
+          206.99708454810494,
+          162.68221574344022
+        ],
+        [
+          210.49562682215742,
+          161.66180758017492
+        ],
+        [
+          213.70262390670553,
+          158.01749271137027
+        ],
+        [
+          218.2215743440233,
+          119.82507288629738
+        ],
+        [
+          221.7201166180758,
+          118.3673469387755
+        ],
+        [
+          221.28279883381924,
+          115.1603498542274
+        ],
+        [
+          199.56268221574342,
+          116.90962099125363
+        ],
+        [
+          197.08454810495627,
+          115.1603498542274
+        ],
+        [
+          182.3615160349854,
+          115.45189504373177
+        ],
+        [
+          182.06997084548104,
+          113.9941690962099
+        ],
+        [
+          177.55102040816325,
+          104.95626822157433
+        ],
+        [
+          179.73760932944606,
+          101.45772594752187
+        ],
+        [
+          179.73760932944606,
+          100.14577259475219
+        ],
+        [
+          169.82507288629736,
+          100.0
+        ],
+        [
+          169.3877551020408,
+          101.16618075801749
+        ],
+        [
+          174.05247813411077,
+          103.35276967930028
+        ],
+        [
+          174.78134110787173,
+          105.10204081632652
+        ],
+        [
+          173.9067055393586,
+          110.93294460641398
+        ],
+        [
+          171.42857142857142,
+          112.09912536443149
+        ],
+        [
+          168.51311953352769,
+          111.22448979591836
+        ],
+        [
+          165.88921282798833,
+          109.91253644314868
+        ],
+        [
+          166.32653061224488,
+          105.10204081632652
+        ],
+        [
+          160.7871720116618,
+          106.4139941690962
+        ],
+        [
+          154.66472303206996,
+          104.81049562682215
+        ],
+        [
+          152.33236151603498,
+          102.91545189504373
+        ],
+        [
+          152.33236151603498,
+          100.29154518950436
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

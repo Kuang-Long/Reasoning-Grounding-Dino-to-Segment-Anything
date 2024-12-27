@@ -1,0 +1,160 @@
+{
+  "text": [
+    "To ensure proper hygiene, it is common for people to clean the bathroom on a regular basis. What object in the picture needs to be opened or moved to effectively clean the inside of the toilet?",
+    "To effectively clean the inside of a toilet, what object do you need to move or open in the picture?",
+    "What object should be opened or moved to clean the interior of the toilet effectively in this picture?",
+    "When cleaning a bathroom for hygiene purposes, which object in the image should be opened or moved to enable thorough cleaning of the interior of the toilet?",
+    "What is the object that needs to be moved or opened in the picture to clean the interior of the toilet?",
+    "What part of the picture needs to be opened or moved to clean the inside of the toilet properly to ensure proper hygiene?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "3399742871_b7539bfebf_o.jpg",
+      "points": [
+        [
+          1426.8421052631577,
+          881.578947368421
+        ],
+        [
+          474.5762711864407,
+          892.3728813559322
+        ],
+        [
+          163.3986928104575,
+          877.124183006536
+        ],
+        [
+          139.2156862745098,
+          869.9346405228758
+        ],
+        [
+          98.75776397515527,
+          852.7950310559006
+        ],
+        [
+          74.53416149068323,
+          837.8881987577639
+        ],
+        [
+          58.38509316770186,
+          825.4658385093168
+        ],
+        [
+          50.0,
+          812.5
+        ],
+        [
+          14.440433212996389,
+          655.5956678700361
+        ],
+        [
+          16.967509025270758,
+          638.6281588447654
+        ],
+        [
+          23.826714801444044,
+          616.2454873646209
+        ],
+        [
+          37.90613718411552,
+          594.2238267148015
+        ],
+        [
+          57.761732851985556,
+          572.202166064982
+        ],
+        [
+          90.25270758122744,
+          546.9314079422383
+        ],
+        [
+          122.0216606498195,
+          527.0758122743682
+        ],
+        [
+          168.88111888111888,
+          505.24475524475525
+        ],
+        [
+          206.64335664335664,
+          491.958041958042
+        ],
+        [
+          250.0,
+          482.1678321678322
+        ],
+        [
+          278.6713286713287,
+          477.62237762237766
+        ],
+        [
+          1341.5458937198068,
+          463.768115942029
+        ],
+        [
+          1402.415458937198,
+          470.53140096618364
+        ],
+        [
+          1441.0628019323672,
+          477.7777777777778
+        ],
+        [
+          1487.9227053140098,
+          492.2705314009662
+        ],
+        [
+          1528.985507246377,
+          511.59420289855075
+        ],
+        [
+          1563.2850241545896,
+          537.1980676328503
+        ],
+        [
+          1590.338164251208,
+          561.3526570048309
+        ],
+        [
+          1598.0676328502416,
+          574.8792270531401
+        ],
+        [
+          1599.0,
+          794.2028985507247
+        ],
+        [
+          1588.0256410256409,
+          816.6666666666666
+        ],
+        [
+          1560.3864734299518,
+          843.9613526570049
+        ],
+        [
+          1536.2318840579712,
+          857.9710144927537
+        ],
+        [
+          1494.6859903381644,
+          871.9806763285025
+        ],
+        [
+          1448.792270531401,
+          880.1932367149759
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

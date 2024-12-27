@@ -1,0 +1,74 @@
+{
+  "text": [
+    "It is summer now. What object can help reduce the temperature in the room and make it more comfortable?",
+    "As a smart home AI, what appliance can be activated to decrease the temperature and make a room more comfortable during the summer season?",
+    "What appliance in the room can be utilized to reduce the temperature and create a more comfortable environment, given that it is currently summer?",
+    "As a smart home AI, what object can you suggest to reduce the temperature in the room and make it more comfortable now that summer has arrived?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0699_00_2000.jpg",
+      "points": [
+        [
+          3.4946236559139785,
+          162.93548387096774
+        ],
+        [
+          18.817204301075268,
+          172.88172043010752
+        ],
+        [
+          26.0752688172043,
+          172.88172043010752
+        ],
+        [
+          31.72043010752688,
+          169.65591397849462
+        ],
+        [
+          136.29032258064515,
+          87.66666666666666
+        ],
+        [
+          137.63440860215053,
+          81.48387096774194
+        ],
+        [
+          139.51612903225805,
+          66.43010752688171
+        ],
+        [
+          139.247311827957,
+          58.36559139784946
+        ],
+        [
+          141.1290322580645,
+          32.29032258064516
+        ],
+        [
+          139.51612903225805,
+          12.666666666666664
+        ],
+        [
+          138.17204301075267,
+          2.720430107526881
+        ],
+        [
+          1.8817204301075268,
+          1.10752688172043
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

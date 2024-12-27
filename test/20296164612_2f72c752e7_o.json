@@ -1,0 +1,209 @@
+{
+  "text": [
+    "Birds often need a high vantage point to observe their surroundings. What in the picture provides a suitable location for birds to perch and rest?",
+    "What in the picture could function as a suitable location for birds to perch and rest, as they often require an elevated vantage point to observe their surroundings?",
+    "What in the picture might provide a comfortable place for birds to perch and rest while maintaining an unobstructed view of their surroundings?",
+    "What in the picture could serve as a suitable location for birds to perch and rest, as they often require a high vantage point to observe their surroundings?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "20296164612_2f72c752e7_o.jpg",
+      "points": [
+        [
+          11.933174224343674,
+          345.34606205250594
+        ],
+        [
+          92.57503949447077,
+          376.4612954186414
+        ],
+        [
+          202.69106566200213,
+          414.74703982777174
+        ],
+        [
+          283.3,
+          441.9
+        ],
+        [
+          287.0,
+          443.5
+        ],
+        [
+          289.3,
+          446.0
+        ],
+        [
+          289.7,
+          446.7
+        ],
+        [
+          289.8,
+          447.7
+        ],
+        [
+          290.1,
+          448.7
+        ],
+        [
+          290.3,
+          449.6
+        ],
+        [
+          290.5,
+          450.6
+        ],
+        [
+          290.7,
+          451.4
+        ],
+        [
+          290.7,
+          452.2
+        ],
+        [
+          290.6,
+          453.1
+        ],
+        [
+          289.8,
+          453.9
+        ],
+        [
+          288.4,
+          454.6
+        ],
+        [
+          287.0,
+          455.3
+        ],
+        [
+          286.1,
+          456.0
+        ],
+        [
+          285.3,
+          456.6
+        ],
+        [
+          283.7,
+          456.9
+        ],
+        [
+          281.3,
+          456.9
+        ],
+        [
+          279.5,
+          456.7
+        ],
+        [
+          278.3,
+          456.0
+        ],
+        [
+          276.9,
+          454.8
+        ],
+        [
+          276.6,
+          454.4
+        ],
+        [
+          275.7,
+          453.3
+        ],
+        [
+          273.0,
+          451.4
+        ],
+        [
+          195.61042524005487,
+          424.82853223593963
+        ],
+        [
+          35.043668122270745,
+          365.6113537117904
+        ],
+        [
+          12.22707423580786,
+          357.4235807860262
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "20296164612_2f72c752e7_o.jpg",
+      "points": [
+        [
+          379.3960923623446,
+          475.13321492007105
+        ],
+        [
+          514.5648312611013,
+          519.360568383659
+        ],
+        [
+          699.7333333333333,
+          573.8666666666667
+        ],
+        [
+          698.9333333333333,
+          584.5333333333333
+        ],
+        [
+          511.93771626297575,
+          530.795847750865
+        ],
+        [
+          374.9134948096886,
+          485.2941176470588
+        ],
+        [
+          375.0865051903114,
+          485.12110726643596
+        ],
+        [
+          377.5086505190311,
+          483.9100346020761
+        ],
+        [
+          379.58477508650515,
+          483.56401384083046
+        ],
+        [
+          379.75778546712803,
+          482.1799307958477
+        ],
+        [
+          379.58477508650515,
+          480.2768166089965
+        ],
+        [
+          379.58477508650515,
+          478.2006920415225
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

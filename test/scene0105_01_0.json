@@ -1,0 +1,64 @@
+{
+  "text": [
+    "What object do we usually use to prevent water from splashing in the bathroom during a shower?",
+    "What object is commonly utilized in a bathroom during a shower to avoid splashing water outside the area?",
+    "What object is typically utilized to prevent water splashing in the bathroom while taking a shower?",
+    "What object could be utilized in a bathroom to prevent water from splashing while taking a shower?",
+    "What object can be used to prevent water from splashing around during a shower in the bathroom?",
+    "What object is commonly used to prevent water from splashing out of the shower and onto the bathroom floor?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0105_01_0.jpg",
+      "points": [
+        [
+          78.77922077922078,
+          0.2597402597402597
+        ],
+        [
+          88.12987012987013,
+          144.93506493506493
+        ],
+        [
+          103.1948051948052,
+          123.8961038961039
+        ],
+        [
+          107.0909090909091,
+          117.4025974025974
+        ],
+        [
+          110.46753246753246,
+          113.76623376623377
+        ],
+        [
+          121.11688311688312,
+          94.8051948051948
+        ],
+        [
+          123.1948051948052,
+          78.44155844155844
+        ],
+        [
+          124.75324675324676,
+          20.77922077922078
+        ],
+        [
+          123.45454545454545,
+          0.2597402597402597
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

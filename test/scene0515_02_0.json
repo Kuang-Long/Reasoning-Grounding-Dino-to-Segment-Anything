@@ -1,0 +1,112 @@
+{
+  "text": [
+    "Sitting in a chair for too long can cause fatigue and soreness, so many people choose to lie down and stretch out on something soft. What object in a room is most suitable for this?",
+    "After sitting for an extended period, most people experience fatigue and soreness, and prefer lying down and stretching out on something soft. What object in a room could be most suitable for this purpose?",
+    "A comfortable piece of furniture in a room where one can lay down and stretch to relieve soreness and fatigue from extended periods of sitting.",
+    "After sitting in a chair for too long, many people may find it beneficial to lay down and rest on a soft object. What in the room would be the most suitable object to use for this purpose?",
+    "When sitting in a chair for extended periods, it's common to feel fatigued and sore, motivating many people to instead lie down on something soft to stretch out. Please suggest what furniture object inside a room would be most appropriate for this.",
+    "If someone wishes to lie down and stretch out on something soft instead of sitting in a chair for an extended period, what object in a room is typically best suited for this purpose?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0515_02_0.jpg",
+      "points": [
+        [
+          182.34234234234233,
+          31.53153153153153
+        ],
+        [
+          186.12612612612614,
+          38.01801801801802
+        ],
+        [
+          193.51351351351352,
+          50.450450450450454
+        ],
+        [
+          197.2972972972973,
+          56.75675675675676
+        ],
+        [
+          191.53153153153153,
+          60.0
+        ],
+        [
+          293.6936936936937,
+          100.90090090090091
+        ],
+        [
+          319.0,
+          110.0190114068441
+        ],
+        [
+          319.0,
+          43.09885931558935
+        ],
+        [
+          299.5665399239544,
+          35.874524714828894
+        ],
+        [
+          290.4410646387833,
+          34.35361216730038
+        ],
+        [
+          283.9771863117871,
+          37.015209125475295
+        ],
+        [
+          277.13307984790873,
+          32.83269961977187
+        ],
+        [
+          261.9239543726236,
+          25.228136882129277
+        ],
+        [
+          258.1216730038023,
+          24.08745247148289
+        ],
+        [
+          241.77186311787074,
+          25.608365019011416
+        ],
+        [
+          230.36501901140684,
+          15.722433460076047
+        ],
+        [
+          224.2813688212928,
+          21.425855513307994
+        ],
+        [
+          218.1977186311787,
+          25.228136882129277
+        ],
+        [
+          210.21292775665398,
+          27.50950570342205
+        ],
+        [
+          202.98859315589357,
+          28.269961977186313
+        ],
+        [
+          189.30038022813687,
+          28.65019011406845
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

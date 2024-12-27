@@ -1,0 +1,52 @@
+{
+  "text": [
+    "What object can effectively block water from splashing outside the shower area?",
+    "In order to prevent water from splashing outside the shower area, what object may be utilized?",
+    "What item could be utilized to prevent water from spreading outside the shower area effectively?",
+    "What object can be utilized to prevent water from splashing outside the shower area?",
+    "What item can be used to prevent water from spraying out of the shower area?",
+    "Which of the items in the picture can effectively prevent water from splashing outside of the shower area?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0000_01_4000.jpg",
+      "points": [
+        [
+          1.6666666666666643,
+          1.6666666666666643
+        ],
+        [
+          4.333333333333336,
+          142.66666666666666
+        ],
+        [
+          108.0,
+          132.33333333333334
+        ],
+        [
+          111.66666666666666,
+          127.66666666666666
+        ],
+        [
+          146.0,
+          104.66666666666666
+        ],
+        [
+          136.33333333333334,
+          1.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

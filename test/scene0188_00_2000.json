@@ -1,0 +1,166 @@
+{
+  "text": [
+    "Which furniture in a room is used for writing or drawing with chalk or markers, for example to explain a mathematical formula or draw up a meeting summary?",
+    "What furniture commonly used in a room is utilized for writing or drawing with chalk or markers, such as when explaining a mathematical formula or creating meeting notes?",
+    "What type of furniture present in a room is typically used for writing or drawing with chalk or markers, say to explain a mathematical formula or a meeting summary?",
+    "What furniture item within a room is typically designated for writing or drawing with chalk or markers, such as for outlining a mathematical formula or creating a summary for a meeting?",
+    "What is the name of the furniture in a room that is commonly used for writing or drawing with chalk or markers, for example, to explain a mathematical formula or draw up a meeting summary?",
+    "What furniture in a room is typically used for writing or drawing using chalk or markers for purposes such as explaining a mathematical formula or drafting a meeting summary?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0188_00_2000.jpg",
+      "points": [
+        [
+          0.543806646525681,
+          0.6374622356495472
+        ],
+        [
+          0.543806646525681,
+          100.63746223564955
+        ],
+        [
+          88.1570996978852,
+          26.61933534743202
+        ],
+        [
+          83.32326283987915,
+          0.6374622356495472
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0188_00_2000.jpg",
+      "points": [
+        [
+          226.4150943396226,
+          0.6289308176100629
+        ],
+        [
+          223.2704402515723,
+          30.817610062893078
+        ],
+        [
+          227.88259958071276,
+          32.70440251572327
+        ],
+        [
+          233.33333333333331,
+          45.70230607966457
+        ],
+        [
+          233.96226415094338,
+          48.00838574423479
+        ],
+        [
+          251.3626834381551,
+          46.54088050314465
+        ],
+        [
+          263.3123689727463,
+          46.33123689727463
+        ],
+        [
+          271.06918238993705,
+          51.15303983228511
+        ],
+        [
+          272.1174004192872,
+          59.32914046121593
+        ],
+        [
+          281.97064989517816,
+          58.90985324947589
+        ],
+        [
+          266.45702306079664,
+          38.99371069182389
+        ],
+        [
+          268.97274633123686,
+          36.268343815513624
+        ],
+        [
+          304.1928721174004,
+          35.84905660377358
+        ],
+        [
+          309.2243186582809,
+          28.511530398322847
+        ],
+        [
+          313.2075471698113,
+          25.157232704402514
+        ],
+        [
+          319.0,
+          24.109014675052407
+        ],
+        [
+          319.0,
+          0.5256410256410255
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0188_00_2000.jpg",
+      "points": [
+        [
+          232.94509151414312,
+          51.41430948419301
+        ],
+        [
+          232.4459234608985,
+          56.738768718802
+        ],
+        [
+          271.2146422628952,
+          58.23627287853578
+        ],
+        [
+          268.21963394342765,
+          51.91347753743761
+        ],
+        [
+          262.22961730449254,
+          48.91846921797005
+        ],
+        [
+          250.2495840266223,
+          49.25124792013311
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

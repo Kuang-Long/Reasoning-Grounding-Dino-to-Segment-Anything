@@ -1,0 +1,96 @@
+{
+  "text": [
+    "What appliance in a room is frequently used for entertainment purposes?",
+    "What object is often utilized for entertainment purposes in a room?",
+    "Which object is commonly used for entertainment purposes in a room?",
+    "What appliance do people regularly use for entertainment purposes in a room?",
+    "Which device typically found in a room is often used for entertainment purposes?",
+    "What appliance found in a room is commonly used for entertainment purposes?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0590_00_2000.jpg",
+      "points": [
+        [
+          45.62043795620438,
+          0.9124087591240875
+        ],
+        [
+          52.73722627737226,
+          64.23357664233576
+        ],
+        [
+          76.27737226277371,
+          70.25547445255474
+        ],
+        [
+          80.47445255474452,
+          71.71532846715328
+        ],
+        [
+          71.71532846715328,
+          74.63503649635035
+        ],
+        [
+          65.32846715328466,
+          76.64233576642336
+        ],
+        [
+          69.34306569343065,
+          79.56204379562043
+        ],
+        [
+          108.94160583941606,
+          92.33576642335765
+        ],
+        [
+          118.61313868613138,
+          88.32116788321167
+        ],
+        [
+          123.72262773722626,
+          86.13138686131386
+        ],
+        [
+          149.0875912408759,
+          92.88321167883211
+        ],
+        [
+          150.36496350364962,
+          92.88321167883211
+        ],
+        [
+          150.1824817518248,
+          79.37956204379562
+        ],
+        [
+          152.007299270073,
+          72.62773722627736
+        ],
+        [
+          152.1897810218978,
+          56.021897810218974
+        ],
+        [
+          151.0948905109489,
+          55.47445255474452
+        ],
+        [
+          153.83211678832114,
+          0.18248175182481752
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

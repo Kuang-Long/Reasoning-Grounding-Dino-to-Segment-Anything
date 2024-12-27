@@ -1,0 +1,52 @@
+{
+  "text": [
+    "If a person wants more privacy when using the bathroom, what structure in the picture can be closed to separate the bathroom from the outside environment?",
+    "If someone requires additional privacy while using the bathroom, which area of the picture could be closed to isolate the bathroom from the outside environment?",
+    "What structure in the picture can be closed to provide more privacy to a person using the bathroom and separate it from the outside environment?",
+    "What structure, visible in the picture, can be closed to provide more privacy when using the bathroom?",
+    "To curtail interference and improve privacy when using the bathroom, what item in the picture can be closed to partition the bathroom from the outdoors?",
+    "What structure in this picture can a person close to increase privacy while using the bathroom and separate it from the outside environment?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0254_01_0.jpg",
+      "points": [
+        [
+          256.30263157894734,
+          1.2368421052631575
+        ],
+        [
+          232.9473684210526,
+          185.44736842105263
+        ],
+        [
+          254.65789473684208,
+          239.0
+        ],
+        [
+          281.9605263157895,
+          239.0
+        ],
+        [
+          319.0,
+          70.64473684210526
+        ],
+        [
+          319.0,
+          0.25
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

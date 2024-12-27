@@ -1,0 +1,102 @@
+{
+  "text": [
+    "Many people like to watch movies on TV, but the sound from the TV itself may not be loud enough or of good quality. What device in the picture can enhance the sound from the TV?",
+    "While many people enjoy watching movies on TV, the TV's sound may not be loud enough or of high quality. What object in the picture can be used to enhance the TV's audio?",
+    "When watching a movie on TV, some people may find the sound from the TV itself insufficient or of poor quality. What device in the picture could be used to enhance the TV sound?",
+    "If someone wants to watch a movie on TV, but the sound from the TV itself isn't loud enough or is of poor quality, what device in the picture could be utilized to improve the sound?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0673_05_4000.jpg",
+      "points": [
+        [
+          135.752688172043,
+          54.87096774193548
+        ],
+        [
+          133.06451612903226,
+          55.946236559139784
+        ],
+        [
+          131.4516129032258,
+          57.29032258064516
+        ],
+        [
+          126.07526881720429,
+          205.6774193548387
+        ],
+        [
+          116.39784946236558,
+          210.51612903225805
+        ],
+        [
+          116.66666666666666,
+          213.74193548387095
+        ],
+        [
+          134.40860215053763,
+          223.41935483870967
+        ],
+        [
+          136.8279569892473,
+          228.79569892473117
+        ],
+        [
+          141.1290322580645,
+          233.63440860215053
+        ],
+        [
+          145.69892473118279,
+          235.78494623655914
+        ],
+        [
+          152.9569892473118,
+          237.1290322580645
+        ],
+        [
+          183.33333333333331,
+          215.6236559139785
+        ],
+        [
+          183.6021505376344,
+          213.4731182795699
+        ],
+        [
+          179.3010752688172,
+          209.17204301075267
+        ],
+        [
+          175.26881720430106,
+          207.29032258064515
+        ],
+        [
+          200.8064516129032,
+          59.44086021505376
+        ],
+        [
+          199.46236559139783,
+          57.82795698924731
+        ],
+        [
+          173.65591397849462,
+          47.88172043010752
+        ],
+        [
+          163.17204301075267,
+          50.56989247311828
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

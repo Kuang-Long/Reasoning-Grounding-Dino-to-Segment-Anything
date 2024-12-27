@@ -1,0 +1,268 @@
+{
+  "text": [
+    "When walking around a college campus, there are multiple buildings to navigate through. What part of the picture is generally used by pedestrians to move from one area to another?",
+    "In a college campus, pedestrians travel through various buildings and locations. Please guide me to locate the region in the picture that is commonly used by pedestrians to navigate from one location to another.",
+    "When traversing a college campus, what part of the picture is typically utilized by pedestrians to move from one area to another?",
+    "When navigating through a college campus with various buildings, people usually travel between different areas via paths. What part of the picture do pedestrians primarily use to move from one location to another?",
+    "When traversing a college campus with numerous buildings, what area of the picture is typically utilized by pedestrians to move between buildings?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "6191111779_0e2e79f6c3_o.jpg",
+      "points": [
+        [
+          12.75,
+          1141.25
+        ],
+        [
+          884.0,
+          976.25
+        ],
+        [
+          890.25,
+          970.0
+        ],
+        [
+          509.0,
+          965.0
+        ],
+        [
+          509.0,
+          957.5
+        ],
+        [
+          889.080459770115,
+          962.6436781609195
+        ],
+        [
+          939.6551724137931,
+          964.3678160919541
+        ],
+        [
+          1022.4137931034483,
+          950.5747126436781
+        ],
+        [
+          1023.8578680203046,
+          1022.8426395939086
+        ],
+        [
+          693.6781609195402,
+          1141.9540229885058
+        ],
+        [
+          406.3492063492063,
+          1142.0
+        ],
+        [
+          364.6017699115044,
+          1140.7079646017698
+        ],
+        [
+          10.619469026548671,
+          1142.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "6191111779_0e2e79f6c3_o.jpg",
+      "points": [
+        [
+          1038.0368098159508,
+          946.0122699386502
+        ],
+        [
+          1038.0368098159508,
+          1018.4049079754601
+        ],
+        [
+          1118.40490797546,
+          986.5030674846626
+        ],
+        [
+          1193.2515337423313,
+          965.6441717791411
+        ],
+        [
+          1257.0552147239264,
+          939.8773006134969
+        ],
+        [
+          1292.0245398773004,
+          932.5153374233129
+        ],
+        [
+          1318.40490797546,
+          933.7423312883435
+        ],
+        [
+          1317.1779141104294,
+          928.2208588957054
+        ],
+        [
+          1299.3865030674847,
+          928.2208588957054
+        ],
+        [
+          1296.3190184049079,
+          924.5398773006134
+        ],
+        [
+          1317.1779141104294,
+          912.2699386503067
+        ],
+        [
+          1257.6687116564417,
+          909.8159509202453
+        ],
+        [
+          1233.128834355828,
+          907.3619631901839
+        ],
+        [
+          1175.4601226993864,
+          920.2453987730061
+        ],
+        [
+          1168.0981595092023,
+          922.0858895705521
+        ],
+        [
+          1165.0306748466257,
+          934.9693251533741
+        ],
+        [
+          1162.5766871165642,
+          938.6503067484662
+        ],
+        [
+          1158.282208588957,
+          957.0552147239263
+        ],
+        [
+          1164.9746192893401,
+          959.3908629441624
+        ],
+        [
+          1155.3299492385786,
+          962.4365482233503
+        ],
+        [
+          1148.2233502538072,
+          962.4365482233503
+        ],
+        [
+          1147.715736040609,
+          958.3756345177665
+        ],
+        [
+          1150.761421319797,
+          951.7766497461929
+        ],
+        [
+          1146.1928934010152,
+          935.5329949238579
+        ],
+        [
+          1141.6243654822335,
+          931.9796954314721
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "6191111779_0e2e79f6c3_o.jpg",
+      "points": [
+        [
+          353.9130434782608,
+          966.9565217391303
+        ],
+        [
+          464.34782608695645,
+          966.086956521739
+        ],
+        [
+          462.22222222222223,
+          960.4444444444445
+        ],
+        [
+          354.22222222222223,
+          957.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "6191111779_0e2e79f6c3_o.jpg",
+      "points": [
+        [
+          1.7777777777777777,
+          960.4444444444445
+        ],
+        [
+          157.77777777777777,
+          964.0
+        ],
+        [
+          187.11111111111111,
+          964.8888888888889
+        ],
+        [
+          304.8888888888889,
+          964.4444444444445
+        ],
+        [
+          304.44444444444446,
+          956.8888888888889
+        ],
+        [
+          83.55555555555556,
+          954.2222222222222
+        ],
+        [
+          0.4444444444444444,
+          953.7777777777778
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

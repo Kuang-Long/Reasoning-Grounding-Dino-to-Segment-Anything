@@ -1,0 +1,52 @@
+{
+  "text": [
+    "What object can people use to listen to music, watch videos, or read e-books before going to bed?",
+    "What object can be utilized to listen to music, watch videos, or read e-books before going to bed?",
+    "What device do you recommend people can use to listen to music, watch videos, or read e-books before going to bed?",
+    "What object can people utilize to listen to music, watch videos, or read e-books before going to bed?",
+    "What object can individuals use to listen to music, watch videos, or read e-books before going to bed?",
+    "What object could you use to listen to music, watch videos, or read e-books before going to bed?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0580_00_0.jpg",
+      "points": [
+        [
+          310.913140311804,
+          152.33853006681514
+        ],
+        [
+          298.66369710467706,
+          174.8329621380846
+        ],
+        [
+          298.88641425389756,
+          178.17371937639197
+        ],
+        [
+          300.0,
+          181.06904231625833
+        ],
+        [
+          319.0,
+          192.74850299401197
+        ],
+        [
+          319.0,
+          156.70103092783506
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

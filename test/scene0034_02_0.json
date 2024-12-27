@@ -1,0 +1,64 @@
+{
+  "text": [
+    "Where can we stand to get our body clean using water and soap at the same time?",
+    "What area in the picture is suitable for cleaning our body using water and soap simultaneously?",
+    "Where is the place where we can stand and cleanse our body using soap and water simultaneously?",
+    "Where in the picture is the location that one can stand to clean their body while utilizing both water and soap?",
+    "What region of an indoor setting provides a suitable space for a person to utilize soap and water to clean their body simultaneously?",
+    "In the picture, where can we stand to cleanse our body using soap and water at the same time?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0034_02_0.jpg",
+      "points": [
+        [
+          166.05194805194805,
+          77.14285714285714
+        ],
+        [
+          168.1298701298701,
+          85.45454545454545
+        ],
+        [
+          301.37662337662334,
+          169.87012987012986
+        ],
+        [
+          311.24675324675326,
+          173.5064935064935
+        ],
+        [
+          315.4025974025974,
+          163.63636363636363
+        ],
+        [
+          319.0,
+          150.64935064935065
+        ],
+        [
+          319.0,
+          79.39549839228296
+        ],
+        [
+          255.4630225080386,
+          54.31511254019293
+        ],
+        [
+          176.68488745980707,
+          75.2154340836013
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

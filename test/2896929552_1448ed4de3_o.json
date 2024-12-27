@@ -1,0 +1,194 @@
+{
+  "text": [
+    "In the wild, animals often exhibit specific behaviors and adaptations that help them survive in their natural habitats. What part of the animal in the picture can be used for defense and aggression?",
+    "Which body part of the animal in the picture can be used for defense and aggression in the wild?",
+    "In the wild, animals often exhibit behaviors and adaptations that help them survive in their natural habitats. Which part of the animal in the picture is used for defense and aggression?",
+    "What part of the animal in the picture is an adaptation that can be used for defense and aggression, allowing it to survive in the wild?",
+    "What part of the animal shown in the picture could be utilized for both defense and aggression, as observed in the wild?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "2896929552_1448ed4de3_o.jpg",
+      "points": [
+        [
+          116.57250470809792,
+          359.51035781544255
+        ],
+        [
+          101.5065913370998,
+          360.82862523540484
+        ],
+        [
+          93.40866290018832,
+          357.25047080979283
+        ],
+        [
+          88.32391713747646,
+          338.7947269303201
+        ],
+        [
+          95.29190207156309,
+          339.54802259887003
+        ],
+        [
+          115.25423728813558,
+          351.0357815442561
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "2896929552_1448ed4de3_o.jpg",
+      "points": [
+        [
+          104.85611510791367,
+          335.431654676259
+        ],
+        [
+          101.25899280575538,
+          335.431654676259
+        ],
+        [
+          95.86330935251797,
+          333.99280575539564
+        ],
+        [
+          92.0863309352518,
+          332.3741007194244
+        ],
+        [
+          89.38848920863309,
+          330.9352517985611
+        ],
+        [
+          85.6115107913669,
+          326.4388489208633
+        ],
+        [
+          78.95683453237409,
+          318.5251798561151
+        ],
+        [
+          71.94244604316546,
+          307.3741007194244
+        ],
+        [
+          69.60431654676259,
+          296.58273381294964
+        ],
+        [
+          69.7841726618705,
+          288.84892086330933
+        ],
+        [
+          72.3021582733813,
+          278.77697841726615
+        ],
+        [
+          76.79856115107913,
+          271.0431654676259
+        ],
+        [
+          81.83453237410072,
+          266.1870503597122
+        ],
+        [
+          83.81294964028777,
+          265.1079136690647
+        ],
+        [
+          85.6115107913669,
+          265.1079136690647
+        ],
+        [
+          87.76978417266186,
+          266.3669064748201
+        ],
+        [
+          87.23021582733813,
+          267.98561151079133
+        ],
+        [
+          83.81294964028777,
+          273.74100719424456
+        ],
+        [
+          81.6546762589928,
+          283.99280575539564
+        ],
+        [
+          81.29496402877697,
+          291.90647482014384
+        ],
+        [
+          85.25179856115108,
+          303.0575539568345
+        ],
+        [
+          90.10791366906474,
+          309.71223021582733
+        ],
+        [
+          93.88489208633092,
+          312.58992805755395
+        ],
+        [
+          97.12230215827337,
+          314.2086330935252
+        ],
+        [
+          98.7410071942446,
+          316.72661870503595
+        ],
+        [
+          100.53956834532373,
+          321.76258992805754
+        ],
+        [
+          101.25899280575538,
+          323.56115107913666
+        ],
+        [
+          101.97841726618704,
+          325.3597122302158
+        ],
+        [
+          103.41726618705034,
+          328.2374100719424
+        ],
+        [
+          104.49640287769783,
+          330.5755395683453
+        ],
+        [
+          106.47482014388488,
+          334.3525179856115
+        ],
+        [
+          106.8345323741007,
+          335.2517985611511
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

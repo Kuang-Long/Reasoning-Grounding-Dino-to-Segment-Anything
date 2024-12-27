@@ -1,0 +1,143 @@
+{
+  "text": [
+    "If someone wants to relax their back and take a nap, where in the living room is the most comfortable for them to sit on?",
+    "If one intends to relieve their back and take a nap, where would be the most comfortable area in the living room to sit on?",
+    "If someone wants to relax their back and take a nap, what furniture in the living room would be the most comfortable for them to sit on?",
+    "Where is the most comfortable area in the living room for someone to sit and take a nap whilst also relaxing their back?",
+    "If someone wants to relax their back and take a nap, where is the most comfortable spot to sit in the living room?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0166_00_2000.jpg",
+      "points": [
+        [
+          105.3763440860215,
+          55.677419354838705
+        ],
+        [
+          108.6021505376344,
+          129.6021505376344
+        ],
+        [
+          111.29032258064515,
+          159.17204301075267
+        ],
+        [
+          141.93548387096774,
+          230.6774193548387
+        ],
+        [
+          145.77245508982037,
+          239.0
+        ],
+        [
+          161.64071856287427,
+          238.88622754491018
+        ],
+        [
+          170.622754491018,
+          237.38922155688624
+        ],
+        [
+          172.11976047904193,
+          235.2934131736527
+        ],
+        [
+          174.81437125748505,
+          233.49700598802397
+        ],
+        [
+          175.11377245508982,
+          238.2874251497006
+        ],
+        [
+          312.5389221556886,
+          199.36526946107784
+        ],
+        [
+          319.0,
+          196.67065868263475
+        ],
+        [
+          318.52694610778445,
+          47.568862275449106
+        ],
+        [
+          314.3353293413174,
+          43.67664670658683
+        ],
+        [
+          302.9580838323353,
+          41.2814371257485
+        ],
+        [
+          261.34131736526945,
+          44.5748502994012
+        ],
+        [
+          263.1652661064426,
+          49.159663865546214
+        ],
+        [
+          259.10364145658264,
+          50.700280112044815
+        ],
+        [
+          249.43977591036412,
+          53.081232492997195
+        ],
+        [
+          242.01680672268907,
+          56.86274509803921
+        ],
+        [
+          229.9719887955182,
+          57.56302521008403
+        ],
+        [
+          219.46778711484592,
+          56.86274509803921
+        ],
+        [
+          206.58263305322126,
+          55.042016806722685
+        ],
+        [
+          203.08123249299717,
+          49.29971988795518
+        ],
+        [
+          201.1204481792717,
+          48.17927170868347
+        ],
+        [
+          133.6221837088388,
+          51.47313691507799
+        ],
+        [
+          120.27729636048525,
+          50.779896013864814
+        ],
+        [
+          116.6377816291161,
+          53.899480069324085
+        ],
+        [
+          110.74523396880416,
+          54.59272097053726
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

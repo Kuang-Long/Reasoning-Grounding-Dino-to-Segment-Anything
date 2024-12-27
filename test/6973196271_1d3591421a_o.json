@@ -1,0 +1,132 @@
+{
+  "text": [
+    "Among the writing tools commonly used, which one in the picture is typically made of wood and has graphite or lead core for writing and drawing?",
+    "Which writing tool commonly used has a graphite or lead core and is typically made of wood for writing and drawing, according to the picture?",
+    "Among the frequently used writing implements, what object in the picture is typically composed of wood and possesses a graphite or lead core to facilitate writing and drawing?",
+    "What is the name of the writing instrument that is often produced with wood, and features a lead or graphite center that is utilized for writing and drawing purposes?",
+    "Of the writing tools which are commonly used, which one featured in the image typically has a lead or graphite core and is constructed of wood and utilized for both writing and drawing?",
+    "When it comes to writing tools, what object shown in the picture is usually made of wood and contains a graphite or lead core used for writing or drawing?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "6973196271_1d3591421a_o.jpg",
+      "points": [
+        [
+          422.12925170068024,
+          242.5374149659864
+        ],
+        [
+          36.50190114068441,
+          28.136882129277566
+        ],
+        [
+          30.798479087452474,
+          30.798479087452474
+        ],
+        [
+          25.475285171102662,
+          36.50190114068441
+        ],
+        [
+          21.673003802281368,
+          44.866920152091254
+        ],
+        [
+          20.53231939163498,
+          54.37262357414449
+        ],
+        [
+          20.912547528517113,
+          58.93536121673004
+        ],
+        [
+          23.574144486692017,
+          63.117870722433466
+        ],
+        [
+          139.16349809885932,
+          142.5855513307985
+        ],
+        [
+          198.85931558935363,
+          175.66539923954375
+        ],
+        [
+          231.1787072243346,
+          210.64638783269962
+        ],
+        [
+          281.3688212927757,
+          272.2433460076046
+        ],
+        [
+          370.3422053231939,
+          333.4600760456274
+        ],
+        [
+          396.958174904943,
+          351.3307984790875
+        ],
+        [
+          530.0380228136883,
+          392.3954372623574
+        ],
+        [
+          544.106463878327,
+          398.4790874524715
+        ],
+        [
+          549.4296577946768,
+          401.14068441064643
+        ],
+        [
+          557.4144486692015,
+          403.04182509505705
+        ],
+        [
+          562.3574144486693,
+          403.8022813688213
+        ],
+        [
+          568.8212927756654,
+          400.3802281368821
+        ],
+        [
+          572.2433460076046,
+          397.71863117870726
+        ],
+        [
+          574.1444866920152,
+          391.25475285171103
+        ],
+        [
+          573.384030418251,
+          383.2699619771863
+        ],
+        [
+          569.9619771863119,
+          380.2281368821293
+        ],
+        [
+          550.9505703422053,
+          364.638783269962
+        ],
+        [
+          425.85551330798484,
+          246.3878326996198
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

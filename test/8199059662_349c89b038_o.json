@@ -1,0 +1,128 @@
+{
+  "text": [
+    "In a classroom setting, students often use electronic devices to assist their learning. What object in the picture could provide visual information and display educational content?",
+    "In a classroom setting, electronic devices are commonly used to support and enhance learning. Can you identify the object in the picture that has the capability to display visual information and educational content?",
+    "In a classroom setting, students often use electronic devices to assist their learning. Can you identify an object that could provide visual information and display educational content in the picture?",
+    "In an educational setting, students often leverage electronic devices to support their learning. What is the object in the picture that might present visual information and exhibit educational content?",
+    "In a classroom setting, students frequently rely on electronic devices to support their learning. Please identify an item in the picture that can display educational content and provide visual information.",
+    "In a classroom setting, electronic devices are often used by students to assist their learning. What object in the picture could be utilized to provide visual information and display educational content?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "8199059662_349c89b038_o.jpg",
+      "points": [
+        [
+          4814.218009478674,
+          179.14691943127963
+        ],
+        [
+          3669.491525423729,
+          232.20338983050848
+        ],
+        [
+          573.2283464566929,
+          390.5511811023622
+        ],
+        [
+          567.7165354330708,
+          403.93700787401576
+        ],
+        [
+          567.7165354330708,
+          421.25984251968504
+        ],
+        [
+          566.9291338582677,
+          429.1338582677165
+        ],
+        [
+          557.4803149606299,
+          432.2834645669291
+        ],
+        [
+          541.9753086419753,
+          1217.2839506172838
+        ],
+        [
+          505.26315789473676,
+          2849.9999999999995
+        ],
+        [
+          505.26315789473676,
+          2857.017543859649
+        ],
+        [
+          506.14035087719293,
+          2870.175438596491
+        ],
+        [
+          509.6491228070175,
+          2889.473684210526
+        ],
+        [
+          513.1578947368421,
+          2922.8070175438593
+        ],
+        [
+          513.1578947368421,
+          2949.9999999999995
+        ],
+        [
+          513.1578947368421,
+          2975.4385964912276
+        ],
+        [
+          513.1578947368421,
+          2987.7192982456136
+        ],
+        [
+          926.3157894736842,
+          3007.017543859649
+        ],
+        [
+          2501.5625,
+          3084.375
+        ],
+        [
+          4832.8125,
+          3195.3125
+        ],
+        [
+          4834.375,
+          3170.3125
+        ],
+        [
+          4832.8125,
+          2560.9375
+        ],
+        [
+          4829.6875,
+          1426.5625
+        ],
+        [
+          4825.0,
+          520.3125
+        ],
+        [
+          4822.274881516588,
+          183.41232227488152
+        ],
+        [
+          4820.379146919431,
+          181.04265402843603
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

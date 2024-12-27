@@ -1,0 +1,52 @@
+{
+  "text": [
+    "Passages between rooms are usually not sealed, leading to poor insulation or noise reduction between rooms. What can improve the sealing and noise-reduction qualities of a door passage in the picture?",
+    "Passages between rooms are often unsealed, which can impact both insulation and noise reduction between rooms. What can be utilized to enhance the sealing and noise-reducing capabilities of a door passage in the image?",
+    "What aspect of the door passage in the picture could be improved to enhance the sealing and noise-reduction qualities between rooms?",
+    "What can be used to improve the sealing and noise-reduction qualities of a door passage in the image?",
+    "Passages between rooms are usually not properly sealed, leading to poor insulation or noise reduction capabilities. What in the picture can be utilized to improve the sealing and noise-reduction qualities of a door passage?",
+    "How can we enhance the sealing and noise-reduction properties of the door passages in the given picture?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0127_01_0.jpg",
+      "points": [
+        [
+          4.0,
+          22.0
+        ],
+        [
+          62.33333333333333,
+          159.0
+        ],
+        [
+          57.0,
+          163.66666666666666
+        ],
+        [
+          54.33333333333333,
+          166.66666666666666
+        ],
+        [
+          28.66666666666667,
+          239.0
+        ],
+        [
+          4.0,
+          238.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

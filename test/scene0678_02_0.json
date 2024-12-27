@@ -1,0 +1,120 @@
+{
+  "text": [
+    "After changing clothes, what type of object can we use as a container to collect dirty clothes?",
+    "After changing clothes, where should you place dirty clothes, and what should be utilized as a container to collect them?",
+    "After changing clothes, where can we usually put our dirty clothes in the room?",
+    "Once you change clothes, what type of object can be utilized as a container for collecting soiled clothing?",
+    "What type of object can be utilized as a container to collect dirty clothes after changing?",
+    "After changing clothes, which item could be used to contain and store dirty clothes?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0678_02_0.jpg",
+      "points": [
+        [
+          56.413994169096206,
+          82.5072886297376
+        ],
+        [
+          54.373177842565596,
+          85.42274052478133
+        ],
+        [
+          54.81049562682215,
+          88.19241982507289
+        ],
+        [
+          56.12244897959184,
+          89.79591836734693
+        ],
+        [
+          60.64139941690962,
+          113.11953352769679
+        ],
+        [
+          63.11953352769679,
+          115.3061224489796
+        ],
+        [
+          68.07580174927114,
+          117.78425655976676
+        ],
+        [
+          88.77551020408163,
+          119.82507288629738
+        ],
+        [
+          94.75218658892128,
+          119.24198250728863
+        ],
+        [
+          100.58309037900874,
+          116.61807580174927
+        ],
+        [
+          111.51603498542273,
+          110.05830903790087
+        ],
+        [
+          111.51603498542273,
+          83.38192419825073
+        ],
+        [
+          113.11953352769679,
+          82.79883381924198
+        ],
+        [
+          115.1603498542274,
+          80.02915451895043
+        ],
+        [
+          113.9941690962099,
+          76.67638483965014
+        ],
+        [
+          111.80758017492711,
+          74.48979591836735
+        ],
+        [
+          110.05830903790087,
+          75.51020408163265
+        ],
+        [
+          109.18367346938776,
+          77.98833819241982
+        ],
+        [
+          107.87172011661806,
+          79.88338192419825
+        ],
+        [
+          104.81049562682215,
+          80.02915451895043
+        ],
+        [
+          95.33527696793003,
+          81.77842565597668
+        ],
+        [
+          89.067055393586,
+          83.09037900874635
+        ],
+        [
+          63.411078717201164,
+          82.94460641399417
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

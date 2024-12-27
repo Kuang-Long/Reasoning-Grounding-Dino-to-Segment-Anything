@@ -1,0 +1,455 @@
+{
+  "text": [
+    "Weightlifting is a common exercise in the gym to build muscle and strength. What equipment in the picture is commonly used for weightlifting exercises?",
+    "What equipment displayed in the picture is typically used for weightlifting exercises in the gym aimed at building muscle and strength?",
+    "Weightlifting is a common exercise that many people often practice in gyms to build muscle and improve strength. Can you identify the equipment that is frequently used for weightlifting exercises in this picture?",
+    "Weightlifting is a common exercise in the gym that focuses on muscle building and strengthening. What equipment visible in the picture is frequently employed for weightlifting exercises?",
+    "What equipment in the picture is typically used for weightlifting exercises, which are a popular method of building muscle and enhancing strength at the gym?",
+    "When weightlifting in the gym to build muscle and strength, what equipment in the picture is often used to facilitate these exercises?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5998744914_44ce5ba24b_o.jpg",
+      "points": [
+        [
+          330.0,
+          58.0
+        ],
+        [
+          331.0,
+          61.0
+        ],
+        [
+          335.0,
+          63.0
+        ],
+        [
+          338.0,
+          64.0
+        ],
+        [
+          346.0,
+          66.0
+        ],
+        [
+          381.0,
+          74.0
+        ],
+        [
+          384.0,
+          75.0
+        ],
+        [
+          386.0,
+          76.0
+        ],
+        [
+          387.0,
+          77.0
+        ],
+        [
+          388.0,
+          80.0
+        ],
+        [
+          393.0,
+          81.0
+        ],
+        [
+          393.0,
+          75.0
+        ],
+        [
+          388.0,
+          70.0
+        ],
+        [
+          384.0,
+          68.0
+        ],
+        [
+          375.0,
+          65.0
+        ],
+        [
+          342.0,
+          56.0
+        ],
+        [
+          334.0,
+          54.0
+        ],
+        [
+          331.0,
+          56.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5998744914_44ce5ba24b_o.jpg",
+      "points": [
+        [
+          325.0,
+          55.0
+        ],
+        [
+          323.0,
+          55.0
+        ],
+        [
+          320.0,
+          56.0
+        ],
+        [
+          313.0,
+          63.0
+        ],
+        [
+          307.0,
+          70.0
+        ],
+        [
+          306.0,
+          72.0
+        ],
+        [
+          306.0,
+          76.0
+        ],
+        [
+          308.0,
+          77.0
+        ],
+        [
+          310.0,
+          76.0
+        ],
+        [
+          315.0,
+          72.0
+        ],
+        [
+          326.0,
+          61.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5998744914_44ce5ba24b_o.jpg",
+      "points": [
+        [
+          225.0,
+          63.0
+        ],
+        [
+          219.0,
+          63.0
+        ],
+        [
+          213.0,
+          66.0
+        ],
+        [
+          207.0,
+          70.0
+        ],
+        [
+          195.0,
+          75.0
+        ],
+        [
+          193.0,
+          76.0
+        ],
+        [
+          188.0,
+          79.0
+        ],
+        [
+          185.0,
+          82.0
+        ],
+        [
+          185.0,
+          86.0
+        ],
+        [
+          188.0,
+          89.0
+        ],
+        [
+          192.0,
+          91.0
+        ],
+        [
+          197.0,
+          92.0
+        ],
+        [
+          197.0,
+          86.0
+        ],
+        [
+          194.0,
+          84.0
+        ],
+        [
+          197.0,
+          82.0
+        ],
+        [
+          203.0,
+          79.0
+        ],
+        [
+          210.0,
+          75.0
+        ],
+        [
+          223.0,
+          69.0
+        ],
+        [
+          226.7,
+          66.3
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5998744914_44ce5ba24b_o.jpg",
+      "points": [
+        [
+          233.2,
+          62.4
+        ],
+        [
+          230.4,
+          65.8
+        ],
+        [
+          233.0,
+          69.0
+        ],
+        [
+          237.0,
+          71.0
+        ],
+        [
+          256.0,
+          78.0
+        ],
+        [
+          258.0,
+          78.0
+        ],
+        [
+          260.0,
+          79.0
+        ],
+        [
+          263.0,
+          76.0
+        ],
+        [
+          263.0,
+          73.0
+        ],
+        [
+          259.0,
+          71.0
+        ],
+        [
+          253.0,
+          69.0
+        ],
+        [
+          243.0,
+          66.0
+        ],
+        [
+          238.0,
+          63.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5998744914_44ce5ba24b_o.jpg",
+      "points": [
+        [
+          226.8,
+          84.8
+        ],
+        [
+          223.8,
+          86.1
+        ],
+        [
+          222.9,
+          88.3
+        ],
+        [
+          222.7,
+          106.7
+        ],
+        [
+          225.3,
+          110.4
+        ],
+        [
+          226.5,
+          110.1
+        ],
+        [
+          228.7,
+          108.3
+        ],
+        [
+          229.6,
+          106.7
+        ],
+        [
+          230.3,
+          88.1
+        ],
+        [
+          229.1,
+          85.6
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5998744914_44ce5ba24b_o.jpg",
+      "points": [
+        [
+          333.06878306878303,
+          79.23280423280423
+        ],
+        [
+          331.48148148148147,
+          81.87830687830687
+        ],
+        [
+          330.55555555555554,
+          84.65608465608464
+        ],
+        [
+          332.01058201058197,
+          86.5079365079365
+        ],
+        [
+          336.64021164021165,
+          89.41798941798942
+        ],
+        [
+          358.46560846560845,
+          103.3068783068783
+        ],
+        [
+          364.9470899470899,
+          104.10052910052909
+        ],
+        [
+          367.4603174603174,
+          103.04232804232804
+        ],
+        [
+          370.1058201058201,
+          100.52910052910052
+        ],
+        [
+          371.031746031746,
+          94.84126984126983
+        ],
+        [
+          371.16402116402116,
+          90.2116402116402
+        ],
+        [
+          365.60846560846556,
+          88.49206349206348
+        ],
+        [
+          365.4761904761904,
+          93.51851851851852
+        ],
+        [
+          363.7566137566137,
+          97.88359788359787
+        ],
+        [
+          361.5079365079365,
+          97.22222222222221
+        ],
+        [
+          352.9100529100529,
+          91.13756613756613
+        ],
+        [
+          334.65608465608466,
+          78.43915343915343
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

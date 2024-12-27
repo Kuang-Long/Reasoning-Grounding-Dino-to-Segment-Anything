@@ -1,0 +1,46 @@
+{
+  "text": [
+    "People can play beautiful music by pressing the keys on the piano keyboard. What part of the piano in the picture can be used for playing?",
+    "How do you play beautiful music on a piano? What part of the piano keyboard in the picture would you utilize?",
+    "What part of the piano in the picture can be pressed to play music?",
+    "In playing beautiful music on a piano, what part of the keyboard is typically used for pressing the keys to produce sound?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "20639030309_c5a2b9acd5_o.jpg",
+      "points": [
+        [
+          1389.5714285714284,
+          1390.4285714285713
+        ],
+        [
+          2457.428571428571,
+          908.2857142857142
+        ],
+        [
+          2739.5714285714284,
+          961.8571428571427
+        ],
+        [
+          1571.7142857142856,
+          1551.1428571428569
+        ],
+        [
+          1568.1428571428569,
+          1447.5714285714284
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "text": [
+    "Some people enjoy having a view of the outside world while still being comfortable inside their homes. What part of the house in the picture can provide such an experience?",
+    "For someone who enjoys the comfort of their homes but also wants to have a view of the outside world, could you help me identify which part of the house in the picture can provide such an experience?",
+    "What aspect of the house in the picture can enable people to overlook the outdoor world while remaining indoors and comfortable?",
+    "What part of the house in the picture can provide people with a view of the outside world while still being able to stay inside and be comfortable?",
+    "For people who enjoy admiring the outdoors from the comfort of their own home, which part of the house in the picture could offer such an experience?",
+    "In some cases, people enjoy being able to view the outside world while inside their homes. What section of the house in the picture might provide such an experience?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "2026987732_255559241e_o.jpg",
+      "points": [
+        [
+          796.0,
+          305.0
+        ],
+        [
+          733.0,
+          308.0
+        ],
+        [
+          613.0,
+          319.0
+        ],
+        [
+          505.0,
+          337.0
+        ],
+        [
+          484.0,
+          1004.0
+        ],
+        [
+          485.0,
+          1022.0
+        ],
+        [
+          487.0,
+          1023.0
+        ],
+        [
+          515.0,
+          1021.0
+        ],
+        [
+          567.6282051282051,
+          1018.9102564102564
+        ],
+        [
+          787.0,
+          1014.0
+        ],
+        [
+          789.0,
+          952.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "2026987732_255559241e_o.jpg",
+      "points": [
+        [
+          952.6582278481012,
+          298.73417721518985
+        ],
+        [
+          870.0,
+          300.0
+        ],
+        [
+          864.0,
+          1013.0
+        ],
+        [
+          1201.0,
+          1015.0
+        ],
+        [
+          1192.0,
+          309.0
+        ],
+        [
+          1191.0,
+          307.0
+        ],
+        [
+          1176.0,
+          305.0
+        ],
+        [
+          1153.0,
+          305.0
+        ],
+        [
+          1079.0,
+          300.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "2026987732_255559241e_o.jpg",
+      "points": [
+        [
+          1265.0,
+          314.0
+        ],
+        [
+          1261.0,
+          318.0
+        ],
+        [
+          1274.0,
+          1017.0
+        ],
+        [
+          1276.0,
+          1018.0
+        ],
+        [
+          1343.0,
+          1018.0
+        ],
+        [
+          1369.0,
+          1020.0
+        ],
+        [
+          1406.0,
+          1020.0
+        ],
+        [
+          1409.0,
+          1018.0
+        ],
+        [
+          1415.0,
+          1018.0
+        ],
+        [
+          1419.0,
+          1021.0
+        ],
+        [
+          1550.0,
+          1026.0
+        ],
+        [
+          1526.0,
+          357.0
+        ],
+        [
+          1506.0,
+          351.0
+        ],
+        [
+          1482.0,
+          347.0
+        ],
+        [
+          1455.0,
+          340.0
+        ],
+        [
+          1441.0,
+          339.0
+        ],
+        [
+          1410.0,
+          333.0
+        ],
+        [
+          1384.0,
+          330.0
+        ],
+        [
+          1331.0,
+          320.0
+        ],
+        [
+          1306.0,
+          319.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "text": [
+    "During leisure time, what object in the living room can create an immersive audio-visual experience when paired with other electronic objects?",
+    "In a living room, what electronic device can be paired with others to create an immersive audio-visual experience during leisure time?",
+    "During leisure time, what item in the living room is capable of creating an immersive audio-visual experience when paired with other electronic devices?",
+    "During your leisure time, what device in the living room could be combined with other electronic devices to create an immersive audio-visual experience?",
+    "What object in the living room could create a highly immersive audio-visual experience when used in combination with other electronic devices?",
+    "What object in the living room, when paired with other electronic devices, can create an immersive audio-visual experience during leisure time?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0673_05_0.jpg",
+      "points": [
+        [
+          260.7871720116618,
+          74.9271137026239
+        ],
+        [
+          254.0816326530612,
+          109.32944606413993
+        ],
+        [
+          259.6209912536443,
+          116.1807580174927
+        ],
+        [
+          261.95335276967927,
+          118.07580174927114
+        ],
+        [
+          259.6209912536443,
+          132.21574344023324
+        ],
+        [
+          271.5743440233236,
+          141.1078717201166
+        ],
+        [
+          274.19825072886294,
+          122.44897959183673
+        ],
+        [
+          290.96209912536443,
+          121.42857142857142
+        ],
+        [
+          300.43731778425655,
+          85.27696793002914
+        ],
+        [
+          299.8542274052478,
+          83.81924198250728
+        ],
+        [
+          280.1749271137026,
+          74.48979591836735
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "text": [
+    "Cocktails often require a combination of different types of alcohol and mixers to create a balanced and flavorful drink. What in the picture can be used to mix the ingredients and provide a convenient way to drink the cocktail?",
+    "What object could be utilized in the picture to mix the ingredients together to create a tasty cocktail, as well as a means of conveniently consuming said cocktail?",
+    "When mixing cocktails, a variety of alcohol and mixers are often combined to produce a balanced and flavorful beverage. What equipment shown in the picture could be utilized for mixing these ingredients and serving the cocktail in a convenient manner?",
+    "Cocktails typically involve a combination of various types of alcohol and mixers to achieve a well-balanced and flavorful drink. Which object can be used to blend the ingredients and provide an easy way to consume the cocktail in the picture?",
+    "When making a cocktail, a combination of different types of alcohol and mixers is often required to create a balanced and flavorful drink. Please identify the object in the picture that can be utilized to mix the ingredients and provide a convenient way to drink the cocktail.",
+    "To create an aesthetically pleasing and tasty cocktail, it typically involves combining a variety of alcoholic beverages and mixers. Can you identify what item in the picture could be utilized to mix such ingredients and provide an easy means of enjoying the cocktail?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "4787494704_bf5b7ccc8f_o.jpg",
+      "points": [
+        [
+          320.88607594936707,
+          0.6329113924050632
+        ],
+        [
+          330.37974683544303,
+          265.82278481012656
+        ],
+        [
+          334.1772151898734,
+          273.4177215189873
+        ],
+        [
+          338.60759493670884,
+          279.1139240506329
+        ],
+        [
+          350.0,
+          281.6455696202531
+        ],
+        [
+          360.75949367088606,
+          279.746835443038
+        ],
+        [
+          368.98734177215186,
+          272.7848101265823
+        ],
+        [
+          377.8481012658228,
+          262.0253164556962
+        ],
+        [
+          384.8101265822785,
+          250.0
+        ],
+        [
+          386.70886075949363,
+          244.30379746835442
+        ],
+        [
+          379.746835443038,
+          0.6329113924050632
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}
