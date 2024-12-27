@@ -1,14 +1,12 @@
 import re
 import json
-import dropbox
+import torch
 from PIL import Image
 from utils import draw_masks
-from models import Llava, Llama, QuestionDetector, BoundingBoxSAM
+from models import Llava, Llama, BoundingBoxSAM
 
 def main(inp, image_path, image_url, token):
     image = Image.open(image_path).convert('RGB')
-    llava = Llava()
-    llama = Llama()
 
     # 步驟1：使用LLaVA描述圖片
     description = llava.chat(image, inp, is_question=None)
@@ -102,7 +100,6 @@ def main(inp, image_path, image_url, token):
     image_name = image_name[len(image_name) - 1]
     output_path=f'test_result/seg/{image_name}'
     output_mask_path=f'test_result/mask/{image_name}'
-    bbox_sam = BoundingBoxSAM(token=token)
     output = bbox_sam.process_image(image_url, image_path, final_object)
     if output is not None:
         output, masks = output
@@ -111,24 +108,8 @@ def main(inp, image_path, image_url, token):
         masks = None
     output.save(output_path)
     draw_masks(masks, output_mask_path, image_path)
-
-def get_shared_link(file_path):
-    try:
-        # Check if a shared link already exists
-        result = dbx.sharing_list_shared_links(path=file_path)
-        if result.links:
-            # If a link exists, retrieve and modify it
-            existing_link = result.links[0].url
-            modified_link = existing_link.replace('dl=0', 'dl=1')
-            return modified_link
-        else:
-            # If no link exists, create a new one
-            link_metadata = dbx.sharing_create_shared_link_with_settings(file_path)
-            new_link = str(link_metadata.url).replace('dl=0', 'dl=1')
-            return new_link
-    except dropbox.exceptions.ApiError as e:
-        print("Error handling shared link:", e)
-        return None
+    torch.cuda.empty_cache()
+    torch.cuda.synchronize()
 
 def get_first_text_element(file_path):
     """
@@ -158,12 +139,12 @@ def get_first_text_element(file_path):
 
 # Example usage
 if __name__ == "__main__":
-    # Replace this with your access token
-    ACCESS_TOKEN = 'sl.u.AFYhqLg4aAwLrKSn_XC5FdRA6JUS09MzVydSGgyOyx3LwlIZALQpP5D_pRzUI5nEgdbQNJIj1RzT7TKH9K-wRqzCS_i_aFBNj2YBpatGl5znkMK5RjppLKcWExQ6aH-Or8RAxD3eYevffiWD__V-GhchT_x03AWVbJ8Agt86a2-DHLhRn3xS6cFtS3l5h5PHzgkCWgPSPKIDpUZtaq4q5csC_GceJGJ7rSYTeoBCEFb33uO3sTSTlJD8TBhCf5prNEqesVxZRHLNXuQu74PvcOIjT-whMbQ2GorLFom2DDSi4y40GSuwLcwBsm4aAoiWnBcOptQ50iJx3OhWOgH-GO05BQoykjO5nV83ph8TSijGfw-AWPbDx5bKBvm_ww1OT1BiC8YijHIwYnLukSndh-wxad9E5Xw1-ScWwpvJ6qbzgJyvyVgSRtNU9HKjURog--8Tbkq4ZuQMajOO3qvdQcTr8VTEb5Yvvdw-IqsSa6HdhixbI4oFzSpuEzD4ySIk-jzU6W0SKZUvR_7otnQdUDhF0A_t46MCQgCE3_PITu2UXQnnwsfbPE05HAsR5XVM8Z8sBj8Z0z-TQ0XiEY4w6X2qJ92XVOawLivmtA4x6mrJuD0r0ub0JPAxsvU9cnAGv2FpvXalBYs1T1Cho0Koi4K2UV8E30qwaV1UMEMYQNKJ84xCyemKPKXOjaNSiMxWobSJB6U-T1FJmhoRT7c8mRg5MCL_AIVHrcvSgb6jgTPmNOpoGDGQByCb3JaRbc8EzQkcS2flApA2qb-OrwAFmi8Ve-E1F4-t56dz56ihs7xF3T5-tM-ItPl-55-Seyail-nPu1Zv4IWLWKlsXRxv5cOWaH6XQ353NyT2VaVAMYCT2-SlF8RvmII8ihiy-MgB5Ovfrw5dji8hJG4hF849qxDn9bDciDeVWtAtY0f1CEaT-f54HU2GtsqE7656c1RPoFU6Fuad18pe-RBqq9IUmjRupR7FCo_OOm5WVflAus3yQAIg-GAw-aRCnUii8xCOgnaG3sXN7iEiL86jOl-sdz61iJAi3_n0Ev3Nm6p4wYf4GqA4774c50-F7b-7ieI66DiJtxxwqB5y12wrH5ge60KllUguUTBDFsXR3aXWD5BhivgfKcuvX6lDZrZRb2yxTLV_wHsa9v_k6bgOePnyKtGL7czhoEI_J51dUlG_lEwBrGfDnksZmzUHKBvgpUeDnulRxNvZxHxOQBMXZphm4VhFbxYtY-OgaIWCOalNVPPc_y9nzaxuzj1TjpxazomeRuVYuE-xN4ymdWFIXX21asd2'
+    llava = Llava()
+    llama = Llama()
+    
+    token = '6e59b41ca95415ac095a39569557a72e'
+    bbox_sam = BoundingBoxSAM(token=token)
 
-    # Initialize Dropbox client
-    dbx = dropbox.Dropbox(ACCESS_TOKEN)
-    token = '3ef4060368982c4cb1fb2487d584199c'
     with open('file_names_only_jpg.txt') as file:
         with open('url.txt') as ufile:
             i = 1
@@ -175,10 +156,6 @@ if __name__ == "__main__":
                 inp = get_first_text_element(f'test/{filename}')
                 print('input =', inp)
                 print('url =', image_url)
-                if i == 130:
-                    token = '8e7bd19bd9e73006c3f1e8be715c07da'
-                elif i == 330:
-                    token = '7dd0b01b5dafa9bc6de0431326a99c8d'
                 main(inp, image_path, image_url, token)
                 i = i+1
     # while(True):
