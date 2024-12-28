@@ -1,0 +1,96 @@
+{
+  "text": [
+    "If there is a fire in the bathroom, what should we use to warn others to evacuate as soon as possible?",
+    "In case of a fire in the bathroom, what appliance would you use to alert others and indicate the need for immediate evacuation?",
+    "In the case of a fire in the bathroom, what could be employed to alert others to evacuate as soon as possible?",
+    "In case of a fire in the bathroom, what could be used to alert others to evacuate as quickly as possible?",
+    "In a scenario where a fire has broken out in the bathroom, what item could be utilized to alert others to evacuate the area immediately?",
+    "If there is a fire in the bathroom, what tool or device could be used to alert others to evacuate the area immediately?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0014_00_2000.jpg",
+      "points": [
+        [
+          171.68674698795178,
+          32.2289156626506
+        ],
+        [
+          175.6024096385542,
+          22.740963855421686
+        ],
+        [
+          178.31325301204816,
+          22.13855421686747
+        ],
+        [
+          181.62650602409636,
+          22.59036144578313
+        ],
+        [
+          185.09036144578312,
+          21.53614457831325
+        ],
+        [
+          187.19879518072287,
+          20.632530120481928
+        ],
+        [
+          195.48192771084337,
+          20.933734939759034
+        ],
+        [
+          199.69879518072287,
+          22.439759036144576
+        ],
+        [
+          203.31325301204816,
+          25.602409638554214
+        ],
+        [
+          204.36746987951807,
+          27.56024096385542
+        ],
+        [
+          204.06626506024094,
+          31.17469879518072
+        ],
+        [
+          204.8192771084337,
+          31.325301204819276
+        ],
+        [
+          205.27108433734938,
+          56.47590361445783
+        ],
+        [
+          199.99999999999997,
+          59.93975903614457
+        ],
+        [
+          191.26506024096383,
+          59.93975903614457
+        ],
+        [
+          171.83734939759034,
+          59.63855421686746
+        ],
+        [
+          171.83734939759034,
+          57.2289156626506
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

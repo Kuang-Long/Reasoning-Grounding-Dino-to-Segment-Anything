@@ -1,0 +1,192 @@
+{
+  "text": [
+    "A wine enthusiast has a large collection of wines that need to be stored properly. What area in the picture would be most suitable for storing these wines?",
+    "As a wine enthusiast, what region in the picture would be best for preserving a sizable wine collection?",
+    "As a wine enthusiast with a significant collection of wines, where would you find the most appropriate location in the picture to store these wines properly?",
+    "As a helpful robotic assistant, I would recommend you locate the ideal area from the picture to store a large collection of wine bottles properly for the wine enthusiast.",
+    "A wine enthusiast with a large wine collection often needs an appropriate place to store them. In this picture, what is the most suitable area for storing wine?",
+    "A wine enthusiast has a large collection of wines that require proper storage. What area in the picture would be the most appropriate choice for storing these wines?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "3369937174_a0fcdce84c_o.jpg",
+      "points": [
+        [
+          175.45454545454544,
+          715.7575757575758
+        ],
+        [
+          157.27272727272725,
+          712.121212121212
+        ],
+        [
+          145.15151515151513,
+          707.5757575757575
+        ],
+        [
+          120.90909090909089,
+          696.6666666666666
+        ],
+        [
+          91.2121212121212,
+          680.6060606060605
+        ],
+        [
+          70.9090909090909,
+          669.3939393939394
+        ],
+        [
+          42.72727272727273,
+          650.6060606060605
+        ],
+        [
+          29.999999999999996,
+          638.7878787878788
+        ],
+        [
+          0.0,
+          610.2564102564103
+        ],
+        [
+          0.0,
+          271.94444444444446
+        ],
+        [
+          37.77777777777778,
+          238.88888888888889
+        ],
+        [
+          80.55555555555556,
+          218.33333333333331
+        ],
+        [
+          107.58974358974359,
+          207.69230769230768
+        ],
+        [
+          143.4871794871795,
+          198.07692307692307
+        ],
+        [
+          143.4871794871795,
+          182.69230769230768
+        ],
+        [
+          143.4871794871795,
+          173.07692307692307
+        ],
+        [
+          143.88888888888889,
+          169.44444444444443
+        ],
+        [
+          146.69230769230768,
+          165.3846153846154
+        ],
+        [
+          156.94444444444443,
+          163.05555555555554
+        ],
+        [
+          167.77777777777777,
+          162.5
+        ],
+        [
+          175.27777777777777,
+          162.77777777777777
+        ],
+        [
+          177.22222222222223,
+          175.27777777777777
+        ],
+        [
+          204.72222222222223,
+          173.05555555555554
+        ],
+        [
+          208.05555555555554,
+          175.83333333333334
+        ],
+        [
+          206.11111111111111,
+          193.88888888888889
+        ],
+        [
+          218.05555555555554,
+          190.27777777777777
+        ],
+        [
+          231.11111111111111,
+          190.0
+        ],
+        [
+          245.27777777777777,
+          190.0
+        ],
+        [
+          258.88888888888886,
+          190.55555555555554
+        ],
+        [
+          271.6666666666667,
+          192.5
+        ],
+        [
+          301.1794871794872,
+          197.43589743589743
+        ],
+        [
+          339.7142857142857,
+          203.33333333333331
+        ],
+        [
+          375.90476190476187,
+          211.9047619047619
+        ],
+        [
+          394.0,
+          216.19047619047618
+        ],
+        [
+          432.0952380952381,
+          229.52380952380952
+        ],
+        [
+          445.9047619047619,
+          222.85714285714286
+        ],
+        [
+          458.2857142857142,
+          216.19047619047618
+        ],
+        [
+          479.0,
+          210.0
+        ],
+        [
+          479.0,
+          229.04761904761904
+        ],
+        [
+          479.0,
+          716.0
+        ],
+        [
+          209.77777777777771,
+          716.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

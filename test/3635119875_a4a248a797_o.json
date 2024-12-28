@@ -1,0 +1,170 @@
+{
+  "text": [
+    "When we want to surprise someone with a gift, we often put it in a decorative wrapping. What in the picture could be used to package a gift?",
+    "What object in the picture could be used to wrap a gift decoratively?",
+    "Objects that could be used to wrap up and present a gift in a visually appealing manner.",
+    "What item in the picture can be used to wrap a gift and make it aesthetically pleasing?",
+    "When we want to surprise someone with a gift, we often put it in decorative wrapping. Can you help me identify an item in the image that could be utilized to package a gift?",
+    "When we want to give someone a surprise gift, we often wrap it with a decorative wrapping material. Please tell me what in the picture could be used to wrap a gift?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "3635119875_a4a248a797_o.jpg",
+      "points": [
+        [
+          2784.285714285714,
+          2268.5714285714284
+        ],
+        [
+          2146.3576158940396,
+          2236.4238410596026
+        ],
+        [
+          2144.370860927152,
+          2232.4503311258277
+        ],
+        [
+          2143.708609271523,
+          2223.841059602649
+        ],
+        [
+          2149.0066225165565,
+          331.7880794701987
+        ],
+        [
+          2151.655629139073,
+          326.49006622516555
+        ],
+        [
+          2198.7654320987654,
+          214.8148148148148
+        ],
+        [
+          2224.691358024691,
+          211.1111111111111
+        ],
+        [
+          2843.2098765432097,
+          218.5185185185185
+        ],
+        [
+          2864.1975308641972,
+          249.3827160493827
+        ],
+        [
+          2860.431654676259,
+          337.410071942446
+        ],
+        [
+          2807.5,
+          2095.0
+        ],
+        [
+          2798.8505747126437,
+          2256.32183908046
+        ],
+        [
+          2791.9540229885056,
+          2262.0689655172414
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "3635119875_a4a248a797_o.jpg",
+      "points": [
+        [
+          1648.5981308411215,
+          2057.9439252336447
+        ],
+        [
+          1631.7757009345794,
+          2057.9439252336447
+        ],
+        [
+          854.3478260869565,
+          2018.478260869565
+        ],
+        [
+          841.3043478260869,
+          2010.8695652173913
+        ],
+        [
+          775.7142857142857,
+          152.85714285714283
+        ],
+        [
+          781.4285714285713,
+          131.42857142857142
+        ],
+        [
+          797.1428571428571,
+          112.85714285714285
+        ],
+        [
+          914.2857142857142,
+          18.57142857142857
+        ],
+        [
+          1709.9999999999998,
+          32.857142857142854
+        ],
+        [
+          1737.6623376623377,
+          67.53246753246754
+        ],
+        [
+          1743.8596491228068,
+          98.24561403508771
+        ],
+        [
+          1728.0701754385964,
+          1833.333333333333
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "flag",
+      "labels": [
+        "flag"
+      ],
+      "shape_type": "polygon",
+      "image_name": "3635119875_a4a248a797_o.jpg",
+      "points": [
+        [
+          3167.0,
+          107.5
+        ],
+        [
+          3432.0,
+          527.5
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

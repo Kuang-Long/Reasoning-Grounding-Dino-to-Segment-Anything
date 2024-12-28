@@ -1,0 +1,207 @@
+{
+  "text": [
+    "What object is directly connected to the toilet bowl and can be lifted to clean the toilet seat and dirt around the toilet bowl?",
+    "What is the object directly connected to the toilet bowl that can be lifted to clean the toilet seat and dirt around the toilet bowl?",
+    "What is the name of the object that is connected to the toilet bowl, can be lifted to clean the toilet seat, and can be used to clean dirt around the bowl?",
+    "What is the object that is directly attached to the toilet bowl and can be raised to clean the toilet seat and surrounding area?",
+    "What item is typically connected directly to the toilet bowl and can be lifted for the purpose of cleaning the toilet seat and surrounding area?",
+    "Which object directly connected to the toilet bowl can be lifted to clean the toilet seat and any dirt present around the toilet bowl?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0610_01_2000.jpg",
+      "points": [
+        [
+          272.84946236559136,
+          114.01075268817203
+        ],
+        [
+          271.23655913978496,
+          116.43010752688171
+        ],
+        [
+          283.3333333333333,
+          129.33333333333331
+        ],
+        [
+          285.21505376344084,
+          127.72043010752688
+        ],
+        [
+          301.8817204301075,
+          143.8494623655914
+        ],
+        [
+          299.19354838709677,
+          145.46236559139786
+        ],
+        [
+          310.752688172043,
+          158.63440860215053
+        ],
+        [
+          314.7849462365591,
+          155.94623655913978
+        ],
+        [
+          318.81720430107526,
+          160.78494623655914
+        ],
+        [
+          316.66666666666663,
+          164.01075268817203
+        ],
+        [
+          315.8602150537634,
+          168.31182795698925
+        ],
+        [
+          315.59139784946234,
+          173.15053763440858
+        ],
+        [
+          307.5268817204301,
+          190.3548387096774
+        ],
+        [
+          289.247311827957,
+          207.02150537634407
+        ],
+        [
+          267.2043010752688,
+          216.16129032258064
+        ],
+        [
+          241.66666666666666,
+          222.0752688172043
+        ],
+        [
+          225.53763440860214,
+          220.7311827956989
+        ],
+        [
+          207.25806451612902,
+          213.4731182795699
+        ],
+        [
+          194.3548387096774,
+          200.83870967741933
+        ],
+        [
+          186.55913978494624,
+          176.64516129032256
+        ],
+        [
+          192.74193548387095,
+          155.6774193548387
+        ],
+        [
+          206.72043010752688,
+          137.1290322580645
+        ],
+        [
+          221.77419354838707,
+          124.49462365591398
+        ],
+        [
+          241.1290322580645,
+          116.16129032258064
+        ],
+        [
+          257.79569892473114,
+          114.01075268817203
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0610_01_2000.jpg",
+      "points": [
+        [
+          244.88778054862846,
+          135.41147132169576
+        ],
+        [
+          228.927680798005,
+          143.89027431421448
+        ],
+        [
+          218.95261845386534,
+          154.11471321695763
+        ],
+        [
+          211.22194513715712,
+          169.57605985037407
+        ],
+        [
+          209.72568578553617,
+          181.29675810473816
+        ],
+        [
+          218.45386533665837,
+          194.5137157107232
+        ],
+        [
+          224.43890274314217,
+          197.0074812967581
+        ],
+        [
+          242.14463840399003,
+          199.00249376558605
+        ],
+        [
+          265.0872817955112,
+          192.51870324189528
+        ],
+        [
+          278.80299251870326,
+          181.29675810473816
+        ],
+        [
+          284.28927680798006,
+          175.0623441396509
+        ],
+        [
+          286.0349127182045,
+          166.58354114713217
+        ],
+        [
+          281.29675810473816,
+          151.3715710723192
+        ],
+        [
+          273.5660847880299,
+          144.63840399002495
+        ],
+        [
+          261.3466334164589,
+          135.16209476309228
+        ],
+        [
+          251.12219451371573,
+          135.41147132169576
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

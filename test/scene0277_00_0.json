@@ -1,0 +1,43 @@
+{
+  "text": [
+    "Which object in the picture can be opened and closed to control the amount of light entering the indoor environment?",
+    "What object can be opened and closed to regulate the quantity of light entering an enclosed space in the given picture?",
+    "What part of the picture allows for controlling the amount of natural light that enters indoors by being open or closed?",
+    "What object in the picture is used to regulate the amount of sunlight entering the indoor environment?",
+    "What object in the picture functions to regulate the amount of light that enters the indoor environment by being able to open and close it?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0277_00_0.jpg",
+      "points": [
+        [
+          2.675324675324675,
+          0.7792207792207793
+        ],
+        [
+          3.1948051948051948,
+          22.337662337662337
+        ],
+        [
+          198.77922077922076,
+          8.831168831168831
+        ],
+        [
+          199.2987012987013,
+          2.0779220779220777
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

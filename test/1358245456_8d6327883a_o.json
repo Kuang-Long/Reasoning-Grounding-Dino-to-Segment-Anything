@@ -1,0 +1,75 @@
+{
+  "text": [
+    "In a dimly lit room, what can be used to increase the brightness and illuminate the entire space?",
+    "When the room is not sufficiently illuminated, what item can be utilized to increase the brightness and illuminate the entire space?",
+    "If the room is too dark, what can be used to increase the brightness and illuminate the entire area?",
+    "If you were to enter a dimly lit room, what object would be helpful to brighten up the area and provide illumination throughout the space?",
+    "If you want to increase the brightness and illuminate the entire space in a dimly-lit room, what can you use?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "1358245456_8d6327883a_o.jpg",
+      "points": [
+        [
+          31.25,
+          752.734375
+        ],
+        [
+          39.84375,
+          767.1875
+        ],
+        [
+          50.390625,
+          789.84375
+        ],
+        [
+          54.6875,
+          806.25
+        ],
+        [
+          55.078125,
+          820.703125
+        ],
+        [
+          47.265625,
+          830.078125
+        ],
+        [
+          20.3125,
+          851.171875
+        ],
+        [
+          5.859375,
+          862.109375
+        ],
+        [
+          0.0,
+          875.390625
+        ],
+        [
+          0.0,
+          729.6875
+        ],
+        [
+          12.109375,
+          735.546875
+        ],
+        [
+          22.265625,
+          743.359375
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

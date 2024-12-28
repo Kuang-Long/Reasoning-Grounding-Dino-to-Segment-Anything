@@ -1,0 +1,44 @@
+{
+  "text": [
+    "Looking at the floor plan of an apartment, where in the apartment could we find the sleeping area?",
+    "In a given floor plan of an apartment, where would one find the designated sleeping area?",
+    "In an apartment's floor plan, which area indicates where the sleeping area is situated?",
+    "In the floor plan of an apartment, what part of the apartment is typically reserved for sleeping?",
+    "Can you identify where the sleeping area is located within the apartment, based on the floor plan?",
+    "Upon reviewing the floor plan of an apartment, where is the sleeping area typically located?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "4858952770_a9bd7fcba1_o.jpg",
+      "points": [
+        [
+          146.7,
+          16.0
+        ],
+        [
+          31.9,
+          112.9
+        ],
+        [
+          255.01691093573842,
+          247.12514092446446
+        ],
+        [
+          364.4,
+          134.5
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

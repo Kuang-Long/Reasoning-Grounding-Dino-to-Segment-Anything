@@ -1,0 +1,128 @@
+{
+  "text": [
+    "Where can we place an alarm clock to remind us to get up in the morning?",
+    "To help us wake up in the morning, where is the most suitable place to position an alarm clock?",
+    "As a smart home assistant, where would you suggest placing an alarm clock to ensure reminders to wake up timely in the morning?",
+    "In which location could we put an alarm clock to remind us to wake up in the morning?",
+    "Where is the optimal location to place an alarm clock to remind us to wake up in the morning?",
+    "As a smart home AI, where do you suggest placing an alarm clock to remind us to wake up in the morning?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0477_00_4000.jpg",
+      "points": [
+        [
+          178.44112769485903,
+          155.55555555555554
+        ],
+        [
+          178.1094527363184,
+          165.50580431177445
+        ],
+        [
+          198.8391376451078,
+          195.19071310116087
+        ],
+        [
+          201.49253731343282,
+          197.18076285240463
+        ],
+        [
+          223.38308457711443,
+          220.8955223880597
+        ],
+        [
+          226.86567164179104,
+          226.03648424543945
+        ],
+        [
+          231.67495854063017,
+          232.33830845771143
+        ],
+        [
+          241.62520729684908,
+          231.17744610281923
+        ],
+        [
+          243.28358208955223,
+          226.20232172470978
+        ],
+        [
+          240.29850746268656,
+          220.39800995024873
+        ],
+        [
+          238.8059701492537,
+          216.91542288557213
+        ],
+        [
+          241.7910447761194,
+          172.80265339966832
+        ],
+        [
+          244.1127694859038,
+          169.81757877280265
+        ],
+        [
+          245.93698175787728,
+          168.98839137645106
+        ],
+        [
+          243.78109452736317,
+          166.16915422885572
+        ],
+        [
+          225.70480928689884,
+          153.73134328358208
+        ],
+        [
+          223.05140961857379,
+          156.55058043117745
+        ],
+        [
+          214.9,
+          157.9
+        ],
+        [
+          209.2,
+          157.4
+        ],
+        [
+          206.8,
+          155.4
+        ],
+        [
+          203.4,
+          155.0
+        ],
+        [
+          200.8,
+          152.6
+        ],
+        [
+          199.7,
+          151.5
+        ],
+        [
+          195.4,
+          152.4
+        ],
+        [
+          185.3,
+          153.8
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "text": [
+    "What object in the picture can we use to place items such as food or drink during a meal?",
+    "What object in the picture could be used to hold food or drink during a meal?",
+    "During a meal, what object in the picture might be used to hold items such as food or drink?",
+    "During a meal, what object in the picture could be utilized to put various items, such as food and drink?",
+    "What object in the picture could be utilized to place food or drink items on during a meal?",
+    "What item in the picture can be utilized as a surface to place food or drinks during a meal?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0475_01_0.jpg",
+      "points": [
+        [
+          88.78822197055493,
+          89.24122310305776
+        ],
+        [
+          89.69422423556058,
+          97.62174405436014
+        ],
+        [
+          92.0,
+          102.0
+        ],
+        [
+          97.0,
+          107.0
+        ],
+        [
+          105.0,
+          111.0
+        ],
+        [
+          108.0,
+          112.0
+        ],
+        [
+          114.26953567383919,
+          114.15628539071348
+        ],
+        [
+          121.0,
+          116.0
+        ],
+        [
+          126.0,
+          117.0
+        ],
+        [
+          139.4110985277463,
+          117.2140430351076
+        ],
+        [
+          142.0,
+          119.0
+        ],
+        [
+          143.0,
+          122.0
+        ],
+        [
+          142.56559766763849,
+          129.1545189504373
+        ],
+        [
+          148.8338192419825,
+          128.57142857142856
+        ],
+        [
+          149.70845481049562,
+          119.38775510204081
+        ],
+        [
+          159.18367346938774,
+          117.78425655976676
+        ],
+        [
+          171.13702623906704,
+          116.1807580174927
+        ],
+        [
+          181.0,
+          113.0
+        ],
+        [
+          187.0,
+          111.0
+        ],
+        [
+          193.0,
+          108.0
+        ],
+        [
+          196.0,
+          106.0
+        ],
+        [
+          198.07474518686297,
+          104.64326160815402
+        ],
+        [
+          200.56625141562853,
+          102.15175537938845
+        ],
+        [
+          200.3397508493771,
+          92.07248018120045
+        ],
+        [
+          198.6409966024915,
+          88.22197055492639
+        ],
+        [
+          192.0,
+          84.0
+        ],
+        [
+          188.0,
+          82.0
+        ],
+        [
+          182.0,
+          80.0
+        ],
+        [
+          174.0,
+          78.0
+        ],
+        [
+          168.0,
+          77.0
+        ],
+        [
+          160.0,
+          76.0
+        ],
+        [
+          146.0,
+          75.0
+        ],
+        [
+          137.0,
+          75.0
+        ],
+        [
+          125.0,
+          76.0
+        ],
+        [
+          119.0,
+          77.0
+        ],
+        [
+          114.0,
+          78.0
+        ],
+        [
+          106.0,
+          80.0
+        ],
+        [
+          103.0,
+          81.0
+        ],
+        [
+          97.28199320498301,
+          83.12570781426953
+        ],
+        [
+          93.20498301245753,
+          85.16421291053227
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

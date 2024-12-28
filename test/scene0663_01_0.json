@@ -1,0 +1,59 @@
+{
+  "text": [
+    "What do people use to input letters and commands when using a computer?",
+    "What is the common tool or device used for people to input letters and commands when using a computer?",
+    "What tool do people typically use to input letters and commands when working on a computer?",
+    "What is the common way that people use to input letters and commands when operating a computer?",
+    "What is the tool or device that people typically use for inputting letters and commands when using a computer?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0663_01_0.jpg",
+      "points": [
+        [
+          293.9929328621908,
+          124.38162544169612
+        ],
+        [
+          290.4593639575972,
+          129.5053003533569
+        ],
+        [
+          283.2155477031802,
+          144.1696113074205
+        ],
+        [
+          280.3886925795053,
+          144.34628975265016
+        ],
+        [
+          179.5053003533569,
+          112.36749116607774
+        ],
+        [
+          178.79858657243815,
+          110.77738515901059
+        ],
+        [
+          195.9363957597173,
+          96.46643109540636
+        ],
+        [
+          198.76325088339223,
+          96.46643109540636
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

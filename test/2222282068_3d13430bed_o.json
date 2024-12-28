@@ -1,0 +1,226 @@
+{
+  "text": [
+    "Due to the harmful effects of smoking on health, many countries have implemented regulations to discourage smoking. What depicted in the picture is likely to have negative implications regarding smoking?",
+    "What aspects in the picture could have negative implications for smoking, given the harmful effects of smoking on health and the increasing regulatory measures meant to discourage it in many countries?",
+    "Due to the harmful effects of smoking on health, many countries have implemented regulations to discourage smoking. Please identify what in the picture is expected to have detrimental implications related to smoking?",
+    "Please identify what in the picture is likely to have negative implications with regards to smoking, given the harmful effects it can have on one's health?",
+    "Given the health hazards of smoking, many nations have established regulations aimed at reducing tobacco usage. What element present in the picture is likely to have negative implications associated with smoking?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "2222282068_3d13430bed_o.jpg",
+      "points": [
+        [
+          281.40039138943246,
+          149.60645792563597
+        ],
+        [
+          268.09999999999997,
+          136.39999999999998
+        ],
+        [
+          266.7,
+          130.89999999999998
+        ],
+        [
+          272.7,
+          129.7
+        ],
+        [
+          285.2,
+          143.39999999999998
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "2222282068_3d13430bed_o.jpg",
+      "points": [
+        [
+          304.2253521126761,
+          496.47887323943667
+        ],
+        [
+          223.943661971831,
+          471.47887323943667
+        ],
+        [
+          222.88732394366198,
+          469.19014084507046
+        ],
+        [
+          223.06338028169014,
+          466.54929577464793
+        ],
+        [
+          262.32394366197184,
+          349.6478873239437
+        ],
+        [
+          265.14084507042253,
+          349.6478873239437
+        ],
+        [
+          266.5492957746479,
+          349.29577464788736
+        ],
+        [
+          271.6549295774648,
+          335.03521126760563
+        ],
+        [
+          273.943661971831,
+          333.6267605633803
+        ],
+        [
+          276.7605633802817,
+          334.330985915493
+        ],
+        [
+          282.0422535211268,
+          336.6197183098592
+        ],
+        [
+          283.4507042253521,
+          337.32394366197184
+        ],
+        [
+          285.387323943662,
+          333.9788732394366
+        ],
+        [
+          286.6197183098592,
+          332.92253521126764
+        ],
+        [
+          288.556338028169,
+          332.3943661971831
+        ],
+        [
+          291.3732394366197,
+          333.27464788732397
+        ],
+        [
+          294.19014084507046,
+          333.9788732394366
+        ],
+        [
+          297.7112676056338,
+          335.2112676056338
+        ],
+        [
+          301.9366197183099,
+          321.30281690140845
+        ],
+        [
+          304.5774647887324,
+          319.8943661971831
+        ],
+        [
+          308.0985915492958,
+          320.07042253521126
+        ],
+        [
+          311.9718309859155,
+          321.830985915493
+        ],
+        [
+          313.38028169014086,
+          322.887323943662
+        ],
+        [
+          313.90845070422534,
+          324.6478873239437
+        ],
+        [
+          312.1478873239437,
+          331.1619718309859
+        ],
+        [
+          315.31690140845075,
+          332.0422535211268
+        ],
+        [
+          318.3098591549296,
+          333.4507042253521
+        ],
+        [
+          321.6549295774648,
+          334.1549295774648
+        ],
+        [
+          323.4154929577465,
+          335.73943661971833
+        ],
+        [
+          319.3661971830986,
+          351.9366197183099
+        ],
+        [
+          321.1267605633803,
+          352.2887323943662
+        ],
+        [
+          325.0,
+          353.16901408450707
+        ],
+        [
+          327.64084507042253,
+          354.5774647887324
+        ],
+        [
+          329.5774647887324,
+          357.7464788732395
+        ],
+        [
+          329.40140845070425,
+          359.50704225352115
+        ],
+        [
+          327.46478873239437,
+          366.90140845070425
+        ],
+        [
+          337.8521126760564,
+          371.30281690140845
+        ],
+        [
+          342.6056338028169,
+          372.53521126760563
+        ],
+        [
+          343.6619718309859,
+          377.46478873239437
+        ],
+        [
+          311.9718309859155,
+          495.77464788732397
+        ],
+        [
+          309.1549295774648,
+          495.9507042253521
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

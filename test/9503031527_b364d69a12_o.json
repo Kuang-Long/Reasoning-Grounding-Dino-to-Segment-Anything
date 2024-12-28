@@ -1,0 +1,200 @@
+{
+  "text": [
+    "Ladybirds, also known as ladybugs, are common insects found in gardens and fields. What part of the ladybird's body is often brightly colored with spots?",
+    "Ladybirds, commonly known as ladybugs, are common insects that may be discovered in gardens and fields. What component of the ladybird is frequently marked with bright spots or vibrant colors?",
+    "Ladybirds, alternatively referred to as ladybugs, are common insects frequently encountered in gardens and fields. What portion of a ladybird's physique tends to be distinctively hued and covered in spots?",
+    "Ladybirds, also known as ladybugs, are common insects that can be found in gardens and fields. What part of the ladybird's body is usually brightly colored and marked with spots?",
+    "Ladybirds, also known as ladybugs, are common insects found in gardens and fields. What is the anatomical part of the body where the ladybird's bright spots are located?",
+    "Ladybirds, commonly seen in gardens and fields, have a distinctive appearance. Which part of their body is often brightly colored and spotted?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "9503031527_b364d69a12_o.jpg",
+      "points": [
+        [
+          790.0,
+          750.8108108108107
+        ],
+        [
+          783.2432432432432,
+          748.1081081081081
+        ],
+        [
+          780.0,
+          747.8378378378378
+        ],
+        [
+          776.7567567567568,
+          748.3783783783783
+        ],
+        [
+          772.1621621621621,
+          750.2702702702702
+        ],
+        [
+          768.3783783783783,
+          752.9729729729729
+        ],
+        [
+          763.5135135135134,
+          758.3783783783783
+        ],
+        [
+          758.9189189189188,
+          768.6486486486486
+        ],
+        [
+          754.8648648648648,
+          780.8108108108107
+        ],
+        [
+          752.1621621621621,
+          796.4864864864865
+        ],
+        [
+          751.8918918918919,
+          808.9189189189188
+        ],
+        [
+          756.2162162162161,
+          819.4594594594594
+        ],
+        [
+          762.4324324324324,
+          828.108108108108
+        ],
+        [
+          769.1891891891892,
+          834.0540540540541
+        ],
+        [
+          776.4864864864865,
+          838.9189189189188
+        ],
+        [
+          787.027027027027,
+          841.3513513513514
+        ],
+        [
+          795.4054054054054,
+          842.4324324324324
+        ],
+        [
+          805.4054054054054,
+          841.3513513513514
+        ],
+        [
+          813.5135135135134,
+          838.9189189189188
+        ],
+        [
+          821.8918918918919,
+          833.5135135135134
+        ],
+        [
+          830.5405405405405,
+          826.4864864864865
+        ],
+        [
+          835.4054054054054,
+          819.7297297297297
+        ],
+        [
+          841.081081081081,
+          804.5945945945946
+        ],
+        [
+          842.9729729729729,
+          797.2972972972973
+        ],
+        [
+          844.5945945945946,
+          780.5405405405405
+        ],
+        [
+          844.5945945945946,
+          760.8108108108107
+        ],
+        [
+          842.9729729729729,
+          749.1891891891892
+        ],
+        [
+          839.4594594594594,
+          748.3783783783783
+        ],
+        [
+          837.5675675675675,
+          748.3783783783783
+        ],
+        [
+          833.7837837837837,
+          750.8108108108107
+        ],
+        [
+          832.7027027027027,
+          752.1621621621621
+        ],
+        [
+          831.3513513513514,
+          753.5135135135134
+        ],
+        [
+          829.1891891891892,
+          755.1351351351351
+        ],
+        [
+          827.027027027027,
+          756.2162162162161
+        ],
+        [
+          823.5135135135134,
+          756.7567567567568
+        ],
+        [
+          818.9189189189188,
+          757.2972972972973
+        ],
+        [
+          814.8648648648648,
+          757.5675675675675
+        ],
+        [
+          811.081081081081,
+          757.5675675675675
+        ],
+        [
+          806.2162162162161,
+          757.5675675675675
+        ],
+        [
+          803.2432432432432,
+          757.027027027027
+        ],
+        [
+          800.2702702702702,
+          755.4054054054054
+        ],
+        [
+          796.2162162162161,
+          754.3243243243243
+        ],
+        [
+          792.9729729729729,
+          752.9729729729729
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

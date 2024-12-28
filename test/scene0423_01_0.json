@@ -1,0 +1,204 @@
+{
+  "text": [
+    "What object in this picture is often used to place coffee cup and pastry while sitting?",
+    "What is the item in the picture that people often utilize to keep their coffee cups and pastries upright while sitting?",
+    "What object in the picture is commonly used to hold a coffee cup or pastry when sitting?",
+    "What in the picture is commonly used to rest a coffee cup and a pastry on while seated?",
+    "What is the common name of the object in this picture that is frequently utilized to hold coffee cups and pastries while seated?",
+    "What in the picture is commonly used to hold a coffee cup and pastry while someone is seated?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0423_01_0.jpg",
+      "points": [
+        [
+          136.0,
+          130.0
+        ],
+        [
+          135.0,
+          131.0
+        ],
+        [
+          134.0,
+          133.0
+        ],
+        [
+          133.0,
+          140.0
+        ],
+        [
+          133.0,
+          146.0
+        ],
+        [
+          135.0,
+          150.0
+        ],
+        [
+          137.0,
+          152.0
+        ],
+        [
+          140.0,
+          154.0
+        ],
+        [
+          144.0,
+          156.0
+        ],
+        [
+          147.0,
+          159.0
+        ],
+        [
+          147.0,
+          168.0
+        ],
+        [
+          145.0,
+          177.0
+        ],
+        [
+          145.0,
+          193.0
+        ],
+        [
+          146.0,
+          196.0
+        ],
+        [
+          148.0,
+          198.0
+        ],
+        [
+          152.0,
+          200.0
+        ],
+        [
+          155.0,
+          201.0
+        ],
+        [
+          159.0,
+          202.0
+        ],
+        [
+          167.0,
+          203.0
+        ],
+        [
+          174.0,
+          203.0
+        ],
+        [
+          181.0,
+          202.0
+        ],
+        [
+          187.0,
+          200.0
+        ],
+        [
+          190.0,
+          197.0
+        ],
+        [
+          191.0,
+          193.0
+        ],
+        [
+          191.0,
+          163.0
+        ],
+        [
+          194.0,
+          160.0
+        ],
+        [
+          196.0,
+          159.0
+        ],
+        [
+          198.0,
+          159.0
+        ],
+        [
+          200.0,
+          158.0
+        ],
+        [
+          203.0,
+          156.0
+        ],
+        [
+          205.0,
+          154.0
+        ],
+        [
+          207.5496688741722,
+          150.86092715231788
+        ],
+        [
+          208.0794701986755,
+          142.91390728476821
+        ],
+        [
+          206.75496688741723,
+          139.4701986754967
+        ],
+        [
+          199.60264900662253,
+          132.58278145695365
+        ],
+        [
+          194.0,
+          130.0
+        ],
+        [
+          192.0,
+          129.0
+        ],
+        [
+          186.0,
+          127.0
+        ],
+        [
+          178.0,
+          125.0
+        ],
+        [
+          169.0,
+          124.0
+        ],
+        [
+          164.7682119205298,
+          123.3112582781457
+        ],
+        [
+          157.0,
+          125.0
+        ],
+        [
+          147.41721854304637,
+          127.41721854304636
+        ],
+        [
+          138.0,
+          129.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

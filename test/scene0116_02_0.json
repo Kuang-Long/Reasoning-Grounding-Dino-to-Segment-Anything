@@ -1,0 +1,104 @@
+{
+  "text": [
+    "When you wake up in the morning, your hair is usually messy. What do you use to adjust your hairstyle?",
+    "What do you typically use to adjust your hairstyle in the morning when your hair is messy?",
+    "When you wake up in the morning, your hair is often disheveled. What tool do you typically use to modify your hairstyle?",
+    "After getting up in the morning, what tool or product would you utilize to arrange your hair?",
+    "When you wake up in the morning and your hair is messy, what tool or item do you use to adjust your hairstyle?",
+    "What object would you normally use to fix and style your hair after waking up with a messy hairstyle in the morning?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0116_02_0.jpg",
+      "points": [
+        [
+          277.5303643724696,
+          119.23076923076923
+        ],
+        [
+          280.5668016194332,
+          120.24291497975707
+        ],
+        [
+          276.31578947368416,
+          125.70850202429149
+        ],
+        [
+          283.1983805668016,
+          154.0485829959514
+        ],
+        [
+          295.34412955465586,
+          153.84615384615384
+        ],
+        [
+          297.57085020242914,
+          157.4898785425101
+        ],
+        [
+          300.80971659919027,
+          167.40890688259108
+        ],
+        [
+          303.2388663967611,
+          194.73684210526315
+        ],
+        [
+          301.61943319838053,
+          199.1902834008097
+        ],
+        [
+          303.64372469635623,
+          204.0485829959514
+        ],
+        [
+          311.94331983805665,
+          207.08502024291496
+        ],
+        [
+          319.0,
+          207.9741379310345
+        ],
+        [
+          319.0,
+          176.17241379310346
+        ],
+        [
+          316.6666666666667,
+          174.2248062015504
+        ],
+        [
+          312.7906976744186,
+          164.92248062015503
+        ],
+        [
+          303.1007751937984,
+          129.06976744186045
+        ],
+        [
+          298.83720930232556,
+          119.96124031007751
+        ],
+        [
+          294.3798449612403,
+          117.44186046511628
+        ],
+        [
+          286.4341085271318,
+          117.82945736434108
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

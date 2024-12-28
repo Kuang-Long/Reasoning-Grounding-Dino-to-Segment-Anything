@@ -1,0 +1,91 @@
+{
+  "text": [
+    "What object in a room can put on the floor to make people feel more comfortable walking?",
+    "What object could you put on the floor in a room to make people feel more comfortable while walking?",
+    "What can be placed on the floor that would make walking more comfortable inside a room?",
+    "What can be placed on the floor in a room to create greater comfort while walking?",
+    "What object placed on the floor could make people feel more comfortable while walking in a room?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0672_00_0.jpg",
+      "points": [
+        [
+          139.03896103896105,
+          130.1298701298701
+        ],
+        [
+          135.92207792207793,
+          238.1818181818182
+        ],
+        [
+          319.0,
+          239.0
+        ],
+        [
+          319.0,
+          124.93506493506493
+        ],
+        [
+          241.37662337662337,
+          127.27272727272727
+        ],
+        [
+          218.0,
+          128.3116883116883
+        ],
+        [
+          214.88311688311688,
+          132.2077922077922
+        ],
+        [
+          211.5064935064935,
+          143.63636363636363
+        ],
+        [
+          206.57142857142856,
+          153.76623376623377
+        ],
+        [
+          198.25974025974025,
+          157.14285714285714
+        ],
+        [
+          175.92207792207793,
+          159.2207792207792
+        ],
+        [
+          156.1818181818182,
+          156.36363636363637
+        ],
+        [
+          146.83116883116884,
+          145.71428571428572
+        ],
+        [
+          144.23376623376623,
+          135.58441558441558
+        ],
+        [
+          146.05194805194805,
+          131.94805194805195
+        ],
+        [
+          148.1298701298701,
+          128.83116883116884
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

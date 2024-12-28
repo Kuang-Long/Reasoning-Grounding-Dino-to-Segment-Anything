@@ -1,0 +1,183 @@
+{
+  "text": [
+    "A clean and hygienic city environment requires the participation of every citizen. Which opening of the bin in the picture should the garbage be thrown into?",
+    "Can you tell me to which opening of the bin in the picture the garbage should be thrown for maintaining a clean and hygienic city environment?",
+    "In order to maintain a clean and hygienic urban environment, every citizen must participate. Which opening of the bin should be used to deposit garbage, as shown in the picture?",
+    "To maintain a hygienic and clean city environment, what part of the bin depicted in the picture should be utilized when throwing away garbage?",
+    "To maintain a clean and hygienic urban environment, it is necessary for everyone to play their part. Which opening on the bin in the picture should be utilized for the purpose of depositing garbage?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "7167263289_dd78e48dcc_o.jpg",
+      "points": [
+        [
+          1703.0,
+          689.0
+        ],
+        [
+          1722.0,
+          697.0
+        ],
+        [
+          1819.0,
+          703.0
+        ],
+        [
+          1865.0,
+          703.0
+        ],
+        [
+          1946.0,
+          701.0
+        ],
+        [
+          2013.0,
+          701.0
+        ],
+        [
+          2218.0,
+          705.0
+        ],
+        [
+          2239.0,
+          707.0
+        ],
+        [
+          2255.0,
+          706.0
+        ],
+        [
+          2273.0,
+          701.0
+        ],
+        [
+          2281.0,
+          697.0
+        ],
+        [
+          2285.0,
+          694.0
+        ],
+        [
+          2288.0,
+          690.0
+        ],
+        [
+          2288.0,
+          686.0
+        ],
+        [
+          2268.0,
+          667.0
+        ],
+        [
+          2255.0,
+          659.0
+        ],
+        [
+          2251.0,
+          655.0
+        ],
+        [
+          2213.0,
+          635.0
+        ],
+        [
+          2196.0,
+          628.0
+        ],
+        [
+          2172.0,
+          620.0
+        ],
+        [
+          2128.0,
+          610.0
+        ],
+        [
+          2081.0,
+          602.0
+        ],
+        [
+          2045.0,
+          598.0
+        ],
+        [
+          1998.0,
+          596.0
+        ],
+        [
+          1958.0,
+          596.0
+        ],
+        [
+          1935.0,
+          597.0
+        ],
+        [
+          1897.0,
+          601.0
+        ],
+        [
+          1844.0,
+          611.0
+        ],
+        [
+          1820.0,
+          617.0
+        ],
+        [
+          1810.0,
+          621.0
+        ],
+        [
+          1800.0,
+          623.0
+        ],
+        [
+          1771.0,
+          634.0
+        ],
+        [
+          1747.0,
+          645.0
+        ],
+        [
+          1735.0,
+          652.0
+        ],
+        [
+          1732.0,
+          655.0
+        ],
+        [
+          1727.0,
+          657.0
+        ],
+        [
+          1717.0,
+          664.0
+        ],
+        [
+          1707.0,
+          673.0
+        ],
+        [
+          1705.0,
+          677.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

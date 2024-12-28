@@ -1,0 +1,44 @@
+{
+  "text": [
+    "If we need to enter a room, what is the object we need to go through to enter it?",
+    "In order to enter a room, what obstruction should we cross through to gain entry?",
+    "If we need to access a room, what structure do we typically need to pass through in order to enter it?",
+    "What is the item that needs to be passed through in order to enter a room?",
+    "What would you need to go through to enter a room?",
+    "What object must we pass through to enter a room?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0530_00_0.jpg",
+      "points": [
+        [
+          184.23376623376623,
+          0.2597402597402597
+        ],
+        [
+          181.63636363636363,
+          193.5064935064935
+        ],
+        [
+          283.1948051948052,
+          220.5194805194805
+        ],
+        [
+          310.72727272727275,
+          1.5584415584415585
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

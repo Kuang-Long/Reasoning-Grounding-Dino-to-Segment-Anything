@@ -3,7 +3,7 @@ import requests
 import numpy as np
 from PIL import Image
 from models import SAM
-from utils import draw_image
+from utils import draw_image, draw_masks
 
 class BoundingBoxSAM:
     def __init__(self, token: str, sam_type="sam2.1_hiera_small"):
@@ -67,7 +67,6 @@ class BoundingBoxSAM:
         # Predict masks for each bounding box
         for box in bbox:
             box_np = np.array(box, dtype=np.float32)
-            print(box_np)
             masks, scores, logits = self.sam_model.predict(image_array, box_np)
             results.append({
                 "box": box,
@@ -78,7 +77,7 @@ class BoundingBoxSAM:
 
         if not any(result["masks"].size > 0 for result in results):
             print("No masks detected.")
-            return image_pil
+            return image_pil, np.array([])
 
         # Draw results
         all_masks = np.array(np.concatenate([result["masks"] for result in results], axis=0))
@@ -95,9 +94,9 @@ class BoundingBoxSAM:
             np.array([""] * len(all_boxes))
         )
 
-        return Image.fromarray(np.uint8(output_image)).convert("RGB")
+        return Image.fromarray(np.uint8(output_image)).convert("RGB"), all_masks
 
-    def process_image(self, image_url: str, local_image_path: str, prompt: str, output_path: str):
+    def process_image(self, image_url: str, local_image_path: str, prompt: str):
         try:
             # Step 1: Send detection request
             task_uuid = self.send_detection_request(image_url, prompt)
@@ -111,18 +110,11 @@ class BoundingBoxSAM:
             if not objects:
                 print("No objects detected.")
                 return None
-
-            # bbox = objects[0]["bbox"]
             bbox = [obj["bbox"] for obj in objects]
-            print(f"Bounding Box: {bbox}")
 
             # Step 4: Run SAM inference
-            output_image = self.run_sam_inference(local_image_path, bbox)
-
-            # Step 5: Show or save the output
-            output_image.save(output_path)
-            return output_image
+            return self.run_sam_inference(local_image_path, bbox)
 
         except Exception as e:
             print(f"Error: {e}")
-            return None
+            return Image.open(local_image_path).convert("RGB"), None

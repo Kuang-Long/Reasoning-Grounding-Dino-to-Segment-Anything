@@ -1,0 +1,59 @@
+{
+  "text": [
+    "If a person lies down in bed and wants to find something to watch to relax, what appliance in the room can they consider using to watch various programs or movies?",
+    "If a person lies down in bed and wants to find something entertaining to watch, what appliance in the room is suitable for them to consider using to browse and watch various programs, movies or shows?",
+    "If someone is lying in bed and wants to unwind by watching movies or different programs, what appliance in the room can be utilized for this purpose?",
+    "Suppose a person is lying in bed and wants to relax by watching a show or movie. What device could they utilize in the room to browse and watch various programs?",
+    "When a person is lying down in bed and wants to find something to watch and relax, what device in the room could be used to access various programs or movies?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0642_00_0.jpg",
+      "points": [
+        [
+          214.88311688311688,
+          0.7792207792207793
+        ],
+        [
+          210.98701298701297,
+          52.98701298701299
+        ],
+        [
+          260.0779220779221,
+          55.064935064935064
+        ],
+        [
+          260.3376623376623,
+          66.23376623376623
+        ],
+        [
+          284.75324675324674,
+          65.45454545454545
+        ],
+        [
+          285.79220779220776,
+          56.62337662337662
+        ],
+        [
+          319.0,
+          56.103896103896105
+        ],
+        [
+          319.0,
+          0.5748031496062991
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

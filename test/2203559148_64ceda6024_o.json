@@ -1,0 +1,112 @@
+{
+  "text": [
+    "In many countries, it is illegal to park a car in certain areas without proper permission. What part of the picture can help identify the ownership and registration of the car to ensure it is legally parked?",
+    "To ensure that a vehicle is parked legally in specific areas, what region of the image could be used to identify the car ownership and registration?",
+    "Which part of the picture can be utilized to determine the ownership and registration of a vehicle to guarantee that it is lawfully parked, considering that in many countries it is illegal to park a car in certain areas without proper permission?",
+    "What object/element in the picture could be used to identify the ownership and registration of a vehicle to verify if it has been parked legally?",
+    "What aspect of the picture might be utilized to verify the ownership and registration of a vehicle in order to ensure that it is legally parked?",
+    "What region of the picture could be utilized to identify the ownership and registration of a car to ensure that it has been legally parked?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "2203559148_64ceda6024_o.jpg",
+      "points": [
+        [
+          2996.0,
+          1345.0
+        ],
+        [
+          2986.0,
+          1344.0
+        ],
+        [
+          2898.0,
+          1384.0
+        ],
+        [
+          2734.0,
+          1446.0
+        ],
+        [
+          2527.0,
+          1519.0
+        ],
+        [
+          2505.0,
+          1528.0
+        ],
+        [
+          2496.0,
+          1540.0
+        ],
+        [
+          2493.0,
+          1561.0
+        ],
+        [
+          2483.0,
+          1782.0
+        ],
+        [
+          2486.842105263158,
+          1788.6842105263156
+        ],
+        [
+          2488.9473684210525,
+          1791.578947368421
+        ],
+        [
+          2491.0,
+          1794.0
+        ],
+        [
+          2494.210526315789,
+          1793.9473684210525
+        ],
+        [
+          2499.4736842105262,
+          1793.157894736842
+        ],
+        [
+          2993.0,
+          1598.0
+        ],
+        [
+          2998.0,
+          1593.0
+        ],
+        [
+          3001.0,
+          1587.0
+        ],
+        [
+          3003.0,
+          1575.0
+        ],
+        [
+          3004.0,
+          1367.0
+        ],
+        [
+          3002.0,
+          1362.0
+        ],
+        [
+          3001.0,
+          1352.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

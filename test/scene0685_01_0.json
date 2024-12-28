@@ -1,0 +1,111 @@
+{
+  "text": [
+    "In a community with strict environmental awareness, residents are encouraged to sort the garbage they produce and put it into different containers for recycling. What is the object in the picture that is designed specifically for this use?",
+    "In a community that emphasizes environmental awareness and recycling, residents are encouraged to sort their waste and dispose it into appropriate bins. What object in the picture is specifically designed to support this practice?",
+    "In a community with a strict awareness of environmental protection, people are encouraged to sort the waste they generate and discard it in dedicated receptacles for recycling. What object in the picture is specifically designed for this purpose?",
+    "In a community with strict environmental awareness, residents are encouraged to separate the waste they produce and place it into different containers for recycling. What object in the picture is specifically designed for this use?",
+    "In a community with a strong focus on environmental awareness, residents are typically encouraged to sort their waste and place it in separate containers for recycling. Which object in the picture is designed specifically for this purpose?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0685_01_0.jpg",
+      "points": [
+        [
+          0.9653179190751437,
+          135.84393063583815
+        ],
+        [
+          0.9653179190751437,
+          142.49132947976878
+        ],
+        [
+          6.167630057803468,
+          152.89595375722544
+        ],
+        [
+          13.104046242774565,
+          157.52023121387285
+        ],
+        [
+          20.040462427745666,
+          163.878612716763
+        ],
+        [
+          21.196531791907518,
+          181.50867052023122
+        ],
+        [
+          38.82658959537572,
+          239.0
+        ],
+        [
+          187.95953757225433,
+          239.0
+        ],
+        [
+          192.29479768786126,
+          191.04624277456648
+        ],
+        [
+          193.4508670520231,
+          158.09826589595377
+        ],
+        [
+          199.23121387283237,
+          146.53757225433526
+        ],
+        [
+          200.96531791907515,
+          143.35838150289018
+        ],
+        [
+          211.08092485549133,
+          137.28901734104048
+        ],
+        [
+          211.9479768786127,
+          132.95375722543352
+        ],
+        [
+          210.79190751445086,
+          131.21965317919074
+        ],
+        [
+          208.76878612716763,
+          130.64161849710982
+        ],
+        [
+          207.61271676300578,
+          120.52601156069363
+        ],
+        [
+          204.4335260115607,
+          119.36994219653178
+        ],
+        [
+          120.61849710982659,
+          104.6300578034682
+        ],
+        [
+          109.92485549132948,
+          105.4971098265896
+        ],
+        [
+          90.84971098265896,
+          108.38728323699422
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

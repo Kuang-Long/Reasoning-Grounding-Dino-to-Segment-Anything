@@ -1,0 +1,104 @@
+{
+  "text": [
+    "In a public building, what should people use to discard the paper towels used to dry their hands after washing in the restroom?",
+    "In a public building, what object should people use to dispose of the paper towels used for drying their hands after washing in the restroom?",
+    "In a public building, which spot is considered the appropriate place for people to dispose of the paper towels after using them to dry their hands in the restroom?",
+    "If the restroom is inside a public building, what could people use to dispose of the paper towels after hand-washing?",
+    "In a public building, what item would someone typically use to dispose of the paper towels used for drying their hands after washing in the restroom?",
+    "What item should individuals use to dispose of paper towels used to dry their hands after washing in a public restroom?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0599_01_0.jpg",
+      "points": [
+        [
+          51.76623376623377,
+          148.05194805194805
+        ],
+        [
+          50.98701298701299,
+          158.1818181818182
+        ],
+        [
+          46.57142857142857,
+          160.5194805194805
+        ],
+        [
+          46.31168831168831,
+          164.41558441558442
+        ],
+        [
+          46.83116883116883,
+          166.4935064935065
+        ],
+        [
+          51.246753246753244,
+          167.27272727272728
+        ],
+        [
+          58.0,
+          238.7012987012987
+        ],
+        [
+          98.77922077922078,
+          239.0
+        ],
+        [
+          107.6103896103896,
+          229.87012987012986
+        ],
+        [
+          107.6103896103896,
+          226.75324675324674
+        ],
+        [
+          109.68831168831169,
+          153.76623376623377
+        ],
+        [
+          112.8051948051948,
+          152.2077922077922
+        ],
+        [
+          114.1038961038961,
+          148.83116883116884
+        ],
+        [
+          112.02597402597402,
+          145.71428571428572
+        ],
+        [
+          109.42857142857143,
+          145.97402597402598
+        ],
+        [
+          109.16883116883116,
+          137.92207792207793
+        ],
+        [
+          106.31168831168831,
+          136.1038961038961
+        ],
+        [
+          85.53246753246754,
+          134.02597402597402
+        ],
+        [
+          80.85714285714286,
+          134.80519480519482
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "text": [
+    "In a cold winter, what appliance can be used to heat the indoor environment?",
+    "In a frigid winter, what appliance can be utilized to warm the indoor environment?",
+    "In chilly winters, what appliance would you use to warm up the indoor environment?",
+    "What appliance could be implemented to warm up the indoor environment during a cold winter?",
+    "As an intelligent home assistant, what appliance would you advise to be used to heat the indoor environment in a cold winter?",
+    "What type of appliance could be utilized to warm up an indoor environment during a cold winter day?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0385_02_4000.jpg",
+      "points": [
+        [
+          83.93782383419689,
+          102.59067357512954
+        ],
+        [
+          216.58031088082902,
+          98.70466321243524
+        ],
+        [
+          219.3548387096774,
+          44.655913978494624
+        ],
+        [
+          128.76344086021504,
+          45.73118279569892
+        ],
+        [
+          77.46113989637306,
+          46.89119170984456
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

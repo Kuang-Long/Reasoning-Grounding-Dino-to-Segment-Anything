@@ -1,0 +1,157 @@
+{
+  "text": [
+    "To add embellishment to the wall or the room, what structural object is suitable for hanging decorative pictures?",
+    "What structural object could be utilized for hanging decorative pictures to add embellishment to a wall or a room?",
+    "What structural object would be most appropriate for hanging decorative pictures to add embellishment to a wall or room?",
+    "What structural object could be utilized to hang decorative pictures and enhance the appearance of a wall or room?",
+    "When decorating a wall or a space, what is the ideal structural object to use for hanging decorative pictures or embellishments?",
+    "What structural object in the room is generally appropriate and suitable for hanging decorative pictures and adding embellishment to the wall or room?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0006_00_2000.jpg",
+      "points": [
+        [
+          219.96615905245346,
+          42.301184433164124
+        ],
+        [
+          218.10490693739425,
+          93.57021996615904
+        ],
+        [
+          264.80541455160744,
+          96.44670050761421
+        ],
+        [
+          266.497461928934,
+          46.86971235194585
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0006_00_2000.jpg",
+      "points": [
+        [
+          276.83615819209035,
+          46.70433145009416
+        ],
+        [
+          274.57627118644064,
+          112.24105461393596
+        ],
+        [
+          317.89077212806023,
+          115.25423728813558
+        ],
+        [
+          319.0,
+          52.165725047080976
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0006_00_2000.jpg",
+      "points": [
+        [
+          216.94915254237287,
+          106.96798493408662
+        ],
+        [
+          214.68926553672316,
+          175.32956685499056
+        ],
+        [
+          216.38418079096044,
+          176.08286252354048
+        ],
+        [
+          263.27683615819205,
+          176.6478342749529
+        ],
+        [
+          263.46516007532955,
+          175.894538606403
+        ],
+        [
+          265.72504708097927,
+          109.22787193973633
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0006_00_2000.jpg",
+      "points": [
+        [
+          273.82297551789077,
+          125.42372881355931
+        ],
+        [
+          272.3163841807909,
+          174.76459510357813
+        ],
+        [
+          273.4463276836158,
+          175.894538606403
+        ],
+        [
+          313.93596986817323,
+          175.32956685499056
+        ],
+        [
+          315.2542372881356,
+          174.1996233521657
+        ],
+        [
+          316.5725047080979,
+          127.68361581920902
+        ],
+        [
+          314.31261770244816,
+          126.93032015065913
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

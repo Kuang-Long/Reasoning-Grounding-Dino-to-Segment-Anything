@@ -1,0 +1,95 @@
+{
+  "text": [
+    "Birds often need a stable surface to land on and rest. What in the picture could provide a suitable landing spot for a bird?",
+    "What might provide a suitable and steady landing spot for a bird in the picture?",
+    "Birds usually need a platform that is stable enough for them to land and rest. What in the picture could provide a suitable landing spot for a bird?",
+    "When birds are seeking a stable surface where they can land and rest, what in the picture might serve as a good landing spot for them?",
+    "In the given picture, what might be an adequate landing place for a bird, as birds typically require a stable landing surface to rest and perch upon?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "6939785558_a768223cb4_o.jpg",
+      "points": [
+        [
+          2.630630630630627,
+          656.4594594594594
+        ],
+        [
+          276.5045045045045,
+          690.6936936936936
+        ],
+        [
+          582.258064516129,
+          729.5698924731182
+        ],
+        [
+          620.8163265306122,
+          737.1428571428571
+        ],
+        [
+          629.3877551020407,
+          740.8163265306122
+        ],
+        [
+          635.9183673469387,
+          741.6326530612245
+        ],
+        [
+          642.4489795918366,
+          743.6734693877551
+        ],
+        [
+          641.2244897959183,
+          740.0
+        ],
+        [
+          635.9183673469387,
+          737.9591836734693
+        ],
+        [
+          630.204081632653,
+          736.734693877551
+        ],
+        [
+          631.8367346938775,
+          735.1020408163265
+        ],
+        [
+          659.5918367346939,
+          737.9591836734693
+        ],
+        [
+          742.8571428571428,
+          749.7959183673469
+        ],
+        [
+          797.1428571428571,
+          763.2653061224489
+        ],
+        [
+          796.734693877551,
+          773.4693877551019
+        ],
+        [
+          929.375,
+          805.625
+        ],
+        [
+          0.0,
+          807.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

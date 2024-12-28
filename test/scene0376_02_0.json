@@ -1,0 +1,52 @@
+{
+  "text": [
+    "Where would one usually keep clothes or personal items such as eyeglasses within arm's reach while resting on a bed?",
+    "During rest, where would one typically keep their clothes or personal items like eyeglasses that are within arm's reach while on a bed?",
+    "When resting on a bed, where is the convenient location to store personal items such as glasses and clothes within arm's reach?",
+    "Where would someone typically keep their clothing or personal items, such as eyeglasses, within reach while resting on a bed?",
+    "While resting on a bed, where could someone typically keep their clothes or personal belongings, such as eyeglasses, within an arm's reach?",
+    "While resting on a bed, where would people typically keep their clothes or personal items, such as eyeglasses, within arm's reach?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0376_02_0.jpg",
+      "points": [
+        [
+          121.63636363636364,
+          114.02597402597402
+        ],
+        [
+          127.6103896103896,
+          201.03896103896105
+        ],
+        [
+          135.14285714285714,
+          229.87012987012986
+        ],
+        [
+          275.6623376623377,
+          198.7012987012987
+        ],
+        [
+          304.49350649350646,
+          94.54545454545455
+        ],
+        [
+          299.038961038961,
+          88.31168831168831
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

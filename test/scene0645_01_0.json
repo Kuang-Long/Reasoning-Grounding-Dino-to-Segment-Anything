@@ -1,0 +1,42 @@
+{
+  "text": [
+    "What object hanging on the wall in the bedroom can make the atmosphere more artistic and decorative?",
+    "What decoration hanging on the wall in the bedroom can make the atmosphere more artistic and decorative?",
+    "What is the object that hangs on the wall in the bedroom which can enhance the atmosphere of the room and give it a more artistic and decorative feel?",
+    "What object is hanging on the bedroom wall that can make the room look more decorative and artistic?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0645_01_0.jpg",
+      "points": [
+        [
+          126.57142857142856,
+          30.90909090909091
+        ],
+        [
+          125.53246753246754,
+          89.6103896103896
+        ],
+        [
+          191.5064935064935,
+          90.38961038961038
+        ],
+        [
+          194.36363636363635,
+          30.649350649350648
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

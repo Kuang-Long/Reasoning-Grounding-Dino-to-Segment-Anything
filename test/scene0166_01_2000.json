@@ -1,0 +1,92 @@
+{
+  "text": [
+    "In the living room, what object are we most likely to sit on comfortably for a period of rest?",
+    "In a living room, what is the object that we are likely to sit on comfortably for a period of rest?",
+    "In the living room, what object is typically utilized for sitting comfortably during rest periods?",
+    "In a typical living room, what object would be most comfortable for sitting and taking a rest?",
+    "Which object in the living room is typically used for comfortable sitting and relaxing for a period of time?",
+    "In a living room setting, what is the most comfortable object to sit on during a period of rest?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0166_01_2000.jpg",
+      "points": [
+        [
+          182.66666666666666,
+          23.333333333333336
+        ],
+        [
+          183.0,
+          29.0
+        ],
+        [
+          185.0,
+          34.33333333333333
+        ],
+        [
+          178.33333333333334,
+          108.33333333333334
+        ],
+        [
+          179.66666666666666,
+          113.66666666666666
+        ],
+        [
+          187.66666666666666,
+          205.66666666666666
+        ],
+        [
+          190.0,
+          219.33333333333334
+        ],
+        [
+          198.0,
+          221.66666666666666
+        ],
+        [
+          227.0,
+          223.66666666666669
+        ],
+        [
+          318.3333333333333,
+          221.66666666666666
+        ],
+        [
+          319.0,
+          28.666666666666664
+        ],
+        [
+          307.6666666666667,
+          28.333333333333336
+        ],
+        [
+          291.0,
+          21.333333333333336
+        ],
+        [
+          285.3333333333333,
+          17.333333333333336
+        ],
+        [
+          195.33333333333334,
+          19.0
+        ],
+        [
+          187.33333333333334,
+          21.333333333333336
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

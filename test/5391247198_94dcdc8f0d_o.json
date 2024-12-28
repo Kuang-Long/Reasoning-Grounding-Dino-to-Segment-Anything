@@ -1,0 +1,322 @@
+{
+  "text": [
+    "When playing a drum set, which part of the drum set in the picture would be used to keep the rhythm and provide accents in the music?",
+    "When playing a drum set, which part of the set displayed in the picture is commonly utilized to maintain the rhythm and provide accents in the music being played?",
+    "When playing a drum set, which component of the drum set seen in the picture is typically used to keep the rhythm and add accents to the music being played?",
+    "When playing a drum set, which part of the drum set shown in the picture is typically utilized to maintain the tempo and highlight accents in the music?",
+    "When playing a drum set, which components of the drum set pictured would typically be utilized to maintain the rhythm and add accents to the music being played?",
+    "When playing a drum set, which element in the picture could be utilized to establish rhythm and emphasize certain beats in the music?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5391247198_94dcdc8f0d_o.jpg",
+      "points": [
+        [
+          4107.0,
+          1367.0
+        ],
+        [
+          4089.0,
+          1311.0
+        ],
+        [
+          4052.0,
+          1251.0
+        ],
+        [
+          3979.0,
+          1166.0
+        ],
+        [
+          3910.0,
+          1107.0
+        ],
+        [
+          3768.0,
+          1028.0
+        ],
+        [
+          3582.0,
+          959.0
+        ],
+        [
+          3406.0,
+          903.0
+        ],
+        [
+          3214.0,
+          856.0
+        ],
+        [
+          2962.0,
+          817.0
+        ],
+        [
+          2455.0,
+          773.0
+        ],
+        [
+          2316.0,
+          753.0
+        ],
+        [
+          2099.0,
+          744.0
+        ],
+        [
+          1923.0,
+          767.0
+        ],
+        [
+          1825.0,
+          793.0
+        ],
+        [
+          1559.0,
+          833.0
+        ],
+        [
+          1553.0,
+          841.0
+        ],
+        [
+          1342.0,
+          860.0
+        ],
+        [
+          1225.0,
+          896.0
+        ],
+        [
+          1132.0,
+          914.0
+        ],
+        [
+          965.0,
+          960.0
+        ],
+        [
+          637.0,
+          1082.0
+        ],
+        [
+          500.0,
+          1145.0
+        ],
+        [
+          310.0,
+          1248.0
+        ],
+        [
+          174.0,
+          1389.0
+        ],
+        [
+          138.0,
+          1486.0
+        ],
+        [
+          132.0,
+          1605.0
+        ],
+        [
+          178.0,
+          1734.0
+        ],
+        [
+          289.0,
+          1845.0
+        ],
+        [
+          432.0,
+          1936.0
+        ],
+        [
+          696.0,
+          2044.0
+        ],
+        [
+          988.0,
+          2112.0
+        ],
+        [
+          1489.0,
+          2188.0
+        ],
+        [
+          1942.0,
+          2221.0
+        ],
+        [
+          2227.0,
+          2208.0
+        ],
+        [
+          2371.0,
+          2194.0
+        ],
+        [
+          2581.0,
+          2198.0
+        ],
+        [
+          2893.0,
+          2144.0
+        ],
+        [
+          3242.0,
+          2065.0
+        ],
+        [
+          3443.0,
+          1988.0
+        ],
+        [
+          3738.0,
+          1849.0
+        ],
+        [
+          3906.0,
+          1740.0
+        ],
+        [
+          3974.0,
+          1681.0
+        ],
+        [
+          4051.0,
+          1593.0
+        ],
+        [
+          4086.0,
+          1529.0
+        ],
+        [
+          4103.0,
+          1480.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5391247198_94dcdc8f0d_o.jpg",
+      "points": [
+        [
+          688.7272727272725,
+          2460.5454545454545
+        ],
+        [
+          425.090909090909,
+          2365.090909090909
+        ],
+        [
+          97.81818181818176,
+          2128.7272727272725
+        ],
+        [
+          0.0,
+          1992.3636363636365
+        ],
+        [
+          0.0,
+          1456.0
+        ],
+        [
+          106.90909090909099,
+          1406.0
+        ],
+        [
+          111.4545454545455,
+          1587.818181818182
+        ],
+        [
+          147.81818181818176,
+          1756.0
+        ],
+        [
+          293.27272727272725,
+          1892.3636363636365
+        ],
+        [
+          525.090909090909,
+          2019.6363636363635
+        ],
+        [
+          861.4545454545455,
+          2119.6363636363635
+        ],
+        [
+          1179.6363636363635,
+          2169.6363636363635
+        ],
+        [
+          1602.3636363636365,
+          2219.6363636363635
+        ],
+        [
+          1961.4545454545455,
+          2246.909090909091
+        ],
+        [
+          1934.181818181818,
+          2374.181818181818
+        ],
+        [
+          1756.909090909091,
+          2533.2727272727275
+        ],
+        [
+          1502.3636363636365,
+          2615.090909090909
+        ],
+        [
+          1088.7272727272725,
+          2587.818181818182
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "flag",
+      "labels": [
+        "flag"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5391247198_94dcdc8f0d_o.jpg",
+      "points": [
+        [
+          3606.909090909091,
+          83.27272727272725
+        ],
+        [
+          4184.181818181818,
+          696.909090909091
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

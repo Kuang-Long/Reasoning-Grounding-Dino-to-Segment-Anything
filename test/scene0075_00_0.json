@@ -1,0 +1,82 @@
+{
+  "text": [
+    "In a conference room, where can people write ideas on during a meeting?",
+    "During a meeting in a conference room, where is a common location for attendees to write down and share their ideas?",
+    "During a conference meeting held in a conference room, what part of the room can serve as a writing surface for recording ideas?",
+    "In a conference room, where is the most appropriate place for individuals to record their ideas during a meeting?",
+    "During a conference meeting, where is the location where people can write their ideas?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0075_00_0.jpg",
+      "points": [
+        [
+          0.1577060931899581,
+          0.5197132616487465
+        ],
+        [
+          0.87455197132617,
+          22.38351254480287
+        ],
+        [
+          86.17921146953404,
+          18.799283154121866
+        ],
+        [
+          87.97132616487454,
+          14.498207885304659
+        ],
+        [
+          86.17921146953404,
+          0.16129032258064768
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0075_00_0.jpg",
+      "points": [
+        [
+          202.39520958083833,
+          0.8323353293413192
+        ],
+        [
+          202.69461077844312,
+          12.209580838323355
+        ],
+        [
+          270.3592814371258,
+          9.215568862275454
+        ],
+        [
+          270.65868263473055,
+          0.0
+        ],
+        [
+          202.69461077844312,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

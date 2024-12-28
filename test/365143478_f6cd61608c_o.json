@@ -1,0 +1,213 @@
+{
+  "text": [
+    "When visiting a restaurant, it is common to see signs that are used to attract customers and indicate the name of the establishment. What object in the picture fulfills this purpose?",
+    "What object in the picture is commonly utilized to indicate the name of an establishment and attract potential customers visiting a restaurant?",
+    "What object in the picture is typically used to attract customers, indicate the name of the establishment, and commonly seen when visiting a restaurant?",
+    "In a restaurant, signage is typically utilized to attract customers and designate the name of the establishment. Which object in this picture serves this function?",
+    "What object in the picture can potentially be used for attracting customers to an establishment by indicating its name?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "365143478_f6cd61608c_o.jpg",
+      "points": [
+        [
+          0.0,
+          402.0
+        ],
+        [
+          2.0,
+          559.0
+        ],
+        [
+          3.0,
+          560.0
+        ],
+        [
+          3.0,
+          622.0
+        ],
+        [
+          4.0,
+          623.0
+        ],
+        [
+          4.0,
+          654.0
+        ],
+        [
+          12.0,
+          654.0
+        ],
+        [
+          13.0,
+          655.0
+        ],
+        [
+          30.0,
+          656.0
+        ],
+        [
+          47.0,
+          656.0
+        ],
+        [
+          99.0,
+          660.0
+        ],
+        [
+          340.0,
+          673.0
+        ],
+        [
+          341.0,
+          674.0
+        ],
+        [
+          685.0,
+          693.0
+        ],
+        [
+          686.0,
+          694.0
+        ],
+        [
+          2274.0,
+          785.0
+        ],
+        [
+          2275.0,
+          787.0
+        ],
+        [
+          2290.0,
+          787.0
+        ],
+        [
+          2291.0,
+          786.0
+        ],
+        [
+          2298.0,
+          786.0
+        ],
+        [
+          2299.0,
+          783.0
+        ],
+        [
+          2301.0,
+          783.0
+        ],
+        [
+          2301.0,
+          781.0
+        ],
+        [
+          2271.0,
+          607.0
+        ],
+        [
+          2269.0,
+          603.0
+        ],
+        [
+          2262.0,
+          600.0
+        ],
+        [
+          2251.0,
+          593.0
+        ],
+        [
+          2241.0,
+          588.0
+        ],
+        [
+          2210.0,
+          580.0
+        ],
+        [
+          2203.0,
+          579.0
+        ],
+        [
+          6.0,
+          402.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "365143478_f6cd61608c_o.jpg",
+      "points": [
+        [
+          977.0,
+          472.30769230769226
+        ],
+        [
+          2303.0,
+          585.0714285714286
+        ],
+        [
+          2300.076923076923,
+          167.69230769230768
+        ],
+        [
+          1204.6923076923076,
+          1.5384615384615383
+        ],
+        [
+          3.1538461538461533,
+          0.0
+        ],
+        [
+          0.0769230769230731,
+          392.3076923076923
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "flag",
+      "labels": [
+        "flag"
+      ],
+      "shape_type": "polygon",
+      "image_name": "365143478_f6cd61608c_o.jpg",
+      "points": [
+        [
+          1080.3333333333333,
+          946.4444444444443
+        ],
+        [
+          1567.0,
+          1222.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "text": [
+    "What appliance in the image can be used to control lighting in this room?",
+    "What object in the image could you use to adjust the lighting in the room?",
+    "What device or appliance in the image can be used to regulate lighting in the room?",
+    "What electrical appliance in the image can regulate the illumination within the room?",
+    "Which appliance in the picture could be utilized to manage the lighting within this space?",
+    "What device or appliance in this image can be used for lighting control in this room?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0232_00_2000.jpg",
+      "points": [
+        [
+          185.24096385542168,
+          182.98192771084337
+        ],
+        [
+          184.4879518072289,
+          185.39156626506022
+        ],
+        [
+          185.09036144578312,
+          213.4036144578313
+        ],
+        [
+          187.04819277108433,
+          214.15662650602408
+        ],
+        [
+          209.4879518072289,
+          219.87951807228913
+        ],
+        [
+          210.8433734939759,
+          219.12650602409636
+        ],
+        [
+          211.89759036144576,
+          186.29518072289156
+        ],
+        [
+          210.09036144578312,
+          184.789156626506
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0232_00_2000.jpg",
+      "points": [
+        [
+          248.4171322160149,
+          160.33519553072625
+        ],
+        [
+          248.04469273743015,
+          196.64804469273741
+        ],
+        [
+          251.024208566108,
+          197.3929236499069
+        ],
+        [
+          268.5288640595903,
+          199.4413407821229
+        ],
+        [
+          272.2532588454376,
+          198.88268156424581
+        ],
+        [
+          271.8808193668529,
+          162.19739292364991
+        ],
+        [
+          270.0186219739292,
+          160.52141527001862
+        ],
+        [
+          250.09310986964618,
+          159.40409683426444
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0232_00_2000.jpg",
+      "points": [
+        [
+          179.51582867783983,
+          129.60893854748602
+        ],
+        [
+          178.58472998137802,
+          162.01117318435755
+        ],
+        [
+          204.84171322160148,
+          163.50093109869647
+        ],
+        [
+          208.75232774674114,
+          162.19739292364991
+        ],
+        [
+          210.0558659217877,
+          129.7951582867784
+        ],
+        [
+          208.9385474860335,
+          128.30540037243946
+        ],
+        [
+          204.09683426443203,
+          127.93296089385474
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

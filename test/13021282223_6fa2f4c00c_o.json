@@ -1,0 +1,132 @@
+{
+  "text": [
+    "Pelicans are known for their unique hunting technique of diving into the water to catch fish. What body part of the pelican is primarily used to catch the fish?",
+    "What component of the pelican's anatomy is predominantly used when it dives into the water to capture fish while hunting?",
+    "In devising a strategy to catch fish, pelicans are known for their unique hunting style of diving into the water. Which body part of the pelican is primarily utilized to catch fish?",
+    "Pelicans are known for their unique hunting technique of diving into the water to catch fish. What main body part of the pelican is employed to seize the fish during the hunting process?",
+    "What body part of a pelican is primarily utilized to catch fish while hunting, given their unique diving technique?",
+    "What body part of the pelican is primarily utilized for catching fish, as they are well-known for their unique hunting technique of diving into the water to grab their prey?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "13021282223_6fa2f4c00c_o.jpg",
+      "points": [
+        [
+          1250.467289719626,
+          914.9532710280373
+        ],
+        [
+          1264.018691588785,
+          909.3457943925233
+        ],
+        [
+          1284.4086021505375,
+          905.9139784946236
+        ],
+        [
+          1304.3010752688172,
+          903.2258064516128
+        ],
+        [
+          1323.6559139784945,
+          902.1505376344086
+        ],
+        [
+          1346.236559139785,
+          906.9892473118279
+        ],
+        [
+          1355.3763440860214,
+          910.2150537634408
+        ],
+        [
+          1341.3978494623655,
+          916.6666666666666
+        ],
+        [
+          1334.1121495327102,
+          920.5607476635513
+        ],
+        [
+          1326.6355140186915,
+          930.841121495327
+        ],
+        [
+          1320.0934579439252,
+          950.0
+        ],
+        [
+          1307.4766355140187,
+          977.5700934579438
+        ],
+        [
+          1291.1214953271028,
+          1012.1495327102804
+        ],
+        [
+          1254.6728971962616,
+          1065.4205607476636
+        ],
+        [
+          1235.5140186915887,
+          1088.7850467289718
+        ],
+        [
+          1226.6355140186915,
+          1096.2616822429907
+        ],
+        [
+          1221.96261682243,
+          1097.196261682243
+        ],
+        [
+          1216.822429906542,
+          1093.9252336448596
+        ],
+        [
+          1215.934065934066,
+          1084.6153846153845
+        ],
+        [
+          1220.0934579439252,
+          1067.7570093457944
+        ],
+        [
+          1229.9065420560746,
+          1029.9065420560746
+        ],
+        [
+          1241.5887850467288,
+          999.0654205607476
+        ],
+        [
+          1252.8037383177568,
+          965.8878504672897
+        ],
+        [
+          1257.0093457943924,
+          951.8691588785047
+        ],
+        [
+          1259.3457943925232,
+          939.252336448598
+        ],
+        [
+          1257.4766355140187,
+          929.9065420560747
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

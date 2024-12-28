@@ -1,0 +1,193 @@
+{
+  "text": [
+    "If we need to store a large number of books, what object in the picture should we use for storage?",
+    "What object can be used for storage when there's a need to store a large quantity of books?",
+    "If we have to store an extensive collection of books, which object in the picture should we use for storage purposes?",
+    "If we need to store a large number of books, what object(s) in the picture could be used for storage purposes?",
+    "If we need to store a large number of books, what object in the picture could we use for organizing them?",
+    "What in the picture appears to be the ideal item to use for storage if you need to store a large number of books?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0010_00_2000.jpg",
+      "points": [
+        [
+          41.2814371257485,
+          0.5628742514970071
+        ],
+        [
+          60.74251497005989,
+          204.4550898203593
+        ],
+        [
+          63.73652694610779,
+          203.25748502994014
+        ],
+        [
+          77.20958083832336,
+          211.94011976047906
+        ],
+        [
+          76.91017964071857,
+          215.53293413173654
+        ],
+        [
+          93.37724550898204,
+          232.2994011976048
+        ],
+        [
+          98.16766467065868,
+          234.09580838323353
+        ],
+        [
+          213.7365269461078,
+          183.19760479041918
+        ],
+        [
+          215.83233532934133,
+          176.311377245509
+        ],
+        [
+          217.92814371257487,
+          168.82634730538922
+        ],
+        [
+          220.622754491018,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0010_00_2000.jpg",
+      "points": [
+        [
+          93.97604790419162,
+          165.83233532934133
+        ],
+        [
+          97.5688622754491,
+          223.61676646706587
+        ],
+        [
+          104.1556886227545,
+          224.51497005988026
+        ],
+        [
+          107.74850299401199,
+          224.21556886227546
+        ],
+        [
+          178.10778443113773,
+          196.07185628742516
+        ],
+        [
+          173.61676646706587,
+          158.34730538922156
+        ],
+        [
+          158.94610778443115,
+          150.56287425149702
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0010_00_2000.jpg",
+      "points": [
+        [
+          90.38323353293414,
+          96.07185628742515
+        ],
+        [
+          93.37724550898204,
+          155.65269461077844
+        ],
+        [
+          99.36526946107784,
+          158.04790419161677
+        ],
+        [
+          170.92215568862275,
+          137.9880239520958
+        ],
+        [
+          168.52694610778443,
+          96.67065868263474
+        ],
+        [
+          152.35928143712576,
+          88.28742514970061
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0010_00_2000.jpg",
+      "points": [
+        [
+          122.11976047904193,
+          21.52095808383234
+        ],
+        [
+          120.62275449101796,
+          65.53293413173652
+        ],
+        [
+          155.35329341317367,
+          71.52095808383234
+        ],
+        [
+          213.7365269461078,
+          67.92814371257485
+        ],
+        [
+          216.13173652694613,
+          28.407185628742518
+        ],
+        [
+          157.4491017964072,
+          20.92215568862276
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

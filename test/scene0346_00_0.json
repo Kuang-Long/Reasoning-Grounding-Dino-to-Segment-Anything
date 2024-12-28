@@ -1,0 +1,128 @@
+{
+  "text": [
+    "People usually wash their hands after using the restroom. What object in the picture provides water for hand washing?",
+    "What object in the picture could be used to provide water for handwashing after using the restroom?",
+    "What object in the picture could be used to supply water for the purpose of hand washing after using the restroom?",
+    "What object, typically used for hand washing, can be found in the picture?",
+    "What object in the picture serves as a water source for hand washing after using the restroom?",
+    "Please identify the object in the picture that provides water for hand washing, typically used after using the restroom."
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0346_00_0.jpg",
+      "points": [
+        [
+          135.0,
+          96.0
+        ],
+        [
+          133.0,
+          94.0
+        ],
+        [
+          132.0,
+          94.0
+        ],
+        [
+          130.0,
+          92.0
+        ],
+        [
+          124.0,
+          85.0
+        ],
+        [
+          123.0,
+          82.0
+        ],
+        [
+          122.0,
+          81.0
+        ],
+        [
+          120.0,
+          80.0
+        ],
+        [
+          118.0,
+          80.0
+        ],
+        [
+          114.0,
+          84.0
+        ],
+        [
+          113.2,
+          88.1
+        ],
+        [
+          113.6,
+          94.5
+        ],
+        [
+          109.0,
+          98.0
+        ],
+        [
+          106.0,
+          100.0
+        ],
+        [
+          105.0,
+          101.0
+        ],
+        [
+          104.0,
+          103.0
+        ],
+        [
+          105.0,
+          106.0
+        ],
+        [
+          108.0,
+          107.0
+        ],
+        [
+          112.0,
+          107.0
+        ],
+        [
+          117.0,
+          105.0
+        ],
+        [
+          126.0,
+          104.0
+        ],
+        [
+          130.0,
+          103.0
+        ],
+        [
+          133.9,
+          102.1
+        ],
+        [
+          135.6,
+          100.5
+        ],
+        [
+          136.0,
+          98.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

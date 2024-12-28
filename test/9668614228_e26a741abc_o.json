@@ -1,0 +1,172 @@
+{
+  "text": [
+    "Helmets can effectively protect the safety of the head during cycling, but strong winds during high-speed cycling can affect the eyes. What part in the picture can protect the safety of the eyes?",
+    "What item in the picture can help protect eyes from strong winds during high-speed cycling?",
+    "Suppose a person is cycling at a high speed and wants to protect their eyes from strong winds. What object in the picture can be useful to ensure their safety?",
+    "What can protect the eyes to avoid the wind blowing while cycling at high speed?",
+    "Which object in the picture can be used to shield and protect the eyes from the impact of strong winds during high-speed cycling and other activities?",
+    "In the image, which part can protect the eyes during high-speed cycling, given that helmets can safeguard the head, but speedy winds can be damaging to the eyes?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "9668614228_e26a741abc_o.jpg",
+      "points": [
+        [
+          1799.1228070175437,
+          402.6315789473684
+        ],
+        [
+          1828.5087719298244,
+          418.4210526315789
+        ],
+        [
+          1839.9122807017543,
+          427.6315789473684
+        ],
+        [
+          1852.19298245614,
+          431.14035087719293
+        ],
+        [
+          1865.7894736842104,
+          439.47368421052624
+        ],
+        [
+          1874.1228070175437,
+          448.24561403508767
+        ],
+        [
+          1878.0701754385964,
+          457.45614035087715
+        ],
+        [
+          1880.7017543859647,
+          471.4912280701754
+        ],
+        [
+          1889.035087719298,
+          479.38596491228066
+        ],
+        [
+          1913.59649122807,
+          492.98245614035085
+        ],
+        [
+          1944.2982456140348,
+          500.438596491228
+        ],
+        [
+          1955.2631578947367,
+          500.438596491228
+        ],
+        [
+          1971.9298245614034,
+          489.47368421052624
+        ],
+        [
+          1981.1403508771928,
+          477.6315789473684
+        ],
+        [
+          1984.6491228070174,
+          480.26315789473676
+        ],
+        [
+          1987.2807017543857,
+          497.3684210526315
+        ],
+        [
+          1990.7894736842104,
+          502.19298245614027
+        ],
+        [
+          2004.3859649122805,
+          505.26315789473676
+        ],
+        [
+          2020.175438596491,
+          491.66666666666663
+        ],
+        [
+          2031.5789473684208,
+          469.298245614035
+        ],
+        [
+          2031.5789473684208,
+          461.40350877192975
+        ],
+        [
+          2044.2982456140348,
+          458.33333333333326
+        ],
+        [
+          2045.175438596491,
+          450.8771929824561
+        ],
+        [
+          2039.035087719298,
+          450.438596491228
+        ],
+        [
+          2031.5789473684208,
+          443.85964912280696
+        ],
+        [
+          2027.631578947368,
+          447.8070175438596
+        ],
+        [
+          2021.491228070175,
+          452.6315789473684
+        ],
+        [
+          2003.0701754385964,
+          455.26315789473676
+        ],
+        [
+          1995.614035087719,
+          457.8947368421052
+        ],
+        [
+          1989.035087719298,
+          455.7017543859649
+        ],
+        [
+          1951.754385964912,
+          439.91228070175436
+        ],
+        [
+          1912.7192982456138,
+          432.8947368421052
+        ],
+        [
+          1884.2105263157894,
+          428.07017543859644
+        ],
+        [
+          1848.6842105263156,
+          414.0350877192982
+        ],
+        [
+          1824.5614035087717,
+          407.8947368421052
+        ],
+        [
+          1804.8245614035086,
+          395.61403508771923
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

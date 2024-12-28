@@ -1,0 +1,99 @@
+{
+  "text": [
+    "In the picture, we can see several insects sitting on the leaves and stems of plants. What part of the plant do insects usually hide or camouflage themselves on?",
+    "On which part of the plant do insects typically hide or camouflage themselves, based on the picture?",
+    "The picture shows several insects sitting on the leaves and stems of plants. Generally, on which part of the plant do insects usually hide or camouflage themselves?",
+    "When camouflaging themselves, on which part of the plant do insects typically hide or position themselves, as seen in the picture?",
+    "When observing several insects on the leaves and stems of plants as depicted in the picture, on what part of the plant do insects tend to hide or camouflage themselves?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5887828985_f3928d700c_o.jpg",
+      "points": [
+        [
+          508.7058823529412,
+          3.88235294117647
+        ],
+        [
+          481.07142857142856,
+          132.73809523809524
+        ],
+        [
+          441.7857142857143,
+          319.04761904761904
+        ],
+        [
+          442.8044280442804,
+          327.67527675276756
+        ],
+        [
+          436.1623616236162,
+          344.64944649446494
+        ],
+        [
+          441.69741697416976,
+          348.70848708487085
+        ],
+        [
+          439.48339483394835,
+          360.88560885608854
+        ],
+        [
+          431.7343173431734,
+          370.479704797048
+        ],
+        [
+          429.88929889298896,
+          374.16974169741695
+        ],
+        [
+          351.3181818181818,
+          831.8181818181819
+        ],
+        [
+          340.52272727272725,
+          899.0
+        ],
+        [
+          470.06818181818187,
+          898.2954545454545
+        ],
+        [
+          479.72727272727275,
+          827.2727272727273
+        ],
+        [
+          524.6136363636364,
+          488.6363636363636
+        ],
+        [
+          559.8409090909091,
+          325.5681818181818
+        ],
+        [
+          603.4042553191489,
+          130.3191489361702
+        ],
+        [
+          615.0,
+          102.45901639344262
+        ],
+        [
+          615.0,
+          4.918032786885246
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

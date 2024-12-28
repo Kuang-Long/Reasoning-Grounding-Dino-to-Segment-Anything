@@ -1,0 +1,159 @@
+{
+  "text": [
+    "If a person needs to go to the 2nd floor, what architectural structure in the picture should they use?",
+    "If you need to go to the 2nd floor, which structure in the picture should be used for architectural purposes?",
+    "Suppose a person wants to access the second floor. What specific architectural feature in the picture would they need to utilize?",
+    "If someone wants to access the 2nd floor, what structural element displayed in the picture should they utilize?",
+    "If someone needed to reach the second floor, what structural element in the picture would they utilize to do so?",
+    "If someone needs to go to the 2nd floor, what element of the building seen in the picture is appropriate for them to use for this purpose?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0069_00_2000.jpg",
+      "points": [
+        [
+          57.44910179640719,
+          237.98802395209583
+        ],
+        [
+          58.047904191616766,
+          216.13173652694613
+        ],
+        [
+          72.11976047904191,
+          210.4431137724551
+        ],
+        [
+          73.31736526946108,
+          192.47904191616766
+        ],
+        [
+          75.41317365269461,
+          190.08383233532936
+        ],
+        [
+          84.69461077844312,
+          189.18562874251498
+        ],
+        [
+          86.19161676646706,
+          178.40718562874252
+        ],
+        [
+          86.79041916167665,
+          175.4131736526946
+        ],
+        [
+          232.2994011976048,
+          176.6107784431138
+        ],
+        [
+          232.89820359281438,
+          191.8802395209581
+        ],
+        [
+          241.28143712574854,
+          195.17365269461078
+        ],
+        [
+          242.77844311377248,
+          212.83832335329342
+        ],
+        [
+          255.35329341317367,
+          218.52694610778445
+        ],
+        [
+          258.0479041916168,
+          237.98802395209583
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0069_00_2000.jpg",
+      "points": [
+        [
+          201.10619469026545,
+          116.81415929203538
+        ],
+        [
+          201.99115044247785,
+          124.1150442477876
+        ],
+        [
+          207.9646017699115,
+          174.5575221238938
+        ],
+        [
+          234.51327433628316,
+          175.88495575221236
+        ],
+        [
+          234.51327433628316,
+          190.7079646017699
+        ],
+        [
+          242.69911504424778,
+          194.24778761061944
+        ],
+        [
+          244.24778761061944,
+          210.84070796460176
+        ],
+        [
+          258.4070796460177,
+          218.80530973451326
+        ],
+        [
+          259.95575221238937,
+          238.05309734513273
+        ],
+        [
+          319.0,
+          239.0
+        ],
+        [
+          319.0,
+          177.206106870229
+        ],
+        [
+          239.1068702290076,
+          106.59541984732823
+        ],
+        [
+          225.7480916030534,
+          95.52671755725191
+        ],
+        [
+          218.49618320610688,
+          95.14503816793894
+        ],
+        [
+          207.4274809160305,
+          105.4503816793893
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "text": [
+    "When having a formal dinner, it is common to have a designated area for each individual to sit and enjoy their meal. What in the picture could be used to mark the assigned seat for each guest?",
+    "When hosting a formal dinner, typically each invited guest has a designated area to sit and enjoy the meal. What item within the picture could be used to mark the assigned seat for each guest?",
+    "If you are hosting a formal dinner, what objects in the picture could you use to denote assigned seats for each guest?",
+    "What objects in the picture can be utilized to indicate the assigned seat for each guest during a formal dinner?",
+    "When hosting a formal dinner, it is customary to provide each guest with a designated seating area to enjoy their meal. What item in the picture could be used to mark the assigned seat for each guest?",
+    "During a formal dinner, it's typical to have designated seating for each guest to enjoy the meal. Based on the picture, what item might be utilized to mark the assigned seat for each individual?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "6025528947_fddb2829ca_o.jpg",
+      "points": [
+        [
+          2278.0,
+          777.0
+        ],
+        [
+          2273.0,
+          779.0
+        ],
+        [
+          2268.0,
+          780.0
+        ],
+        [
+          2258.0,
+          781.0
+        ],
+        [
+          2253.0,
+          782.0
+        ],
+        [
+          2249.0,
+          783.0
+        ],
+        [
+          2238.0,
+          787.0
+        ],
+        [
+          2233.0,
+          787.0
+        ],
+        [
+          2225.0,
+          789.0
+        ],
+        [
+          2214.0,
+          792.0
+        ],
+        [
+          2210.0,
+          793.0
+        ],
+        [
+          2207.0,
+          795.0
+        ],
+        [
+          2200.0,
+          797.0
+        ],
+        [
+          2189.0,
+          799.0
+        ],
+        [
+          2179.0,
+          803.0
+        ],
+        [
+          2172.0,
+          804.0
+        ],
+        [
+          2169.0,
+          806.0
+        ],
+        [
+          2162.0,
+          808.0
+        ],
+        [
+          2152.0,
+          810.0
+        ],
+        [
+          2143.0,
+          813.0
+        ],
+        [
+          2139.0,
+          815.0
+        ],
+        [
+          2138.0,
+          817.0
+        ],
+        [
+          2119.0,
+          1004.0
+        ],
+        [
+          2121.0,
+          1006.0
+        ],
+        [
+          2121.0,
+          1007.0
+        ],
+        [
+          2122.0,
+          1008.0
+        ],
+        [
+          2123.0,
+          1008.0
+        ],
+        [
+          2124.0,
+          1009.0
+        ],
+        [
+          2127.0,
+          1013.0
+        ],
+        [
+          2128.0,
+          1015.0
+        ],
+        [
+          2128.0,
+          1017.0
+        ],
+        [
+          2129.0,
+          1019.0
+        ],
+        [
+          2135.0,
+          1020.0
+        ],
+        [
+          2170.0495049504952,
+          1006.9306930693069
+        ],
+        [
+          2253.0,
+          985.0
+        ],
+        [
+          2257.0,
+          983.0
+        ],
+        [
+          2281.0,
+          777.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

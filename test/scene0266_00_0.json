@@ -1,0 +1,84 @@
+{
+  "text": [
+    "When people are in a waiting room and need to throw away a candy wrapper, what object in the waiting room can be used to put the candy wrap in?",
+    "In a waiting room, what is the item that can be used to dispose of a candy wrap if necessary?",
+    "What is the object in the waiting room that people can use to throw away their candy wrappers?",
+    "If someone in a waiting room needs to discard a candy wrapper, what is the object in the waiting area that can be used for that purpose?",
+    "What item, commonly found in a waiting room, could be utilized by someone who needs to dispose of a candy wrapper?",
+    "Where would you dispose the candy wrapper in a waiting room?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0266_00_0.jpg",
+      "points": [
+        [
+          259.3147751605996,
+          138.11563169164882
+        ],
+        [
+          255.46038543897217,
+          143.25481798715202
+        ],
+        [
+          251.60599571734477,
+          147.75160599571734
+        ],
+        [
+          250.96359743040685,
+          150.32119914346896
+        ],
+        [
+          251.8201284796574,
+          153.10492505353318
+        ],
+        [
+          249.4646680942184,
+          191.0064239828694
+        ],
+        [
+          252.4625267665953,
+          194.2184154175589
+        ],
+        [
+          284.796573875803,
+          205.99571734475376
+        ],
+        [
+          291.220556745182,
+          204.2826552462527
+        ],
+        [
+          292.2912205567452,
+          202.56959314775162
+        ],
+        [
+          304.28265524625266,
+          165.52462526766595
+        ],
+        [
+          309.4218415417559,
+          153.10492505353318
+        ],
+        [
+          307.06638115631694,
+          149.25053533190578
+        ],
+        [
+          283.7259100642398,
+          143.25481798715202
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

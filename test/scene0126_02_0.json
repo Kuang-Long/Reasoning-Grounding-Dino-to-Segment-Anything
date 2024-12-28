@@ -1,0 +1,64 @@
+{
+  "text": [
+    "We need to browse the internet or write documents in a quiet environment. What object can be used to input non-vocal instructions to the computer to fulfill this task?",
+    "When browsing the internet or working on documents, a quiet environment is often necessary. What object can be used to provide non-vocal instructions to the computer to accomplish these tasks?",
+    "When browsing the internet or writing documents, we may require a quiet environment. What device can be utilized to provide non-vocal input instructions to the computer to complete these tasks?",
+    "In order to browse the internet or write documents in a quiet environment, what object can be used to input non-vocal commands to the computer?",
+    "What object can be utilized to provide non-vocal instructions to the computer, enabling us to browse the internet or write documents in a quiet environment?",
+    "What object can be utilized to issue non-vocal instructions to a computer for browsing the internet or composing documents in a quiet environment?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0126_02_0.jpg",
+      "points": [
+        [
+          183.07522123893804,
+          140.59734513274336
+        ],
+        [
+          182.85398230088495,
+          143.80530973451326
+        ],
+        [
+          188.60619469026545,
+          167.03539823008848
+        ],
+        [
+          228.98230088495572,
+          166.03982300884954
+        ],
+        [
+          229.97787610619466,
+          164.49115044247785
+        ],
+        [
+          288.2743362831858,
+          163.4955752212389
+        ],
+        [
+          288.82743362831854,
+          162.61061946902655
+        ],
+        [
+          272.01327433628313,
+          138.27433628318582
+        ],
+        [
+          269.358407079646,
+          137.5
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

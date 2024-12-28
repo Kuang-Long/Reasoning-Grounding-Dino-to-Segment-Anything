@@ -1,0 +1,123 @@
+{
+  "text": [
+    "In order to input information and perform tasks on a laptop, what object in the picture can be used for typing?",
+    "To input information and perform tasks on a laptop, what is the object in the picture used for typing?",
+    "What object from the picture can be used for typing or inputting information on a laptop in order to perform various tasks?",
+    "When using a laptop to input information and perform tasks, which object in the picture could be utilized for typing?",
+    "When performing tasks on a laptop, what object in the picture can be utilized for typing and inputting information?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "4101477686_4f0034776f_o.jpg",
+      "points": [
+        [
+          1150.0654205607475,
+          609.3457943925233
+        ],
+        [
+          318.2897196261682,
+          357.94392523364485
+        ],
+        [
+          287.35632183908046,
+          401.14942528735634
+        ],
+        [
+          229.50467289719626,
+          476.63551401869154
+        ],
+        [
+          208.94392523364485,
+          498.1308411214953
+        ],
+        [
+          206.89655172413794,
+          506.8965517241379
+        ],
+        [
+          210.8130841121495,
+          513.0841121495326
+        ],
+        [
+          217.816091954023,
+          515.5172413793103
+        ],
+        [
+          222.96261682242988,
+          513.0841121495326
+        ],
+        [
+          162.21495327102804,
+          632.7102803738318
+        ],
+        [
+          160.34579439252335,
+          645.7943925233644
+        ],
+        [
+          163.14953271028037,
+          654.2056074766355
+        ],
+        [
+          172.4953271028037,
+          662.6168224299065
+        ],
+        [
+          493.0560747663551,
+          778.5046728971962
+        ],
+        [
+          512.6822429906541,
+          789.7196261682243
+        ],
+        [
+          569.6915887850467,
+          814.018691588785
+        ],
+        [
+          631.3738317757009,
+          836.4485981308411
+        ],
+        [
+          679.0373831775701,
+          849.5327102803737
+        ],
+        [
+          714.5514018691588,
+          856.0747663551401
+        ],
+        [
+          1037.9158878504672,
+          970.0934579439252
+        ],
+        [
+          1059.411214953271,
+          971.9626168224298
+        ],
+        [
+          1068.7570093457944,
+          969.1588785046729
+        ],
+        [
+          1093.9906542056074,
+          958.8785046728972
+        ],
+        [
+          1174.3644859813082,
+          616.822429906542
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

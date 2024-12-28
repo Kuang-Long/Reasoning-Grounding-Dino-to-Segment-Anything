@@ -1,0 +1,102 @@
+{
+  "text": [
+    "Suppose that I am afraid of the dark, what object can I turn on to make me feel safe and secure?",
+    "If you are afraid of the dark and want to feel safe and secure, what object can you turn on to make you feel that way?",
+    "Suppose you are afraid of the dark and need to feel secure, what object can be turned on?",
+    "If you are afraid of the dark and want to feel safe and secure, what object can you turn on according to the picture?",
+    "Suppose you are afraid of the dark and are seeking comfort. What can you turn on to make yourself feel safe and secure?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0504_00_0.jpg",
+      "points": [
+        [
+          251.69398907103823,
+          27.759562841530055
+        ],
+        [
+          251.14754098360655,
+          29.2896174863388
+        ],
+        [
+          250.05464480874315,
+          52.021857923497265
+        ],
+        [
+          255.95628415300544,
+          50.92896174863388
+        ],
+        [
+          264.8087431693989,
+          50.7103825136612
+        ],
+        [
+          271.5846994535519,
+          47.10382513661202
+        ],
+        [
+          272.02185792349724,
+          45.90163934426229
+        ],
+        [
+          262.5136612021858,
+          27.86885245901639
+        ],
+        [
+          258.1420765027322,
+          27.3224043715847
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0504_00_0.jpg",
+      "points": [
+        [
+          241.20218579234972,
+          41.63934426229508
+        ],
+        [
+          238.79781420765028,
+          46.448087431693985
+        ],
+        [
+          238.9071038251366,
+          47.213114754098356
+        ],
+        [
+          241.09289617486337,
+          49.39890710382514
+        ],
+        [
+          241.7486338797814,
+          49.61748633879781
+        ],
+        [
+          241.63934426229508,
+          42.950819672131146
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

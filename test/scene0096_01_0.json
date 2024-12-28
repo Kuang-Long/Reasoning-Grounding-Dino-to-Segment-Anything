@@ -1,0 +1,56 @@
+{
+  "text": [
+    "What kind of object can be opened and closed to connect different rooms and allow people to easily get in and out?",
+    "What type of object can be opened and closed to connect different rooms, allowing individuals to easily move in and out?",
+    "What kind of fixture could be opened and closed to connect various rooms, allowing people to move in and out comfortably?",
+    "What object in a house or building can be opened and closed to connect different rooms and allow people to easily enter and exit?",
+    "What object can be utilized to connect different rooms and allow people to easily access them, given that it can be opened and closed?",
+    "What is the object that can be opened and closed to connect different rooms and enable easy access in or out?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0096_01_0.jpg",
+      "points": [
+        [
+          53.37423312883436,
+          2.044989775051125
+        ],
+        [
+          65.84867075664621,
+          80.16359918200409
+        ],
+        [
+          66.46216768916156,
+          90.38854805725973
+        ],
+        [
+          67.07566462167689,
+          94.27402862985686
+        ],
+        [
+          70.75664621676891,
+          94.27402862985686
+        ],
+        [
+          151.53374233128835,
+          88.5480572597137
+        ],
+        [
+          152.1472392638037,
+          1.2269938650306749
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

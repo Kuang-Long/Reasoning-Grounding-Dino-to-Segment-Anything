@@ -1,0 +1,87 @@
+{
+  "text": [
+    "When we step out of the shower, what object can be used to dry ourselves?",
+    "What object can be used to dry ourselves when we step out of the shower?",
+    "What do you typically use to dry yourself off after stepping out of the shower?",
+    "What item might we typically utilize after exiting the shower to dry ourselves off?",
+    "What object do you use to dry yourself off after getting out of the shower?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0261_00_4000.jpg",
+      "points": [
+        [
+          0.2634730538922163,
+          29.0059880239521
+        ],
+        [
+          9.245508982035929,
+          27.50898203592815
+        ],
+        [
+          14.634730538922156,
+          28.407185628742518
+        ],
+        [
+          29.904191616766468,
+          25.113772455089823
+        ],
+        [
+          33.796407185628745,
+          26.311377245508986
+        ],
+        [
+          64.93413173652695,
+          22.718562874251496
+        ],
+        [
+          74.21556886227545,
+          22.718562874251496
+        ],
+        [
+          84.69461077844312,
+          20.023952095808383
+        ],
+        [
+          88.58682634730539,
+          21.221556886227546
+        ],
+        [
+          98.46706586826348,
+          19.724550898203596
+        ],
+        [
+          106.25149700598803,
+          16.730538922155688
+        ],
+        [
+          109.84431137724552,
+          12.538922155688624
+        ],
+        [
+          111.64071856287427,
+          5.053892215568862
+        ],
+        [
+          112.63917525773195,
+          0.0
+        ],
+        [
+          0.2634730538922163,
+          0.2634730538922163
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "text": [
+    "What object is used to hang on the walls that can enhance the beauty of a room and make it look more attractive?",
+    "What item used for wall decor adds beauty to the room's aesthetic and enhances its overall appearance?",
+    "What decorative objects are typically hung on walls to enhance the beauty of a room and make it look more attractive?",
+    "Tell me what object can be hung on walls to enhance the beauty of a room and make it look more attractive?",
+    "What object could be hung on walls to enhance the beauty of a room and make it look more attractive?",
+    "What object is commonly used to decorate walls and make a room look more attractive?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0273_00_0.jpg",
+      "points": [
+        [
+          43.97402597402597,
+          40.0
+        ],
+        [
+          39.81818181818182,
+          181.2987012987013
+        ],
+        [
+          49.16883116883117,
+          181.2987012987013
+        ],
+        [
+          107.6103896103896,
+          180.25974025974025
+        ],
+        [
+          108.38961038961038,
+          169.35064935064935
+        ],
+        [
+          109.94805194805194,
+          44.15584415584416
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0273_00_0.jpg",
+      "points": [
+        [
+          114.62337662337661,
+          43.896103896103895
+        ],
+        [
+          112.54545454545455,
+          178.7012987012987
+        ],
+        [
+          114.62337662337661,
+          179.2207792207792
+        ],
+        [
+          176.1818181818182,
+          177.66233766233765
+        ],
+        [
+          176.96103896103895,
+          174.02597402597402
+        ],
+        [
+          176.7012987012987,
+          47.79220779220779
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0273_00_0.jpg",
+      "points": [
+        [
+          180.5974025974026,
+          48.05194805194805
+        ],
+        [
+          180.07792207792207,
+          177.92207792207793
+        ],
+        [
+          238.77922077922076,
+          176.1038961038961
+        ],
+        [
+          236.7012987012987,
+          50.64935064935065
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

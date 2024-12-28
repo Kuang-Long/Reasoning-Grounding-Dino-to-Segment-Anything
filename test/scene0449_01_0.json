@@ -1,0 +1,190 @@
+{
+  "text": [
+    "A part that is in direct contact with people\"s buttocks when they use the toilet is not easy to clean and is prone to bacterial growth. What part in the picture should be used to cover it and reduce bacterial growth?",
+    "When using the toilet, an area that comes into direct contact with human buttocks can be difficult to clean and is susceptible to bacterial growth. Which item in the picture can be used to cover the area to reduce bacterial growth?",
+    "To reduce bacterial growth and facilitate cleaning, what part in the picture could be utilized to cover the portion of the toilet that is in direct contact with people's buttocks during use?",
+    "In order to mitigate bacterial growth, which item in the picture should be used to cover the region that comes in direct contact with a person's buttocks while using the bathroom?",
+    "What object can be used to cover and reduce bacterial growth on the part of a toilet that comes into direct contact with people's buttocks, which is difficult to clean?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0449_01_0.jpg",
+      "points": [
+        [
+          172.75449101796409,
+          135.86227544910182
+        ],
+        [
+          163.77245508982037,
+          125.98203592814372
+        ],
+        [
+          156.2874251497006,
+          101.4311377245509
+        ],
+        [
+          163.41237113402062,
+          68.81443298969073
+        ],
+        [
+          182.33532934131736,
+          46.640718562874255
+        ],
+        [
+          200.01030927835052,
+          40.97938144329897
+        ],
+        [
+          216.4670658682635,
+          37.65868263473054
+        ],
+        [
+          243.11377245508984,
+          43.34730538922156
+        ],
+        [
+          260.47904191616766,
+          57.41916167664671
+        ],
+        [
+          272.1556886227545,
+          75.98203592814372
+        ],
+        [
+          275.748502994012,
+          100.53293413173654
+        ],
+        [
+          273.3532934131737,
+          114.60479041916167
+        ],
+        [
+          258.3832335329341,
+          137.95808383233535
+        ],
+        [
+          244.0119760479042,
+          147.23952095808383
+        ],
+        [
+          237.4251497005988,
+          146.64071856287427
+        ],
+        [
+          225.74850299401197,
+          145.7425149700599
+        ],
+        [
+          185.02994011976048,
+          139.75449101796409
+        ],
+        [
+          190.41916167664672,
+          132.8682634730539
+        ],
+        [
+          202.99401197604791,
+          134.36526946107784
+        ],
+        [
+          217.96407185628743,
+          137.95808383233535
+        ],
+        [
+          231.437125748503,
+          134.96407185628743
+        ],
+        [
+          240.71856287425152,
+          126.8802395209581
+        ],
+        [
+          246.40718562874252,
+          107.11976047904193
+        ],
+        [
+          242.51497005988026,
+          84.96407185628743
+        ],
+        [
+          227.54491017964074,
+          63.706586826347305
+        ],
+        [
+          217.36526946107784,
+          60.41317365269461
+        ],
+        [
+          206.5868263473054,
+          65.20359281437126
+        ],
+        [
+          185.32934131736528,
+          86.46107784431138
+        ],
+        [
+          179.34131736526948,
+          107.41916167664672
+        ],
+        [
+          180.23952095808383,
+          119.99401197604791
+        ],
+        [
+          186.22754491017966,
+          129.5748502994012
+        ],
+        [
+          191.01796407185628,
+          131.97005988023952
+        ],
+        [
+          188.622754491018,
+          135.26347305389223
+        ],
+        [
+          185.02994011976048,
+          139.4550898203593
+        ],
+        [
+          178.7425149700599,
+          138.5568862275449
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "flag",
+      "labels": [
+        "flag"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0449_01_0.jpg",
+      "points": [
+        [
+          276.29896907216494,
+          3.350515463917526
+        ],
+        [
+          315.9896907216495,
+          56.18556701030928
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

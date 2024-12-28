@@ -1,0 +1,79 @@
+{
+  "text": [
+    "If the door of the bedroom is opened, what can we use to close it?",
+    "In case the door of the bedroom is open, what might you use to close it in the picture?",
+    "If someone needs to close the bedroom door, what could they utilize?",
+    "If the door of the bedroom is left open, what object could be used to shut it?",
+    "Suppose you want to close the door of the bedroom. What item in the picture can you use to accomplish this task?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0110_02_0.jpg",
+      "points": [
+        [
+          164.4422680412371,
+          78.2
+        ],
+        [
+          163.54226804123712,
+          115.8
+        ],
+        [
+          165.8422680412371,
+          117.8
+        ],
+        [
+          182.54226804123712,
+          116.9
+        ],
+        [
+          183.14226804123712,
+          116.0
+        ],
+        [
+          183.7422680412371,
+          104.1
+        ],
+        [
+          198.3422680412371,
+          104.4
+        ],
+        [
+          198.8422680412371,
+          98.5
+        ],
+        [
+          187.14226804123712,
+          98.1
+        ],
+        [
+          184.54226804123712,
+          98.4
+        ],
+        [
+          185.54226804123712,
+          80.1
+        ],
+        [
+          184.9422680412371,
+          79.0
+        ],
+        [
+          167.54226804123712,
+          79.5
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

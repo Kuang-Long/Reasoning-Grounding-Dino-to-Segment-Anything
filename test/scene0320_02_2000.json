@@ -1,0 +1,91 @@
+{
+  "text": [
+    "In what part of the room can we put things to make sure they don't litter on the floor and are easy to find?",
+    "Where is the best location in a room to place items to ensure that they are easily accessible while also preventing clutter on the floor?",
+    "To ensure that items do not create clutter on the floor and remain easily accessible, where in the room can they be placed?",
+    "Where in the room can we place objects to prevent them from cluttering the floor and to make them easily locatable?",
+    "What part of the room is often utilized for organizing belongings to prevent them from cluttering the floor and to make them easy to locate?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0320_02_2000.jpg",
+      "points": [
+        [
+          82.08955223880596,
+          120.56384742951907
+        ],
+        [
+          55.38971807628524,
+          132.1724709784411
+        ],
+        [
+          53.8971807628524,
+          136.1525704809287
+        ],
+        [
+          54.39469320066335,
+          140.13266998341624
+        ],
+        [
+          55.721393034825866,
+          141.9568822553897
+        ],
+        [
+          57.21393034825871,
+          187.06467661691542
+        ],
+        [
+          64.84245439469319,
+          197.67827529021557
+        ],
+        [
+          99.17081260364841,
+          210.61359867330015
+        ],
+        [
+          106.46766169154229,
+          210.9452736318408
+        ],
+        [
+          109.78441127694859,
+          209.7844112769486
+        ],
+        [
+          121.72470978441127,
+          196.51741293532336
+        ],
+        [
+          121.89054726368158,
+          192.3714759535655
+        ],
+        [
+          129.8507462686567,
+          147.76119402985074
+        ],
+        [
+          133.83084577114428,
+          142.9519071310116
+        ],
+        [
+          134.49419568822555,
+          139.13764510779436
+        ],
+        [
+          127.5290215588723,
+          135.3233830845771
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

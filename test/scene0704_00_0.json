@@ -1,0 +1,143 @@
+{
+  "text": [
+    "If I want to print out a document, what appliance in this image can I use to accomplish this task?",
+    "Which appliance could be used in this image to complete a printing task?",
+    "If you want to print a document, what appliance from the provided image can be utilized to help you accomplish this task?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0704_00_0.jpg",
+      "points": [
+        [
+          49.23711340206185,
+          0.0
+        ],
+        [
+          50.66546957865286,
+          26.194805194805195
+        ],
+        [
+          53.522612435795715,
+          33.72727272727273
+        ],
+        [
+          55.340794253977535,
+          36.064935064935064
+        ],
+        [
+          57.74226804123711,
+          48.1958762886598
+        ],
+        [
+          120.62886597938146,
+          66.75257731958763
+        ],
+        [
+          141.24742268041237,
+          57.98969072164949
+        ],
+        [
+          141.50515463917526,
+          51.80412371134021
+        ],
+        [
+          153.5226124357957,
+          44.896103896103895
+        ],
+        [
+          155.6005345137178,
+          45.15584415584416
+        ],
+        [
+          155.34079425397752,
+          50.090909090909086
+        ],
+        [
+          171.44469035787364,
+          43.857142857142854
+        ],
+        [
+          173.26287217605545,
+          11.12987012987013
+        ],
+        [
+          169.08247422680412,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0704_00_0.jpg",
+      "points": [
+        [
+          241.1818181818182,
+          14.272727272727273
+        ],
+        [
+          204.8181818181818,
+          29.545454545454547
+        ],
+        [
+          174.27272727272725,
+          23.727272727272734
+        ],
+        [
+          173.90909090909093,
+          8.454545454545453
+        ],
+        [
+          171.0,
+          0.0
+        ],
+        [
+          240.45454545454544,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "flag",
+      "labels": [
+        "flag"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0704_00_0.jpg",
+      "points": [
+        [
+          267.3636363636364,
+          13.18181818181818
+        ],
+        [
+          317.54545454545456,
+          72.45454545454545
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

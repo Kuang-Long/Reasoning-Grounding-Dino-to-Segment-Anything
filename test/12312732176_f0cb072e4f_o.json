@@ -1,0 +1,195 @@
+{
+  "text": [
+    "Dolphins are known for their agility and acrobatics. What in the picture will the dolphin likely jump over during a performance?",
+    "When performing, dolphins are known for their agility and acrobatics. Identify what will be jumped over by dolphins during a performance, given the picture.",
+    "In dolphin shows, these marine mammals are known for their agility and acrobatics. Based on the image, what object might the dolphin leap over during a performance?",
+    "In a performance, dolphins are known for their agility and acrobatics. Please indicate what object the dolphin is likely to jump over in the image.",
+    "During a performance, what might a dolphin typically jump over, given their agility and acrobatics?",
+    "What object is likely to be jumped over by a dolphin during a performance, given their well-known agility and acrobatics?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "12312732176_f0cb072e4f_o.jpg",
+      "points": [
+        [
+          870.3030303030303,
+          1919.9999999999998
+        ],
+        [
+          919.9999999999999,
+          1892.121212121212
+        ],
+        [
+          962.4242424242424,
+          1875.7575757575755
+        ],
+        [
+          997.5757575757575,
+          1866.6666666666665
+        ],
+        [
+          1039.3939393939393,
+          1864.242424242424
+        ],
+        [
+          1090.3030303030303,
+          1866.060606060606
+        ],
+        [
+          1135.151515151515,
+          1873.9393939393938
+        ],
+        [
+          1169.6969696969695,
+          1886.6666666666665
+        ],
+        [
+          1209.6969696969695,
+          1908.4848484848483
+        ],
+        [
+          1238.7878787878788,
+          1930.3030303030303
+        ],
+        [
+          1260.0,
+          1959.3939393939393
+        ],
+        [
+          1266.2790697674418,
+          1977.906976744186
+        ],
+        [
+          1265.6976744186047,
+          1999.418604651163
+        ],
+        [
+          1238.953488372093,
+          2039.5348837209303
+        ],
+        [
+          1137.7906976744187,
+          2155.813953488372
+        ],
+        [
+          1085.7142857142858,
+          2218.181818181818
+        ],
+        [
+          1025.5813953488373,
+          2291.279069767442
+        ],
+        [
+          1004.5454545454545,
+          2319.8863636363635
+        ],
+        [
+          956.1403508771929,
+          2312.2807017543855
+        ],
+        [
+          906.25,
+          2299.431818181818
+        ],
+        [
+          853.4090909090909,
+          2277.840909090909
+        ],
+        [
+          818.1818181818181,
+          2253.9772727272725
+        ],
+        [
+          777.8409090909091,
+          2217.0454545454545
+        ],
+        [
+          759.6590909090909,
+          2177.840909090909
+        ],
+        [
+          751.7045454545455,
+          2126.7045454545455
+        ],
+        [
+          759.0909090909091,
+          2080.1136363636365
+        ],
+        [
+          770.4545454545455,
+          2045.4545454545455
+        ],
+        [
+          780.8139534883721,
+          2025.0
+        ],
+        [
+          796.5116279069767,
+          1995.9302325581396
+        ],
+        [
+          823.8372093023256,
+          1960.46511627907
+        ],
+        [
+          841.2790697674419,
+          1944.7674418604652
+        ],
+        [
+          855.8139534883721,
+          1931.9767441860465
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "12312732176_f0cb072e4f_o.jpg",
+      "points": [
+        [
+          122.92592592592587,
+          1184.9259259259259
+        ],
+        [
+          252.55555555555543,
+          1314.5555555555554
+        ],
+        [
+          252.55555555555543,
+          1477.5185185185185
+        ],
+        [
+          134.03703703703695,
+          1558.9999999999998
+        ],
+        [
+          0.0,
+          1558.9999999999998
+        ],
+        [
+          0.0,
+          1144.185185185185
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

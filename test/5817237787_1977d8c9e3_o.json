@@ -1,0 +1,234 @@
+{
+  "text": [
+    "Exploring a dark cave can be challenging without proper lighting. What object in the picture could provide illumination in such a situation?",
+    "When exploring a dark cave, proper lighting is crucial. What object in the picture could be utilized to provide illumination in such a situation?",
+    "What object in the picture could be utilized to provide illumination when exploring a dark cave?",
+    "In a dark cave exploration, what object could provide the necessary illumination as depicted in the picture?",
+    "When exploring a dark cave, proper lighting is essential to the task. Please identify what object(s) in the picture could be utilized to provide illumination in this situation."
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5817237787_1977d8c9e3_o.jpg",
+      "points": [
+        [
+          1705.0,
+          1667.0
+        ],
+        [
+          1697.0,
+          1671.0
+        ],
+        [
+          1686.0,
+          1677.0
+        ],
+        [
+          1684.0,
+          1679.0
+        ],
+        [
+          1684.0,
+          1681.0
+        ],
+        [
+          1682.0,
+          1683.0
+        ],
+        [
+          1681.0,
+          1685.0
+        ],
+        [
+          1680.0,
+          1689.0
+        ],
+        [
+          1680.0,
+          1708.0
+        ],
+        [
+          1681.0,
+          1716.0
+        ],
+        [
+          1684.0,
+          1724.0
+        ],
+        [
+          1685.0,
+          1726.0
+        ],
+        [
+          1690.0,
+          1734.0
+        ],
+        [
+          1693.0,
+          1737.0
+        ],
+        [
+          1695.0,
+          1738.0
+        ],
+        [
+          1698.0,
+          1739.0
+        ],
+        [
+          1715.0,
+          1740.0
+        ],
+        [
+          1726.0,
+          1740.0
+        ],
+        [
+          1729.0,
+          1739.0
+        ],
+        [
+          1731.0,
+          1737.0
+        ],
+        [
+          1732.0,
+          1737.0
+        ],
+        [
+          1733.0,
+          1736.0
+        ],
+        [
+          1733.0,
+          1735.0
+        ],
+        [
+          1735.0,
+          1732.0
+        ],
+        [
+          1741.0,
+          1727.0
+        ],
+        [
+          1745.0,
+          1722.0
+        ],
+        [
+          1745.0,
+          1719.0
+        ],
+        [
+          1746.0,
+          1718.0
+        ],
+        [
+          1746.0,
+          1716.0
+        ],
+        [
+          1745.0,
+          1708.0
+        ],
+        [
+          1744.0,
+          1704.0
+        ],
+        [
+          1743.0,
+          1701.0
+        ],
+        [
+          1740.0,
+          1696.0
+        ],
+        [
+          1740.0,
+          1692.0
+        ],
+        [
+          1738.0,
+          1686.0
+        ],
+        [
+          1737.0,
+          1684.0
+        ],
+        [
+          1735.0,
+          1682.0
+        ],
+        [
+          1733.0,
+          1676.0
+        ],
+        [
+          1731.0,
+          1675.0
+        ],
+        [
+          1728.0,
+          1675.0
+        ],
+        [
+          1725.0,
+          1672.0
+        ],
+        [
+          1717.0,
+          1668.0
+        ],
+        [
+          1714.0,
+          1667.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5817237787_1977d8c9e3_o.jpg",
+      "points": [
+        [
+          1325.7575757575758,
+          1513.6363636363635
+        ],
+        [
+          1142.4242424242423,
+          1731.8181818181818
+        ],
+        [
+          1168.181818181818,
+          1892.4242424242423
+        ],
+        [
+          1456.060606060606,
+          1893.9393939393938
+        ],
+        [
+          1550.0,
+          1693.9393939393938
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

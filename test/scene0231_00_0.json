@@ -1,0 +1,47 @@
+{
+  "text": [
+    "What object do we store food in when we need to keep it fresh for a longer period of time?",
+    "What is the object that is commonly used to store food when it needs to be kept fresh for an extended period of time?",
+    "What is the object used for storing food when we need to ensure its freshness for an extended period of time?",
+    "What is the object typically used to store food when it needs to be kept fresh for a longer period of time?",
+    "What object is commonly used to store food in order to ensure its freshness for a longer period of time?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0231_00_0.jpg",
+      "points": [
+        [
+          0.8571428571428572,
+          23.636363636363637
+        ],
+        [
+          28.129870129870127,
+          25.194805194805195
+        ],
+        [
+          34.62337662337662,
+          71.94805194805194
+        ],
+        [
+          43.97402597402597,
+          149.6103896103896
+        ],
+        [
+          0.33766233766233755,
+          154.28571428571428
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

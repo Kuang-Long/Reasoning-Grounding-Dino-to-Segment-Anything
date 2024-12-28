@@ -1,0 +1,94 @@
+{
+  "text": [
+    "What object in the picture is commonly used as an entry point to enter a building?",
+    "What in the picture is typically utilized as an entry point to access the interior of a building?",
+    "What structure or part of a building often serves as an entry point for individuals, in general, and could be observed in the picture?",
+    "What object in the picture frequently functions as an entrance for accessing a building?",
+    "In which part of the picture could you find a common entry point used to access a building?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "3472236905_2daae15f3c_o.jpg",
+      "points": [
+        [
+          863.905325443787,
+          2795.8579881656806
+        ],
+        [
+          834.6153846153846,
+          2799.0384615384614
+        ],
+        [
+          459.6153846153846,
+          2777.8846153846152
+        ],
+        [
+          440.71428571428567,
+          2770.7142857142853
+        ],
+        [
+          419.99999999999994,
+          1062.8571428571427
+        ],
+        [
+          445.71428571428567,
+          1058.5714285714284
+        ],
+        [
+          839.2857142857142,
+          1022.8571428571428
+        ],
+        [
+          846.1538461538462,
+          1027.810650887574
+        ],
+        [
+          846.1538461538462,
+          1081.6568047337278
+        ],
+        [
+          866.2721893491124,
+          2778.6982248520712
+        ],
+        [
+          866.2721893491124,
+          2792.8994082840236
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "flag",
+      "labels": [
+        "flag"
+      ],
+      "shape_type": "polygon",
+      "image_name": "3472236905_2daae15f3c_o.jpg",
+      "points": [
+        [
+          891.5510204081634,
+          312.2448979591837
+        ],
+        [
+          1911.9591836734694,
+          1008.1632653061224
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

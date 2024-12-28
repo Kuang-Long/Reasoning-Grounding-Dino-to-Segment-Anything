@@ -1,0 +1,54 @@
+{
+  "text": [
+    "In schools or offices, where can the teacher place their teaching content and allow the audience to see it more clearly?",
+    "Where is the area in schools or offices for teachers to display their teaching content and make it easier for the audience to see?",
+    "In schools or offices, where might a teacher or presenter place teaching content to allow the audience to view it more clearly?",
+    "Where can educators showcase teaching content and enable the audience to view it more effectively in schools or offices?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0056_01_0.jpg",
+      "points": [
+        [
+          195.4025974025974,
+          2.3376623376623376
+        ],
+        [
+          194.62337662337663,
+          43.37662337662338
+        ],
+        [
+          194.1038961038961,
+          71.16883116883116
+        ],
+        [
+          194.88311688311688,
+          72.72727272727272
+        ],
+        [
+          199.8181818181818,
+          76.1038961038961
+        ],
+        [
+          316.1818181818182,
+          113.76623376623377
+        ],
+        [
+          319.0,
+          0.2597402597402597
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "text": [
+    "Walls are often empty and blank. What object can serve as an accessory to make it more decorative?",
+    "What object can be utilized as an accessory to decorate walls, which are often empty and plain?",
+    "To make walls more decorative, what object can be used as an accessory?",
+    "To make a wall more decorative, what object could be utilized as an accessory?",
+    "What object can be used as an accessory to decorate walls and make them less empty and blank?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0203_02_2000.jpg",
+      "points": [
+        [
+          87.39635157545605,
+          95.52238805970148
+        ],
+        [
+          83.41625207296849,
+          150.08291873963515
+        ],
+        [
+          85.40630182421226,
+          150.08291873963515
+        ],
+        [
+          114.75953565505804,
+          157.2139303482587
+        ],
+        [
+          116.74958540630182,
+          155.0580431177446
+        ],
+        [
+          121.39303482587064,
+          98.83913764510778
+        ],
+        [
+          120.56384742951907,
+          97.67827529021558
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

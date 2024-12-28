@@ -1,0 +1,405 @@
+{
+  "text": [
+    "Road maintenance departments often need to inspect roads for damage and perform maintenance to ensure safety. What location in this picture could potentially cause rainwater to penetrate into the ground?",
+    "What area or location in the picture could be potential for rainwater to infiltrate the ground and cause problems for road maintenance crews inspecting and repairing road damage?",
+    "Road maintenance departments often need to inspect roads for damage and perform maintenance to ensure safety. Can you identify the location that might potentially cause rainwater to penetrate into the ground in the picture?",
+    "Which location might potentially allow rainwater to infiltrate the ground, as road maintenance departments often require road inspections to check for damage & ensure safety?",
+    "Please identify the region in the picture that can lead to rainwater seeping into the ground and may require inspection and maintenance by road maintenance departments to ensure safety.",
+    "During road maintenance, it's important to inspect roads for damage and perform maintenance to ensure their safety. Based on this picture, what particular area could potentially allow porous rainwater to seep into the ground?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "2548863153_a4acc2fe38_o.jpg",
+      "points": [
+        [
+          1123.0,
+          639.0
+        ],
+        [
+          1123.0,
+          643.0
+        ],
+        [
+          1125.0,
+          646.0
+        ],
+        [
+          1131.0,
+          652.0
+        ],
+        [
+          1133.0,
+          653.0
+        ],
+        [
+          1144.0,
+          653.0
+        ],
+        [
+          1146.0,
+          649.0
+        ],
+        [
+          1148.0,
+          647.0
+        ],
+        [
+          1151.0,
+          645.0
+        ],
+        [
+          1157.0,
+          643.0
+        ],
+        [
+          1157.0,
+          640.0
+        ],
+        [
+          1155.0,
+          639.0
+        ],
+        [
+          1152.0,
+          638.0
+        ],
+        [
+          1150.0,
+          636.0
+        ],
+        [
+          1150.0,
+          635.0
+        ],
+        [
+          1147.0,
+          632.0
+        ],
+        [
+          1143.0,
+          630.0
+        ],
+        [
+          1133.0,
+          630.0
+        ],
+        [
+          1129.0,
+          632.0
+        ],
+        [
+          1127.0,
+          634.0
+        ],
+        [
+          1126.0,
+          634.0
+        ],
+        [
+          1125.0,
+          635.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "2548863153_a4acc2fe38_o.jpg",
+      "points": [
+        [
+          1078.0,
+          403.0
+        ],
+        [
+          1078.0,
+          411.0
+        ],
+        [
+          1079.0,
+          414.0
+        ],
+        [
+          1087.0,
+          422.0
+        ],
+        [
+          1091.0,
+          425.0
+        ],
+        [
+          1097.0,
+          428.0
+        ],
+        [
+          1102.0,
+          430.0
+        ],
+        [
+          1105.0,
+          431.0
+        ],
+        [
+          1138.0,
+          431.0
+        ],
+        [
+          1146.0,
+          424.0
+        ],
+        [
+          1150.0,
+          420.0
+        ],
+        [
+          1152.0,
+          417.0
+        ],
+        [
+          1153.0,
+          415.0
+        ],
+        [
+          1153.0,
+          412.0
+        ],
+        [
+          1152.0,
+          411.0
+        ],
+        [
+          1152.0,
+          407.0
+        ],
+        [
+          1151.0,
+          405.0
+        ],
+        [
+          1148.0,
+          400.0
+        ],
+        [
+          1144.0,
+          396.0
+        ],
+        [
+          1138.0,
+          392.0
+        ],
+        [
+          1134.0,
+          390.0
+        ],
+        [
+          1125.0,
+          387.0
+        ],
+        [
+          1119.0,
+          386.0
+        ],
+        [
+          1102.0,
+          386.0
+        ],
+        [
+          1097.0,
+          387.0
+        ],
+        [
+          1094.0,
+          388.0
+        ],
+        [
+          1088.0,
+          391.0
+        ],
+        [
+          1085.0,
+          394.0
+        ],
+        [
+          1084.0,
+          394.0
+        ],
+        [
+          1082.0,
+          396.0
+        ],
+        [
+          1082.0,
+          397.0
+        ],
+        [
+          1079.0,
+          400.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "2548863153_a4acc2fe38_o.jpg",
+      "points": [
+        [
+          667.7290836653386,
+          79.68127490039839
+        ],
+        [
+          716.3346613545816,
+          64.5418326693227
+        ],
+        [
+          748.605577689243,
+          49.40239043824701
+        ],
+        [
+          776.8924302788844,
+          31.87250996015936
+        ],
+        [
+          789.6414342629481,
+          18.32669322709163
+        ],
+        [
+          796.812749003984,
+          6.772908366533864
+        ],
+        [
+          798.00796812749,
+          0.796812749003984
+        ],
+        [
+          377.68924302788844,
+          1.593625498007968
+        ],
+        [
+          374.5019920318725,
+          15.139442231075696
+        ],
+        [
+          373.3067729083665,
+          25.099601593625497
+        ],
+        [
+          374.1035856573705,
+          34.26294820717131
+        ],
+        [
+          378.88446215139436,
+          46.21513944223107
+        ],
+        [
+          387.2509960159362,
+          56.972111553784856
+        ],
+        [
+          394.4223107569721,
+          63.74501992031872
+        ],
+        [
+          409.5617529880478,
+          71.71314741035856
+        ],
+        [
+          422.3107569721115,
+          78.48605577689243
+        ],
+        [
+          433.0677290836653,
+          82.47011952191234
+        ],
+        [
+          446.215139442231,
+          87.25099601593625
+        ],
+        [
+          466.5338645418326,
+          92.03187250996015
+        ],
+        [
+          507.1713147410358,
+          97.21115537848604
+        ],
+        [
+          531.0756972111553,
+          98.40637450199202
+        ],
+        [
+          556.9721115537848,
+          99.20318725099601
+        ],
+        [
+          604.7808764940238,
+          94.42231075697211
+        ],
+        [
+          623.9043824701195,
+          93.22709163346613
+        ],
+        [
+          638.2716049382716,
+          91.35802469135803
+        ],
+        [
+          651.7928286852589,
+          87.64940239043824
+        ],
+        [
+          660.5577689243028,
+          84.8605577689243
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "flag",
+      "labels": [
+        "flag"
+      ],
+      "shape_type": "polygon",
+      "image_name": "2548863153_a4acc2fe38_o.jpg",
+      "points": [
+        [
+          1043.7816091954023,
+          49.42528735632184
+        ],
+        [
+          1449.528735632184,
+          312.64367816091954
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "text": [
+    "What object is often a symbol of memories and personal experiences, generally placed on the table or hung on the wall?",
+    "What object, which is often hung on walls or placed on tables, is considered a symbol of memories and personal experiences?",
+    "What is the object that serves as a symbol of memories and personal experiences, usually placed on a table or hung on a wall?",
+    "What object is typically associated with personal experiences and memories and is commonly placed on a table or hung on a wall?",
+    "What type of object might be seen as a symbol of memories and personal experiences, often found on a table or hung on a wall?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0435_01_0.jpg",
+      "points": [
+        [
+          113.32467532467533,
+          1.0389610389610389
+        ],
+        [
+          116.96103896103895,
+          97.92207792207792
+        ],
+        [
+          119.03896103896103,
+          99.74025974025975
+        ],
+        [
+          120.07792207792208,
+          109.0909090909091
+        ],
+        [
+          192.3351158645276,
+          103.92156862745098
+        ],
+        [
+          194.65240641711227,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

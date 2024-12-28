@@ -1,0 +1,132 @@
+{
+  "text": [
+    "When enjoying a cold beer outdoor, it is important to have a stable surface to place the beer glass on. What in the picture can provide a stable surface for placing the beer glass?",
+    "When having a cold beer outdoors, what in the picture would be able to provide a stable surface to place the beer glass on?",
+    "When enjoying a cold beer outdoors, having a stable surface to place the beer glass on is of high importance. What in the picture could potentially offer a flat and secure placement for the beer glass?",
+    "When enjoying a cold beer outdoors, it's important to have a dependable surface to place the beer glass on. What in the picture can provide a stable platform for the beer glass?",
+    "When enjoying a cold beer outdoors, one may need a stable surface to set the beer glass on. What item in the picture could be used as a stable surface for this purpose?",
+    "When enjoying a cold beer outdoors, what object in the picture could one utilize to provide a stable surface on which to place the beer glass?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5946628024_0c2b185843_o.jpg",
+      "points": [
+        [
+          1616.2325581395348,
+          3360.4651162790697
+        ],
+        [
+          1635.4693877551022,
+          3438.775510204082
+        ],
+        [
+          1678.3265306122448,
+          3644.8979591836737
+        ],
+        [
+          1649.7551020408164,
+          3724.4897959183672
+        ],
+        [
+          1602.8163265306123,
+          3789.795918367347
+        ],
+        [
+          1478.3265306122448,
+          3877.5510204081634
+        ],
+        [
+          1331.387755102041,
+          3926.530612244898
+        ],
+        [
+          1123.2244897959183,
+          3940.8163265306125
+        ],
+        [
+          947.7142857142858,
+          3906.122448979592
+        ],
+        [
+          845.6734693877552,
+          3848.979591836735
+        ],
+        [
+          747.7142857142858,
+          3779.591836734694
+        ],
+        [
+          698.7346938775511,
+          3710.204081632653
+        ],
+        [
+          676.2857142857143,
+          3644.8979591836737
+        ],
+        [
+          686.4897959183673,
+          3565.3061224489797
+        ],
+        [
+          715.0612244897959,
+          3440.8163265306125
+        ],
+        [
+          743.6326530612245,
+          3357.1428571428573
+        ],
+        [
+          796.6938775510205,
+          3006.122448979592
+        ],
+        [
+          806.8979591836735,
+          2842.857142857143
+        ],
+        [
+          0.0,
+          2318.3673469387754
+        ],
+        [
+          7.66666666666697,
+          3999.0
+        ],
+        [
+          2068.7777777777783,
+          3999.0
+        ],
+        [
+          2092.9767441860467,
+          3955.813953488372
+        ],
+        [
+          2090.6511627906975,
+          3890.6976744186045
+        ],
+        [
+          2079.0232558139537,
+          3832.5581395348836
+        ],
+        [
+          2030.1860465116279,
+          3683.720930232558
+        ],
+        [
+          1981.3488372093025,
+          3616.279069767442
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

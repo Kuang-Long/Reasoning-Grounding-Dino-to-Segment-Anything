@@ -1,0 +1,80 @@
+{
+  "text": [
+    "Assuming this is a restaurant kitchen and the chef finds that there is not enough food, and needs to inform the restaurant staff promptly to notify the customers. Which device in the picture is the chef most likely to use for instant communication?",
+    "Suppose that this is a kitchen within a restaurant and the chef realizes there isn't enough food. To quickly notify the restaurant staff so that they can alert the customers, which object within the picture would the chef most likely utilize for instant communication?",
+    "As the chef in a restaurant kitchen, if you discover that there is an inadequate amount of food, and you need to communicate with other staff promptly to inform customers, which device present in the picture would be the most appropriate for instant communication?",
+    "In the given scenario of a busy restaurant kitchen where the chef discovers there isn't enough food, and prompt communication with the restaurant staff is essential to notify the customers, what device in the picture could the chef likely use for instant communication?",
+    "Suppose it is a restaurant kitchen, and the chef finds that there is not enough food and needs to inform the staff quickly to notify customers. Which device in the picture is the chef likely to use for prompt communication?",
+    "Suppose this is a restaurant's kitchen, and the chef discovers that there isn't enough food, necessitating a notification to the staff to promptly inform the customers. Based on the picture, which device is the chef most likely to employ to facilitate quick communication?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0479_00_0.jpg",
+      "points": [
+        [
+          239.2349726775956,
+          52.6775956284153
+        ],
+        [
+          280.10928961748635,
+          53.114754098360656
+        ],
+        [
+          280.655737704918,
+          55.30054644808743
+        ],
+        [
+          279.23497267759564,
+          56.17486338797814
+        ],
+        [
+          277.04918032786884,
+          100.21857923497268
+        ],
+        [
+          272.1311475409836,
+          100.65573770491802
+        ],
+        [
+          267.103825136612,
+          101.96721311475409
+        ],
+        [
+          263.7158469945355,
+          103.16939890710383
+        ],
+        [
+          256.9398907103825,
+          102.51366120218579
+        ],
+        [
+          253.77049180327867,
+          102.40437158469945
+        ],
+        [
+          251.14754098360655,
+          102.95081967213115
+        ],
+        [
+          232.89617486338796,
+          99.4535519125683
+        ],
+        [
+          234.20765027322403,
+          86.775956284153
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

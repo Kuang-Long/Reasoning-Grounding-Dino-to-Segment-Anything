@@ -1,0 +1,92 @@
+{
+  "text": [
+    "In modern hospitals, advanced technology is often used to monitor patients' vital signs during surgery. What object in the picture is commonly used for this purpose?",
+    "Advanced technology is often utilized in modern hospitals to monitor patients' vital signs during surgery. What object in the picture is typically used for this purpose?",
+    "Advanced technology is frequently utilized in modern hospitals during surgical operations to keep track of patients' vital signs. What object can be frequently used for this purpose in the image?",
+    "What object in the picture is frequently used for the purpose of monitoring patients' vital signs during surgery in modern hospitals that employ advanced technology?",
+    "During surgery in modern hospitals, what item is frequently employed to monitor patients' vital signs with the help of advanced technologies?",
+    "Modern hospitals utilize advanced technology to track patients' vital health signs while undergoing surgery. Which object displayed in the picture is often applied for this function?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "4345910813_dd1ba4fded_o.jpg",
+      "points": [
+        [
+          923.0379746835442,
+          31.645569620253163
+        ],
+        [
+          769.1139240506329,
+          52.278481012658226
+        ],
+        [
+          762.4347826086956,
+          53.21739130434783
+        ],
+        [
+          630.4347826086956,
+          68.69565217391305
+        ],
+        [
+          622.6086956521739,
+          69.56521739130434
+        ],
+        [
+          502.95652173913044,
+          82.08695652173913
+        ],
+        [
+          503.7234042553191,
+          196.01063829787233
+        ],
+        [
+          507.4468085106383,
+          198.93617021276594
+        ],
+        [
+          936.6037735849056,
+          184.33962264150944
+        ],
+        [
+          938.1132075471698,
+          183.0188679245283
+        ],
+        [
+          939.0566037735849,
+          180.37735849056605
+        ],
+        [
+          941.6981132075472,
+          78.49056603773585
+        ],
+        [
+          932.8301886792453,
+          70.0
+        ],
+        [
+          927.1698113207548,
+          69.62264150943396
+        ],
+        [
+          927.1698113207548,
+          34.716981132075475
+        ],
+        [
+          925.2830188679245,
+          32.07547169811321
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

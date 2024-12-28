@@ -1,0 +1,96 @@
+{
+  "text": [
+    "What object typically provides a flat and stable surface for people to place cups, plates, or books in a living room?",
+    "What type of object is typically employed within a living room setting to provide a flat and stable surface for placing cups, plates, books, or other items upon?",
+    "In a living room, what object would typically provide a flat and stable surface for people to place cups, plates, or books?",
+    "What object in a living room is commonly used to provide a flat and stable surface for cups, plates, or books?",
+    "What item typically provides a flat and stable surface for placing cups, plates, or books in a living room?",
+    "In a common living room, what object would usually provide a stable and flat surface for placing cups, dishes, or books?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0192_00_0.jpg",
+      "points": [
+        [
+          252.02597402597402,
+          25.454545454545453
+        ],
+        [
+          176.1818181818182,
+          116.88311688311688
+        ],
+        [
+          176.1818181818182,
+          122.33766233766234
+        ],
+        [
+          178.0,
+          123.11688311688312
+        ],
+        [
+          173.32467532467533,
+          172.98701298701297
+        ],
+        [
+          174.62337662337663,
+          175.58441558441558
+        ],
+        [
+          178.25974025974025,
+          175.32467532467533
+        ],
+        [
+          179.55844155844156,
+          171.94805194805195
+        ],
+        [
+          184.4935064935065,
+          126.23376623376623
+        ],
+        [
+          319.0,
+          178.7012987012987
+        ],
+        [
+          319.0,
+          198.44155844155844
+        ],
+        [
+          299.55844155844153,
+          224.15584415584416
+        ],
+        [
+          300.0779220779221,
+          226.23376623376623
+        ],
+        [
+          300.3376623376623,
+          228.3116883116883
+        ],
+        [
+          304.75324675324674,
+          229.87012987012986
+        ],
+        [
+          319.0,
+          211.16883116883116
+        ],
+        [
+          319.0,
+          42.077922077922075
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

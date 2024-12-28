@@ -1,0 +1,170 @@
+{
+  "text": [
+    "If we need to paint the walls, what object in the picture can be used to climb up to reach the higher parts of the wall?",
+    "What object in the picture would be utilized to reach the higher parts of the wall when painting it?",
+    "What object in the picture could be utilized to climb and reach the higher areas of a wall if we need to paint it?",
+    "What in the picture could be utilized to climb and reach the higher parts of the wall when painting it?",
+    "When painting walls, it is often necessary to access high areas in order to touch up previously un-painted sections. In such circumstances, what object in the picture is used to climb up and reach these unreachable portions?",
+    "What object in the picture could be used to reach the higher parts of a wall for painting or other purposes?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0360_00_2000.jpg",
+      "points": [
+        [
+          26.881720430107524,
+          1.10752688172043
+        ],
+        [
+          47.04301075268817,
+          79.6021505376344
+        ],
+        [
+          74.73118279569893,
+          148.68817204301075
+        ],
+        [
+          136.144578313253,
+          132.68072289156626
+        ],
+        [
+          142.3192771084337,
+          133.73493975903614
+        ],
+        [
+          143.82530120481925,
+          135.99397590361446
+        ],
+        [
+          147.89156626506022,
+          157.68072289156626
+        ],
+        [
+          148.644578313253,
+          159.789156626506
+        ],
+        [
+          151.95783132530119,
+          159.93975903614455
+        ],
+        [
+          153.9156626506024,
+          157.98192771084337
+        ],
+        [
+          153.01204819277106,
+          153.76506024096383
+        ],
+        [
+          122.27152317880794,
+          1.774834437086092
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0360_00_2000.jpg",
+      "points": [
+        [
+          68.56745479833101,
+          108.90125173852573
+        ],
+        [
+          75.38247566063977,
+          130.04172461752432
+        ],
+        [
+          135.88317107093184,
+          118.91515994436718
+        ],
+        [
+          139.49930458970792,
+          119.05424200278163
+        ],
+        [
+          134.63143254520165,
+          96.94019471488177
+        ],
+        [
+          132.5452016689847,
+          93.60222531293462
+        ],
+        [
+          126.56467315716272,
+          94.43671766342142
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0360_00_2000.jpg",
+      "points": [
+        [
+          52.50544662309368,
+          55.010893246187365
+        ],
+        [
+          62.96296296296296,
+          91.17647058823529
+        ],
+        [
+          115.68627450980392,
+          80.93681917211329
+        ],
+        [
+          128.54030501089326,
+          79.30283224400871
+        ],
+        [
+          131.91721132897604,
+          79.41176470588236
+        ],
+        [
+          130.3921568627451,
+          73.09368191721133
+        ],
+        [
+          122.98474945533769,
+          37.908496732026144
+        ],
+        [
+          120.04357298474946,
+          38.56209150326797
+        ],
+        [
+          57.734204793028326,
+          52.287581699346404
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

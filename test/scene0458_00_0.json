@@ -1,0 +1,84 @@
+{
+  "text": [
+    "What object in the picture can effectively prevent water and foam from splashing outside the shower area and keep the bathroom dry and clean?",
+    "Which item in the picture can be utilized to prevent water and foam from splashing outside the shower area and help maintain a dry and clean bathroom?",
+    "What object in the picture can function to prevent water and foam from splashing outside of the shower area, thereby keeping the bathroom clean and dry?",
+    "What item in the picture can help prevent water and foam from splashing outside of the shower area, keeping the bathroom dry and clean?",
+    "What is the object in the picture that can effectively prevent water and foam from splashing outside the shower area and keeping the bathroom clean and dry?",
+    "What item in the picture can help avoid water and foam splashing beyond the shower area and keep the bathroom clean and dry?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0458_00_0.jpg",
+      "points": [
+        [
+          83.24354243542436,
+          0.5535055350553506
+        ],
+        [
+          106.49077490774908,
+          109.77859778597787
+        ],
+        [
+          102.43173431734317,
+          118.63468634686348
+        ],
+        [
+          105.38376383763838,
+          135.239852398524
+        ],
+        [
+          102.06273062730628,
+          145.9409594095941
+        ],
+        [
+          102.06273062730628,
+          151.1070110701107
+        ],
+        [
+          103.53874538745387,
+          159.2250922509225
+        ],
+        [
+          98.74169741697418,
+          167.71217712177122
+        ],
+        [
+          95.78966789667896,
+          174.72324723247232
+        ],
+        [
+          99.84870848708488,
+          202.02952029520296
+        ],
+        [
+          100.21771217712177,
+          212.73062730627305
+        ],
+        [
+          64.05535055350555,
+          239.0
+        ],
+        [
+          0.2177121771217685,
+          239.0
+        ],
+        [
+          0.9557195571955788,
+          0.18450184501845257
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

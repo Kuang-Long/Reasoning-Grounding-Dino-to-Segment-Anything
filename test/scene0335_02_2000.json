@@ -1,0 +1,67 @@
+{
+  "text": [
+    "What home appliance is commonly used to store fresh and frozen food at low temperatures?",
+    "What common household appliance is typically used to store fresh and frozen food at low temperatures?",
+    "What electrical appliance is typically used to preserve fresh and frozen food by maintaining low temperatures?",
+    "What household appliance is usually utilized to store fresh and frozen food at low temperatures?",
+    "What is the commonly used home appliance to store fresh and frozen food at low temperatures?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0335_02_2000.jpg",
+      "points": [
+        [
+          3.5714285714285694,
+          77.93167701863354
+        ],
+        [
+          1.70807453416149,
+          239.0
+        ],
+        [
+          99.22360248447204,
+          238.80124223602485
+        ],
+        [
+          100.46583850931677,
+          238.80124223602485
+        ],
+        [
+          102.32919254658384,
+          238.1801242236025
+        ],
+        [
+          100.77639751552795,
+          69.54658385093167
+        ],
+        [
+          87.11180124223601,
+          69.54658385093167
+        ],
+        [
+          78.72670807453416,
+          69.54658385093167
+        ],
+        [
+          70.34161490683229,
+          70.7888198757764
+        ],
+        [
+          12.577639751552795,
+          73.27329192546583
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

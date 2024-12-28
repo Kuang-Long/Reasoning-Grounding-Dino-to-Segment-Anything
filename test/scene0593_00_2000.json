@@ -1,0 +1,144 @@
+{
+  "text": [
+    "When the indoor air becomes muggy, what appliance should be turned on to make it more comfortable?",
+    "Suppose you are feeling hot and the indoor air is humid. What appliance would you turn on to adjust it to a more comfortable level?",
+    "What appliance would you advise turning on if you're inside and the air has become humid, causing discomfort?",
+    "When the indoor air becomes humid and uncomfortable, which appliance should be turned on to adjust the climate and make it more comfortable?",
+    "As a smart home AI, what appliance should you activate to adjust the indoor air quality and make it more comfortable when it becomes muggy?",
+    "As a smart home AI, what appliance would you turn on to adjust the humidity indoors and ensure comfort?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0593_00_2000.jpg",
+      "points": [
+        [
+          314.7849462365591,
+          43.04301075268817
+        ],
+        [
+          309.9462365591398,
+          41.69892473118279
+        ],
+        [
+          289.7849462365591,
+          43.31182795698925
+        ],
+        [
+          283.6021505376344,
+          44.387096774193544
+        ],
+        [
+          280.9139784946236,
+          46.0
+        ],
+        [
+          264.51612903225805,
+          56.21505376344086
+        ],
+        [
+          244.3548387096774,
+          72.61290322580645
+        ],
+        [
+          233.87096774193546,
+          86.59139784946237
+        ],
+        [
+          222.5806451612903,
+          108.9032258064516
+        ],
+        [
+          219.89247311827955,
+          111.32258064516128
+        ],
+        [
+          219.6236559139785,
+          114.54838709677419
+        ],
+        [
+          220.69892473118279,
+          115.62365591397848
+        ],
+        [
+          219.08602150537632,
+          144.65591397849462
+        ],
+        [
+          223.38709677419354,
+          164.54838709677418
+        ],
+        [
+          232.52688172043008,
+          181.48387096774192
+        ],
+        [
+          249.7311827956989,
+          198.41935483870967
+        ],
+        [
+          254.3010752688172,
+          200.83870967741933
+        ],
+        [
+          253.2258064516129,
+          209.17204301075267
+        ],
+        [
+          257.258064516129,
+          216.4301075268817
+        ],
+        [
+          263.1720430107527,
+          220.19354838709677
+        ],
+        [
+          272.31182795698925,
+          220.7311827956989
+        ],
+        [
+          276.0752688172043,
+          217.50537634408602
+        ],
+        [
+          277.68817204301075,
+          208.36559139784944
+        ],
+        [
+          283.6021505376344,
+          209.70967741935482
+        ],
+        [
+          295.6989247311828,
+          209.17204301075267
+        ],
+        [
+          310.21505376344084,
+          205.94623655913978
+        ],
+        [
+          316.1290322580645,
+          200.03225806451613
+        ],
+        [
+          318.81720430107526,
+          195.19354838709677
+        ],
+        [
+          319.0,
+          44.5748502994012
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

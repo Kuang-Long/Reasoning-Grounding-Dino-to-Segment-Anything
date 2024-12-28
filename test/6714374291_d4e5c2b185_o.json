@@ -1,0 +1,43 @@
+{
+  "text": [
+    "In an automobile exhibition, car manufacturers often showcase their latest designs and prototypes. What in the picture can be used to showcase a new and innovative car design?",
+    "At an automobile exhibition, what in the picture can be used to display a brand new, forward-thinking car design?",
+    "In an automobile exhibition, car manufacturers often showcase their latest designs and prototypes. What item in the picture can be used to display a new and innovative car design?",
+    "During an automobile exhibition, car manufacturers frequently present their newest prototypes and designs. What in the picture could be utilized to showcase an innovative new car design?",
+    "During an automobile exhibition, car manufacturers often showcase their latest designs and prototypes. What specific object can be utilized to present new and innovative car designs, based on the picture?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "6714374291_d4e5c2b185_o.jpg",
+      "points": [
+        [
+          3207.5757575757575,
+          150.0
+        ],
+        [
+          3207.5757575757575,
+          531.8181818181818
+        ],
+        [
+          3766.6666666666665,
+          525.7575757575758
+        ],
+        [
+          3789.393939393939,
+          140.9090909090909
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

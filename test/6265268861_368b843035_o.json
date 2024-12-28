@@ -1,0 +1,131 @@
+{
+  "text": [
+    "Bonsai trees require special care and attention to maintain their miniature size and aesthetic appeal. What object in the picture is used to contain and display a bonsai tree?",
+    "What object in the picture could be used to display and contain a bonsai tree, given that the tree requires special attention and care to maintain its miniature size and aesthetic appeal?",
+    "When maintaining and displaying bonsai trees, it requires a certain level of special care and attention. What item in the picture can be utilized to display and contain a bonsai tree?",
+    "What object in the picture is utilized to display and contain bonsai trees, which require special care and attention to maintain their miniature size and aesthetic appeal?",
+    "What is the tool utilized to contain and show a bonsai tree in the picture, provided that bonsai trees require specialized care and attention to maintain their miniature size and aesthetic appeal?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "6265268861_368b843035_o.jpg",
+      "points": [
+        [
+          731.2857142857142,
+          2051.285714285714
+        ],
+        [
+          630.6818181818181,
+          2061.3636363636365
+        ],
+        [
+          500.0,
+          2078.409090909091
+        ],
+        [
+          432.95454545454544,
+          2094.318181818182
+        ],
+        [
+          413.6363636363636,
+          2113.6363636363635
+        ],
+        [
+          404.54545454545456,
+          2161.3636363636365
+        ],
+        [
+          400.0,
+          2253.409090909091
+        ],
+        [
+          411.3636363636364,
+          2585.2272727272725
+        ],
+        [
+          1306.8181818181818,
+          2587.5
+        ],
+        [
+          1327.2727272727273,
+          2469.318181818182
+        ],
+        [
+          1347.7272727272727,
+          2327.2727272727275
+        ],
+        [
+          1361.3636363636363,
+          2179.5454545454545
+        ],
+        [
+          1345.4545454545455,
+          2146.590909090909
+        ],
+        [
+          1325.0,
+          2129.5454545454545
+        ],
+        [
+          1073.8636363636363,
+          2078.409090909091
+        ],
+        [
+          997.7272727272727,
+          2063.6363636363635
+        ],
+        [
+          1013.6363636363636,
+          2122.7272727272725
+        ],
+        [
+          1012.5,
+          2147.7272727272725
+        ],
+        [
+          1004.5454545454545,
+          2168.181818181818
+        ],
+        [
+          1007.9545454545455,
+          2193.181818181818
+        ],
+        [
+          998.8636363636364,
+          2202.2727272727275
+        ],
+        [
+          788.6363636363636,
+          2196.590909090909
+        ],
+        [
+          752.2727272727273,
+          2188.6363636363635
+        ],
+        [
+          753.4090909090909,
+          2146.590909090909
+        ],
+        [
+          730.6818181818181,
+          2098.8636363636365
+        ],
+        [
+          726.1363636363636,
+          2078.409090909091
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

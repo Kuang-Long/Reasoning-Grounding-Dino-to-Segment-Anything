@@ -1,0 +1,103 @@
+{
+  "text": [
+    "In a busy city, there are often traffic congestion and delays. What situation in the picture could cause a delay and make it difficult for vehicles to move smoothly?",
+    "What situation in the image could lead to a delay and make it challenging for vehicles to move smoothly in a busy city with heavy traffic?",
+    "In a busy city with frequent road traffic, there are often situations of congestion and delays. What scenario in the picture might result in such a delay, making it challenging for vehicles to proceed smoothly?",
+    "In a busy city, traffic congestion and delays are common. What situation in the picture might cause a delay and make it difficult for vehicles to move smoothly?",
+    "In a busy city, traffic congestion and delays are quite common. Based on the picture, what situation could make it difficult for vehicles to move smoothly and cause a delay?",
+    "Traffic congestion and delays are common occurrences in a busy city. Which situation in the picture could cause a delay and cause disruption to the smooth flow of vehicles?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5815174897_d98c3792bc_o.jpg",
+      "points": [
+        [
+          459.67441860465124,
+          948.8372093023256
+        ],
+        [
+          378.2790697674418,
+          6.976744186046512
+        ],
+        [
+          195.0,
+          6.25
+        ],
+        [
+          289.3333333333335,
+          1300.0
+        ],
+        [
+          368.5,
+          2416.666666666667
+        ],
+        [
+          370.0,
+          2447.916666666667
+        ],
+        [
+          573.6279069767443,
+          2453.4883720930234
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5815174897_d98c3792bc_o.jpg",
+      "points": [
+        [
+          144.29411764705878,
+          2579.411764705882
+        ],
+        [
+          326.6470588235293,
+          2488.235294117647
+        ],
+        [
+          353.1176470588234,
+          2305.882352941176
+        ],
+        [
+          288.4117647058822,
+          1329.4117647058822
+        ],
+        [
+          213.19298245614027,
+          308.77192982456137
+        ],
+        [
+          114.9473684210526,
+          284.2105263157894
+        ],
+        [
+          62.31578947368416,
+          475.438596491228
+        ],
+        [
+          70.76470588235293,
+          1608.8235294117646
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

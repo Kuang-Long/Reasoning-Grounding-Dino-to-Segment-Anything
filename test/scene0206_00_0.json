@@ -1,0 +1,167 @@
+{
+  "text": [
+    "What object should be used to support a video camera while shooting to capture stable images?",
+    "What is the recommended tool that should be used to support the video camera to capture stable images during a shoot?",
+    "What device should be used to support a video camera while shooting to capture stable images?",
+    "What can be utilized to support a video camera and capture stable images while shooting?",
+    "When recording a video, what object can be utilized to stabilize the images captured by the camera?",
+    "What object could be used to support a video camera while shooting, in order to obtain stable, shake-free images?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0206_00_0.jpg",
+      "points": [
+        [
+          6.311688311688311,
+          74.54545454545455
+        ],
+        [
+          11.506493506493506,
+          74.02597402597402
+        ],
+        [
+          10.467532467532468,
+          71.16883116883116
+        ],
+        [
+          15.662337662337663,
+          70.38961038961038
+        ],
+        [
+          27.09090909090909,
+          85.1948051948052
+        ],
+        [
+          26.57142857142857,
+          91.68831168831169
+        ],
+        [
+          107.87012987012987,
+          199.4805194805195
+        ],
+        [
+          112.02597402597402,
+          202.07792207792207
+        ],
+        [
+          113.06493506493506,
+          205.45454545454544
+        ],
+        [
+          108.38961038961038,
+          209.6103896103896
+        ],
+        [
+          103.45454545454545,
+          209.0909090909091
+        ],
+        [
+          101.8961038961039,
+          206.75324675324674
+        ],
+        [
+          101.8961038961039,
+          204.93506493506493
+        ],
+        [
+          14.883116883116884,
+          90.9090909090909
+        ],
+        [
+          8.12987012987013,
+          90.64935064935065
+        ],
+        [
+          42.41558441558441,
+          215.32467532467533
+        ],
+        [
+          60.857142857142854,
+          152.2077922077922
+        ],
+        [
+          66.31168831168831,
+          158.7012987012987
+        ],
+        [
+          50.20779220779221,
+          218.1818181818182
+        ],
+        [
+          48.12987012987013,
+          221.8181818181818
+        ],
+        [
+          43.97402597402597,
+          225.19480519480518
+        ],
+        [
+          37.48051948051948,
+          227.27272727272728
+        ],
+        [
+          33.84415584415584,
+          229.0909090909091
+        ],
+        [
+          0.0,
+          107.27272727272727
+        ],
+        [
+          0.0,
+          75.58441558441558
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0206_00_0.jpg",
+      "points": [
+        [
+          3.277456647398843,
+          140.17919075144508
+        ],
+        [
+          8.76878612716763,
+          173.9942196531792
+        ],
+        [
+          26.687861271676304,
+          209.2543352601156
+        ],
+        [
+          30.445086705202314,
+          231.50867052023122
+        ],
+        [
+          2.410404624277458,
+          232.3757225433526
+        ],
+        [
+          1.2543352601156066,
+          161.85549132947978
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

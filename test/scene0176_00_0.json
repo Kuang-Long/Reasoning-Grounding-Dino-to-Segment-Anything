@@ -1,0 +1,94 @@
+{
+  "text": [
+    "What object in the picture can be used to keep precious memories in the form of photographs and paintings?",
+    "What object in the picture can be utilized to preserve and display cherished memories in the form of photographs and paintings?",
+    "What object in the picture is typically used to store and display precious memories in the form of photographs and paintings?",
+    "What is the item in the picture that can be used to store cherished memories, such as photographs and paintings?",
+    "What item in the picture can individuals utilize to safeguard cherished memories, such as photographs and paintings?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0176_00_0.jpg",
+      "points": [
+        [
+          48.25072886297376,
+          68.65889212827987
+        ],
+        [
+          56.70553935860058,
+          134.98542274052477
+        ],
+        [
+          61.516034985422735,
+          136.44314868804665
+        ],
+        [
+          64.28571428571428,
+          135.27696793002914
+        ],
+        [
+          98.8338192419825,
+          121.28279883381924
+        ],
+        [
+          98.68804664723032,
+          118.07580174927114
+        ],
+        [
+          92.85714285714285,
+          65.45189504373178
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0176_00_0.jpg",
+      "points": [
+        [
+          103.35276967930028,
+          66.61807580174927
+        ],
+        [
+          107.5801749271137,
+          117.3469387755102
+        ],
+        [
+          110.05830903790087,
+          117.3469387755102
+        ],
+        [
+          135.13119533527697,
+          108.45481049562682
+        ],
+        [
+          133.8192419825073,
+          103.93586005830903
+        ],
+        [
+          130.6122448979592,
+          63.84839650145772
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

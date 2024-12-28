@@ -1,0 +1,100 @@
+{
+  "text": [
+    "What tool is used for typing and text processing on a computer?",
+    "What is the name of the tool used to input and process text on a computer?",
+    "What is the tool that people utilize for typing and text processing on a computer?",
+    "What is the name of the tool that is commonly used on a computer for typing and text processing?",
+    "What is the tool commonly used for processing and typing text on a computer?",
+    "What is the name of the tool used for processing and typing text on a computer?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0179_00_0.jpg",
+      "points": [
+        [
+          110.7,
+          81.3
+        ],
+        [
+          109.9,
+          84.6
+        ],
+        [
+          112.9,
+          86.7
+        ],
+        [
+          116.8,
+          88.9
+        ],
+        [
+          123.0,
+          88.9
+        ],
+        [
+          151.7,
+          82.9
+        ],
+        [
+          154.7,
+          82.6
+        ],
+        [
+          154.6,
+          79.7
+        ],
+        [
+          150.3,
+          78.4
+        ],
+        [
+          147.7,
+          76.5
+        ],
+        [
+          142.7,
+          79.4
+        ],
+        [
+          136.6,
+          81.1
+        ],
+        [
+          133.1,
+          78.9
+        ],
+        [
+          132.2,
+          80.9
+        ],
+        [
+          131.5,
+          81.8
+        ],
+        [
+          128.0,
+          81.2
+        ],
+        [
+          121.0,
+          79.8
+        ],
+        [
+          115.7,
+          78.8
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

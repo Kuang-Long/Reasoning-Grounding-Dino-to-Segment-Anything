@@ -1,0 +1,44 @@
+{
+  "text": [
+    "In hotel rooms, what object can often be found hanging on the wall as a decorative item?",
+    "What is a common decorative item that can be found hanging on the wall in hotel rooms?",
+    "What can often be found hanging on the wall as a decorative item in hotel rooms?",
+    "What item is typically found hanging on the wall as a decorative piece in hotel rooms?",
+    "Wall decorations can be utilized in many places, including hotel rooms. What type of decorative object might be frequently located hanging on the wall in a hotel room?",
+    "In hotels rooms, what can sometimes function as a decorative item and be found hanging on the walls?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0362_02_0.jpg",
+      "points": [
+        [
+          30.20779220779221,
+          0.2597402597402597
+        ],
+        [
+          36.96103896103896,
+          68.57142857142857
+        ],
+        [
+          146.05194805194805,
+          70.12987012987013
+        ],
+        [
+          146.05194805194805,
+          0.5194805194805194
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

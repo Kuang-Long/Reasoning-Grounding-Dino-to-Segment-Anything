@@ -1,0 +1,107 @@
+{
+  "text": [
+    "The teacher needs to write the lesson content on this object when they are teaching in the classroom. What is this object in the picture?",
+    "What is the object in the picture that a teacher in a classroom could use to write lesson content on while teaching?",
+    "In the classroom, what is the object that the teacher utilizes to write the lesson content?",
+    "What is the object in the picture on which a teacher may write lesson content during classroom instruction?",
+    "In the context of a classroom, what object might a teacher use to write lesson content?",
+    "If a teacher wants to write the lesson content while teaching in a classroom, what is the object in the picture that can be used for this purpose?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0030_01_0.jpg",
+      "points": [
+        [
+          0.7820481235115366,
+          1.3636363636363598
+        ],
+        [
+          2.4655498070132182,
+          95.30303030303028
+        ],
+        [
+          5.832553174016589,
+          97.996632996633
+        ],
+        [
+          80.91672825819165,
+          59.27609427609427
+        ],
+        [
+          74.51942186088527,
+          57.92929292929293
+        ],
+        [
+          67.11201445347785,
+          1.3636363636363598
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0030_01_0.jpg",
+      "points": [
+        [
+          104.2188552188552,
+          1.700336700336699
+        ],
+        [
+          107.58585858585857,
+          41.09427609427608
+        ],
+        [
+          109.26936026936025,
+          41.76767676767676
+        ],
+        [
+          118.02356902356902,
+          36.38047138047138
+        ],
+        [
+          131.15488215488213,
+          34.69696969696969
+        ],
+        [
+          156.03773584905662,
+          34.905660377358494
+        ],
+        [
+          179.97643097643095,
+          42.44107744107744
+        ],
+        [
+          184.35353535353534,
+          45.134680134680124
+        ],
+        [
+          319.0,
+          49.175084175084166
+        ],
+        [
+          319.0,
+          1.3636363636363598
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

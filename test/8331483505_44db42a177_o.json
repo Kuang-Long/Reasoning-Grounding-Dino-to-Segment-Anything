@@ -1,0 +1,192 @@
+{
+  "text": [
+    "People often say that a genuine smile can brighten up a person's face. What facial feature in the picture could indicate whether or not the person is smiling?",
+    "People often mention a real smile can illuminate an individual's face. What facial feature in the given picture might indicate if the person is smiling?",
+    "Please identify the facial feature in the picture that could indicate whether or not the person is smiling, as people often claim that a sincere smile can light up one's face.",
+    "How can one determine whether or not a person is smiling, based on their facial features in the picture?",
+    "What feature of the person's face in the picture could suggest whether or not they're smiling, given the common belief that a genuine smile can brighten up a person's face?",
+    "What facial feature in the picture reveals whether or not a person is smiling, given that a genuine smile can light up one's face?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "8331483505_44db42a177_o.jpg",
+      "points": [
+        [
+          707.0630630630629,
+          798.1981981981982
+        ],
+        [
+          664.7207207207207,
+          759.4594594594594
+        ],
+        [
+          648.5045045045044,
+          752.2522522522522
+        ],
+        [
+          619.6756756756756,
+          743.2432432432432
+        ],
+        [
+          207.063063063063,
+          745.9459459459459
+        ],
+        [
+          169.2252252252252,
+          758.5585585585585
+        ],
+        [
+          131.38738738738738,
+          772.9729729729729
+        ],
+        [
+          101.65765765765764,
+          784.6846846846846
+        ],
+        [
+          71.9279279279279,
+          789.1891891891892
+        ],
+        [
+          49.40540540540536,
+          788.2882882882882
+        ],
+        [
+          28.68468468468467,
+          787.3873873873873
+        ],
+        [
+          21.477477477477464,
+          791.8918918918919
+        ],
+        [
+          18.774774774774755,
+          808.108108108108
+        ],
+        [
+          59.315315315315274,
+          889.1891891891892
+        ],
+        [
+          97.15315315315314,
+          961.2612612612612
+        ],
+        [
+          142.19819819819816,
+          1018.9189189189188
+        ],
+        [
+          161.11711711711706,
+          1045.0450450450448
+        ],
+        [
+          189.04504504504501,
+          1083.7837837837837
+        ],
+        [
+          674.6306306306305,
+          1087.3873873873872
+        ],
+        [
+          680.9369369369368,
+          1056.7567567567567
+        ],
+        [
+          680.036036036036,
+          1048.6486486486485
+        ],
+        [
+          679.1351351351351,
+          1039.6396396396397
+        ],
+        [
+          678.2342342342341,
+          1025.2252252252251
+        ],
+        [
+          678.2342342342341,
+          1016.2162162162161
+        ],
+        [
+          680.036036036036,
+          1004.5045045045044
+        ],
+        [
+          685.4414414414414,
+          989.189189189189
+        ],
+        [
+          689.9459459459458,
+          975.6756756756756
+        ],
+        [
+          694.4504504504504,
+          958.5585585585585
+        ],
+        [
+          698.054054054054,
+          944.1441441441441
+        ],
+        [
+          699.8558558558558,
+          931.5315315315314
+        ],
+        [
+          702.5585585585585,
+          918.9189189189188
+        ],
+        [
+          705.2612612612612,
+          909.0090090090089
+        ],
+        [
+          707.9639639639639,
+          896.3963963963963
+        ],
+        [
+          711.5675675675675,
+          882.8828828828828
+        ],
+        [
+          716.0720720720719,
+          867.5675675675675
+        ],
+        [
+          720.5765765765765,
+          854.054054054054
+        ],
+        [
+          725.081081081081,
+          844.1441441441441
+        ],
+        [
+          728.6846846846846,
+          834.2342342342341
+        ],
+        [
+          729.5855855855855,
+          826.1261261261261
+        ],
+        [
+          728.6846846846846,
+          818.9189189189188
+        ],
+        [
+          723.2792792792792,
+          812.6126126126126
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

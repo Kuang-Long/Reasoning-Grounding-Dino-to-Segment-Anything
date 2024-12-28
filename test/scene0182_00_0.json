@@ -1,0 +1,120 @@
+{
+  "text": [
+    "When we enter a room, what object can be used to remove dirt and moisture from shoes, and avoid slipping hazards indoors?",
+    "Upon entering a room, what object can you use to prevent dirt and moisture from shoes, reducing the risk of slipping hazards inside?",
+    "As a smart home AI, which object can be used to remove dirt and moisture from shoes, preventing slipping hazards indoors, when entering a room?",
+    "What object can be used to prevent slipping hazards indoors and remove dirt and moisture from shoes when entering a room?",
+    "When entering a room, what item can be used to remove dirt and moisture from shoes and prevent slipping hazards indoors?",
+    "After entering a room, what object can be utilized to eliminate dirt and moisture from shoes to prevent the risk of slipping indoors?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0182_00_0.jpg",
+      "points": [
+        [
+          28.373868555686723,
+          109.59464777646595
+        ],
+        [
+          9.932310114128283,
+          125.43880362062178
+        ],
+        [
+          14.347894529712697,
+          145.4388036206218
+        ],
+        [
+          260.5816607634789,
+          136.3478945297127
+        ],
+        [
+          262.659582841401,
+          115.30893349075166
+        ],
+        [
+          263.4388036206218,
+          112.19205037386854
+        ],
+        [
+          255.64659582841398,
+          103.62062180243997
+        ],
+        [
+          254.08815426997245,
+          106.99724517906334
+        ],
+        [
+          251.2310114128296,
+          108.81542699724517
+        ],
+        [
+          241.10114128295945,
+          104.659582841401
+        ],
+        [
+          235.64659582841398,
+          104.1401023219205
+        ],
+        [
+          225.77646595828412,
+          106.47776465958283
+        ],
+        [
+          219.5426997245179,
+          107.51672569854387
+        ],
+        [
+          203.4388036206218,
+          108.5556867375049
+        ],
+        [
+          194.8673750491932,
+          112.4517906336088
+        ],
+        [
+          189.67256985438803,
+          113.23101141282957
+        ],
+        [
+          176.16607634789452,
+          106.21802439984256
+        ],
+        [
+          164.47776465958282,
+          106.73750491932309
+        ],
+        [
+          156.68555686737503,
+          102.84140102321919
+        ],
+        [
+          151.7504919323101,
+          102.06218024399841
+        ],
+        [
+          148.89334907516724,
+          103.62062180243997
+        ],
+        [
+          141.3608815426997,
+          106.21802439984256
+        ],
+        [
+          137.66226109699755,
+          107.50661907365125
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

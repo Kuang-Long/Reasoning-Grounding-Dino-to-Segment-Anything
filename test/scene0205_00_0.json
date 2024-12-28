@@ -1,0 +1,56 @@
+{
+  "text": [
+    "When you finish your business in the bathroom and want to store items such as towels, where should you put them?",
+    "When finishing your business in the bathroom and you need to store items such as towels, where is the ideal location to place them?",
+    "After you finish using the bathroom and would like to store items such as towels, where would be the appropriate location to put them in this image?",
+    "If you have finished using the bathroom and wish to store items such as towels, where is the appropriate place to keep them in the picture?",
+    "Where is the ideal location to store items like towels when you are finished using the bathroom?",
+    "After using the bathroom, where should you place items such as towels?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0205_00_0.jpg",
+      "points": [
+        [
+          0.09826589595375879,
+          139.3121387283237
+        ],
+        [
+          221.48554913294797,
+          127.75144508670522
+        ],
+        [
+          223.50867052023122,
+          124.57225433526011
+        ],
+        [
+          227.84393063583815,
+          0.0
+        ],
+        [
+          0.3872832369942216,
+          0.5838150289017339
+        ],
+        [
+          0.0,
+          139.3121387283237
+        ],
+        [
+          0.0,
+          140.17919075144508
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

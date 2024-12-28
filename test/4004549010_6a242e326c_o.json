@@ -1,0 +1,80 @@
+{
+  "text": [
+    "In equestrian sports, riders and horses need to overcome obstacles to complete a course. What in the picture can be used as an obstacle for the rider and horse to jump over?",
+    "In the context of equestrian sports, what is an obstacle that a rider and their horse could jump over, based on the picture provided?",
+    "In equestrian sports, riders and their horses must navigate and overcome obstacles to complete a course. What object in the picture could be utilized as an obstacle for the rider and horse to jump over?",
+    "What object(s) in the picture could be used as obstacles for riders and horses to jump over, in equestrian sports?",
+    "In equestrian sports, riders and horses face various obstacles that they must overcome to complete a course. Please identify the object in the picture that could be used for the rider and horse to jump over as an obstacle.",
+    "During equestrian sports, riders and their horses must navigate various obstacles to complete a course. What object or feature could potentially be used as an obstacle for the rider and horse to jump over, based on the picture?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "4004549010_6a242e326c_o.jpg",
+      "points": [
+        [
+          663.5294117647059,
+          930.1470588235294
+        ],
+        [
+          571.6176470588234,
+          928.6764705882352
+        ],
+        [
+          507.6470588235294,
+          926.470588235294
+        ],
+        [
+          412.0588235294117,
+          922.0588235294117
+        ],
+        [
+          301.02941176470586,
+          919.8529411764705
+        ],
+        [
+          178.23529411764702,
+          917.6470588235294
+        ],
+        [
+          67.20588235294116,
+          916.1764705882352
+        ],
+        [
+          0.0,
+          916.1764705882352
+        ],
+        [
+          0.0,
+          974.9999999999999
+        ],
+        [
+          202.49999999999994,
+          973.5294117647059
+        ],
+        [
+          369.4117647058823,
+          972.7941176470588
+        ],
+        [
+          517.2058823529411,
+          974.9999999999999
+        ],
+        [
+          664.0,
+          979.4117647058823
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

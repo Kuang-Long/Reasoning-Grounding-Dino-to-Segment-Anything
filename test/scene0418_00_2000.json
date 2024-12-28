@@ -1,0 +1,178 @@
+{
+  "text": [
+    "The winter cold can be unbearable, especially when indoors. What can be used indoors to effectively raise the indoor temperature?",
+    "During the winter season, the cold weather can sometimes be unbearable when inside. Can you identify what object could be used indoors to effectively raise the indoor temperature?",
+    "When indoors and trying to raise the temperature to more tolerable levels during winter, what is an effective option that may be utilized?",
+    "How can one effectively raise the indoor temperature when it's unbearably cold during winter while inside?",
+    "In order to make a warm home during the winter, what household item could be used indoors to effectively improve the indoor temperature?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0418_00_2000.jpg",
+      "points": [
+        [
+          298.48618784530385,
+          190.79005524861878
+        ],
+        [
+          307.3259668508287,
+          192.44751381215468
+        ],
+        [
+          316.7182320441989,
+          200.73480662983425
+        ],
+        [
+          315.88950276243094,
+          230.01657458563534
+        ],
+        [
+          307.3259668508287,
+          239.0
+        ],
+        [
+          246.5524861878453,
+          239.0
+        ],
+        [
+          277.21546961325964,
+          206.53591160220995
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0418_00_2000.jpg",
+      "points": [
+        [
+          140.1988950276243,
+          181.12154696132595
+        ],
+        [
+          141.26760563380282,
+          187.04225352112675
+        ],
+        [
+          146.4788732394366,
+          189.2957746478873
+        ],
+        [
+          165.91549295774647,
+          195.35211267605632
+        ],
+        [
+          189.43661971830986,
+          200.56338028169012
+        ],
+        [
+          200.8450704225352,
+          203.94366197183098
+        ],
+        [
+          206.4788732394366,
+          205.63380281690138
+        ],
+        [
+          218.49462365591395,
+          220.86021505376343
+        ],
+        [
+          222.15053763440858,
+          221.72043010752685
+        ],
+        [
+          230.32258064516128,
+          224.3010752688172
+        ],
+        [
+          244.94623655913978,
+          226.66666666666666
+        ],
+        [
+          250.75268817204298,
+          230.10752688172042
+        ],
+        [
+          254.62365591397847,
+          228.6021505376344
+        ],
+        [
+          246.88172043010752,
+          223.6559139784946
+        ],
+        [
+          234.19354838709677,
+          221.0752688172043
+        ],
+        [
+          219.99999999999997,
+          217.63440860215053
+        ],
+        [
+          217.41935483870967,
+          214.19354838709677
+        ],
+        [
+          207.52688172043008,
+          201.93548387096772
+        ],
+        [
+          197.2043010752688,
+          199.13978494623655
+        ],
+        [
+          186.23655913978493,
+          195.91397849462365
+        ],
+        [
+          180.64516129032256,
+          195.91397849462365
+        ],
+        [
+          173.33333333333331,
+          193.11827956989245
+        ],
+        [
+          166.02150537634407,
+          190.96774193548384
+        ],
+        [
+          163.2258064516129,
+          191.39784946236557
+        ],
+        [
+          151.8279569892473,
+          187.74193548387095
+        ],
+        [
+          143.01075268817203,
+          184.94623655913978
+        ],
+        [
+          142.79569892473117,
+          181.0752688172043
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

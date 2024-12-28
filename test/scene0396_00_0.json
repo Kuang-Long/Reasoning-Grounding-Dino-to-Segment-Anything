@@ -1,0 +1,80 @@
+{
+  "text": [
+    "In order to use the toilet seat, what object should be lifted first?",
+    "What should be lifted first to use the toilet seat?",
+    "What object needs to be lifted first before using the toilet seat, typically?",
+    "What should a person lift first before using the toilet seat?",
+    "When using the toilet seat, what should be lifted first?",
+    "What object do you need to lift first in order to use the toilet seat?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0396_00_0.jpg",
+      "points": [
+        [
+          121.42857142857142,
+          128.8095238095238
+        ],
+        [
+          129.76190476190476,
+          151.9047619047619
+        ],
+        [
+          141.19047619047618,
+          162.14285714285714
+        ],
+        [
+          162.85714285714286,
+          171.9047619047619
+        ],
+        [
+          178.33333333333331,
+          176.19047619047618
+        ],
+        [
+          195.7142857142857,
+          176.66666666666666
+        ],
+        [
+          210.0,
+          170.23809523809524
+        ],
+        [
+          216.9047619047619,
+          163.57142857142856
+        ],
+        [
+          218.8095238095238,
+          154.76190476190476
+        ],
+        [
+          213.8095238095238,
+          141.66666666666666
+        ],
+        [
+          199.76190476190476,
+          125.47619047619047
+        ],
+        [
+          174.76190476190476,
+          113.33333333333333
+        ],
+        [
+          160.47619047619048,
+          108.57142857142857
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

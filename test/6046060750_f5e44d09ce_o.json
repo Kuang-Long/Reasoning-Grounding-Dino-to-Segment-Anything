@@ -1,0 +1,39 @@
+{
+  "text": [
+    "the objects that are significantly different in placement and orientation from other objects"
+  ],
+  "is_sentence": false,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "6046060750_f5e44d09ce_o.jpg",
+      "points": [
+        [
+          96.17365269461078,
+          355.0898203592815
+        ],
+        [
+          500.96407185628743,
+          347.90419161676647
+        ],
+        [
+          509.9461077844312,
+          583.8323353293414
+        ],
+        [
+          102.16167664670661,
+          583.8323353293414
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

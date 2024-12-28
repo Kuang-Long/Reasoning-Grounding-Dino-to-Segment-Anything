@@ -1,0 +1,48 @@
+{
+  "text": [
+    "When entering a building, what structure do people usually use to go from one room to another?",
+    "When moving from one room to another, what architectural feature do people typically utilize to transition between rooms when entering a building?",
+    "What structure is typically used by people to transition from one room to another when entering a building?",
+    "What kind of feature do individuals normally utilize to move from one room to another when entering a building?",
+    "What architectural element would people typically use to move from one room to another when entering a building?",
+    "When entering a building, what structure is typically used to move from one room to another?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0152_02_3000.jpg",
+      "points": [
+        [
+          99.04780876494021,
+          45.96015936254979
+        ],
+        [
+          91.87649402390437,
+          239.0
+        ],
+        [
+          291.07968127490034,
+          239.0
+        ],
+        [
+          296.65737051792826,
+          42.37450199203187
+        ],
+        [
+          295.4621513944223,
+          40.7808764940239
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

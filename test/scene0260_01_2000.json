@@ -1,0 +1,92 @@
+{
+  "text": [
+    "What object in the bathroom can be used to cover the toilet bowl when not in use?",
+    "What is the object commonly used to cover the toilet bowl when the toilet is not in use, located in the bathroom?",
+    "What object in the bathroom is used for covering the toilet bowl when not in use?",
+    "What object is commonly used to cover a toilet bowl when it is not being used in a bathroom setting?",
+    "What can be used to cover the toilet bowl in the bathroom when it is not in use?",
+    "What can be used to cover the toilet bowl when not in use that is present in the bathroom?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0260_01_2000.jpg",
+      "points": [
+        [
+          85.21505376344085,
+          0.838709677419355
+        ],
+        [
+          81.45161290322581,
+          13.741935483870968
+        ],
+        [
+          78.2258064516129,
+          36.86021505376344
+        ],
+        [
+          78.49462365591397,
+          62.397849462365585
+        ],
+        [
+          84.6774193548387,
+          89.27956989247312
+        ],
+        [
+          102.1505376344086,
+          112.12903225806451
+        ],
+        [
+          111.29032258064515,
+          121.53763440860214
+        ],
+        [
+          116.39784946236558,
+          126.3763440860215
+        ],
+        [
+          122.58064516129032,
+          126.10752688172042
+        ],
+        [
+          134.13978494623655,
+          118.31182795698925
+        ],
+        [
+          176.34408602150538,
+          89.01075268817203
+        ],
+        [
+          176.88172043010752,
+          79.87096774193547
+        ],
+        [
+          180.10752688172042,
+          45.73118279569892
+        ],
+        [
+          179.56989247311827,
+          34.17204301075269
+        ],
+        [
+          173.11827956989245,
+          7.29032258064516
+        ],
+        [
+          169.08602150537632,
+          0.30107526881720403
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

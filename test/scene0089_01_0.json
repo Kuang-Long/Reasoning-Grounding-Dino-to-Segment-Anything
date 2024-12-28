@@ -1,0 +1,107 @@
+{
+  "text": [
+    "If you want to keep important documents in order and don't want to lose them, where should you place them?",
+    "Where is the most suitable place to keep important documents in good order and to avoid loss?",
+    "As a personal assistant, where would you suggest your owner to place important documents to keep them organized and secure?",
+    "Where should you place important documents if you want to keep them organized and avoid misplacing them?",
+    "If you would like to keep your important documents in order and minimize the risk of misplacing them, where would be an appropriate place to store them?",
+    "Where should you store important documents to keep them organized and prevent losing them?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0089_01_0.jpg",
+      "points": [
+        [
+          45.08050089445438,
+          116.45796064400716
+        ],
+        [
+          60.46511627906977,
+          186.22540250447227
+        ],
+        [
+          85.68872987477639,
+          188.7298747763864
+        ],
+        [
+          88.37209302325581,
+          183.89982110912345
+        ],
+        [
+          88.01431127012522,
+          171.55635062611807
+        ],
+        [
+          92.12880143112702,
+          168.51520572450806
+        ],
+        [
+          99.64221824686942,
+          169.05187835420395
+        ],
+        [
+          106.26118067978534,
+          156.52951699463327
+        ],
+        [
+          114.4901610017889,
+          150.26833631484794
+        ],
+        [
+          112.88014311270126,
+          120.57245080500894
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0089_01_0.jpg",
+      "points": [
+        [
+          255.41868512110727,
+          130.20415224913495
+        ],
+        [
+          244.0,
+          207.71280276816609
+        ],
+        [
+          247.11418685121106,
+          209.44290657439444
+        ],
+        [
+          318.0484429065744,
+          216.01730103806227
+        ],
+        [
+          317.7024221453287,
+          178.99307958477507
+        ],
+        [
+          317.7024221453287,
+          132.62629757785467
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

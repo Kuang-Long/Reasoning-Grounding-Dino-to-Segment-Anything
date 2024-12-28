@@ -1,0 +1,123 @@
+{
+  "text": [
+    "When we manipulate an electronic document, what peripheral device do we need to enter data or instruction?",
+    "When manipulating an electronic document, what peripheral device would typically be utilized to enter data or commands?",
+    "When manipulating an electronic document, what peripheral input device is needed for entering data or instructions?",
+    "When manipulating an electronic document, what peripheral device is typically used for inputting data or instructions?",
+    "When manipulating an electronic document, what peripheral device do we typically use to enter data and instructions?",
+    "When working with an electronic document, which peripheral device is necessary to input data or instructions?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0126_02_2000.jpg",
+      "points": [
+        [
+          170.25641025641025,
+          161.43589743589743
+        ],
+        [
+          163.5897435897436,
+          176.51282051282053
+        ],
+        [
+          162.87179487179486,
+          178.35897435897436
+        ],
+        [
+          162.97435897435898,
+          180.6153846153846
+        ],
+        [
+          256.0,
+          192.6153846153846
+        ],
+        [
+          256.20512820512823,
+          187.69230769230768
+        ],
+        [
+          256.0,
+          179.5897435897436
+        ],
+        [
+          255.28205128205127,
+          177.33333333333334
+        ],
+        [
+          255.48717948717947,
+          170.76923076923077
+        ],
+        [
+          254.15384615384616,
+          170.35897435897436
+        ],
+        [
+          179.3846153846154,
+          161.94871794871796
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0126_02_2000.jpg",
+      "points": [
+        [
+          146.3,
+          164.3
+        ],
+        [
+          142.8,
+          166.8
+        ],
+        [
+          141.56521739130434,
+          173.04347826086956
+        ],
+        [
+          142.1,
+          177.1
+        ],
+        [
+          145.7391304347826,
+          179.1304347826087
+        ],
+        [
+          151.65217391304347,
+          178.95652173913044
+        ],
+        [
+          155.1304347826087,
+          176.52173913043478
+        ],
+        [
+          155.3,
+          166.8
+        ],
+        [
+          151.2,
+          164.9
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

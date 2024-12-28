@@ -1,0 +1,87 @@
+{
+  "text": [
+    "After a day of tiring work and travel, what object in this hotel room can be used to rest on for relaxation?",
+    "After a long day of work and travel, what can you utilize to unwind and relax in this hotel room?",
+    "After a long day of work and travel, what item in the hotel room would you suggest your guests use to relax and rest on?",
+    "After a long day of work and travel, what piece of furniture in this hotel room could be utilized to relax and rest on?",
+    "If you need to rest and relax after a long day of work and travel, what is an object in the hotel room that can be utilized?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0362_03_0.jpg",
+      "points": [
+        [
+          47.87012987012987,
+          156.36363636363637
+        ],
+        [
+          49.16883116883117,
+          160.5194805194805
+        ],
+        [
+          40.5974025974026,
+          170.3896103896104
+        ],
+        [
+          44.493506493506494,
+          189.6103896103896
+        ],
+        [
+          121.37662337662337,
+          195.58441558441558
+        ],
+        [
+          121.63636363636364,
+          198.96103896103895
+        ],
+        [
+          126.83116883116884,
+          198.96103896103895
+        ],
+        [
+          133.06493506493507,
+          198.44155844155844
+        ],
+        [
+          134.88311688311688,
+          198.44155844155844
+        ],
+        [
+          135.92207792207793,
+          190.64935064935065
+        ],
+        [
+          155.66233766233765,
+          134.80519480519482
+        ],
+        [
+          154.88311688311688,
+          49.61038961038961
+        ],
+        [
+          150.46753246753246,
+          47.01298701298701
+        ],
+        [
+          0.07792207792207773,
+          39.22077922077922
+        ],
+        [
+          0.33766233766233755,
+          150.3896103896104
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

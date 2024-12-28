@@ -1,0 +1,97 @@
+{
+  "text": [
+    "Given that the decor in this picture is mainly furniture required for teaching, what furniture is mainly used for writing something in front of the students?",
+    "Since the decor in this picture mainly consists of furniture required for teaching, please identify the piece of furniture most commonly utilized for writing something in front of the students.",
+    "Considering that the decor in the picture is primarily classroom furniture, which piece is generally employed to write or present in front of students?",
+    "Regarding the furnishings depicted in this picture, which piece of furniture is primarily utilized for writing in front of students during the teaching process?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0030_02_0.jpg",
+      "points": [
+        [
+          0.8327759197324411,
+          0.7826086956521721
+        ],
+        [
+          3.8428093645484935,
+          109.81270903010034
+        ],
+        [
+          63.04013377926421,
+          81.71906354515049
+        ],
+        [
+          59.89974937343358,
+          79.69924812030075
+        ],
+        [
+          55.13784461152882,
+          79.19799498746866
+        ],
+        [
+          45.360424028268554,
+          2.229681978798588
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0030_02_0.jpg",
+      "points": [
+        [
+          85.64310954063603,
+          1.8763250883392217
+        ],
+        [
+          91.65017667844523,
+          61.94699646643109
+        ],
+        [
+          107.90459363957598,
+          57.35335689045937
+        ],
+        [
+          131.57950530035336,
+          57.0
+        ],
+        [
+          157.37455830388691,
+          60.886925795053
+        ],
+        [
+          163.38162544169612,
+          65.12720848056537
+        ],
+        [
+          318.85865724381625,
+          65.12720848056537
+        ],
+        [
+          319.0,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}
