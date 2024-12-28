@@ -1,19 +1,17 @@
-import re
+import re 
+import torch
 from PIL import Image
 from utils import draw_masks
-from models import Llava, Llama, QuestionDetector, BoundingBoxSAM
+from models import Llava, Llama, BoundingBoxSAM
 
 def main(inp, image_path, image_url):
     image = Image.open(image_path).convert('RGB')
-    llava = Llava()
-    llama = Llama()
-    qd = QuestionDetector()
 
-    # 步驟1：使用LLaVA描述圖片
+    # Step 1: Use LLaVA to describe the image
     description = llava.chat(image, inp, is_question=None)
     print('Description:', description)
 
-    # 步驟2：使用LLaMA從描述中萃取物件清單
+    # Step 2: Use LLaMA to extract a list of objects from the description
     extract_system_prompt = """You are a helpful assistant that reads a description of an image and extracts all distinct mentioned objects.
         Only output a numbered list of objects, one per line, no extra text, no explanations.
         If no objects are mentioned, write nothing.
@@ -33,13 +31,13 @@ def main(inp, image_path, image_url):
     extracted = llama.chat(extract_prompt)
     print('Extracted objects (raw):', extracted)
 
-    # 使用正則解析物件列表
+    # Use regex to parse the object list
     pattern = r"^\d+\.\s*(.*)$"
     candidates = re.findall(pattern, extracted.strip(), flags=re.IGNORECASE | re.MULTILINE)
     candidates = [c.strip() for c in candidates if c.strip()]
     print("Candidates:", candidates)
 
-    # 若 candidates 為空嘗試一次重試
+    # Retry if candidates list is empty
     if not candidates:
         extract_user_prompt_retry = f"""
             Below is the image description again. Just list the objects, nothing else.
@@ -63,28 +61,25 @@ def main(inp, image_path, image_url):
     if not candidates:
         candidates = []
 
-    # 步驟3：依據使用者的prompt選擇最符合的候選物件
-    # 此階段僅告訴LLaMA要選出最符合描述的物件，無特定範例（泛用）
+    # Step 3: Use the user's prompt to select the best matching candidate object
     refine_system_prompt = """You have a list of candidate objects from an image and a user request (prompt).
         Your job is to pick the single best matching object name from the candidate list, based strictly on the prompt.
-        Only output the object name itself or "none" if no suitable match.
-        Do not add any explanations, just output the single best matching object or "none".
+        Only output the object name itself or \"none\" if no suitable match.
+        Do not add any explanations, just output the single best matching object or \"none\".
         """
     refine_user_prompt = f"""
         Candidate objects: {', '.join(candidates)}
-        User prompt: "{inp}"
+        User prompt: \"{inp}\"
 
         Which candidate best matches the user's request?
-        If no candidate matches, output "none".
+        If no candidate matches, output \"none\".
     """
     refine_prompt = refine_system_prompt + "\n\n" + refine_user_prompt
     final_ans = llama.chat(refine_prompt)
     print("Refined final answer:", final_ans)
 
     final_object = final_ans.strip()
-    # 確保 final_object 在 candidates 中或為 "none"
     if final_object.lower() not in [c.lower() for c in candidates] and final_object.lower() != "none":
-        # 若不在名單中也不是none，嘗試簡單近似匹配
         lowered_candidates = [c.lower() for c in candidates]
         if final_object.lower() not in lowered_candidates:
             approximate = [c for c in candidates if final_object.lower() in c.lower()]
@@ -95,20 +90,25 @@ def main(inp, image_path, image_url):
 
     print(f"Final object for BoundingBoxSAM: {final_object}")
 
-    # 步驟4：使用 BoundingBoxSAM 執行分割
-    
+    # Use BoundingBoxSAM for segmentation
     image_name = str(image_path).split('/')
     image_name = image_name[len(image_name) - 1]
     output_path=f'output_images/{image_name}'
     output_mask_path=f'output_images/masks/{image_name}'
-    token = "e68a3624c8ab6b42c4de6f9b5cfb8b67"  # 替換為您的 token
-    bbox_sam = BoundingBoxSAM(token=token)
     output, masks = bbox_sam.process_image(image_url, image_path, final_object)
     output.save(output_path)
     draw_masks(masks, output_mask_path)
+    torch.cuda.empty_cache()
+    torch.cuda.synchronize()
+
 
 # Example usage
 if __name__ == "__main__":
+    llava = Llava()
+    llama = Llama()
+    
+    token = "your token"  # replace with token
+    bbox_sam = BoundingBoxSAM(token=token)
     while(True):
         inp = input('Prompt: ')
         image_path = input('Image path: ')
