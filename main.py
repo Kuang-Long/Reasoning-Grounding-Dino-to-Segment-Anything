@@ -4,6 +4,7 @@ from models import Llava
 from models import Llama
 from models import QuestionDetector
 from models import LangSAM
+import numpy as np
 
 def main(inp, image_path):
     # load image
